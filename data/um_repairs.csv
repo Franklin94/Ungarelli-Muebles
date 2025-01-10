@@ -1,0 +1,2083 @@
+id,clientId,created_at,updated_at,description,job,price,comments,status,paymentSign
+2,2,"2021-06-16 23:33:47","2021-07-27 14:58:33","Silla 8500 , 4 patas, azul","Soldar estructura",1700,"AVISADO X W APP 22/07/21",Entregada,1000
+3,3,"2021-06-17 17:14:28","2021-07-02 19:00:18","Sillon gerencial mediano, negro","Retapizar asiento,ruedas, chapòn, colocar arandelas y cilindro",8450,"Autorizò reparaciòn el 24/06 por w app",Entregada,NULL
+4,4,"2021-06-17 19:10:57","2021-07-28 17:19:44","Silla tipo Tyson violeta/ agregar prolong. $ 500","Cambiar cilindro y prolongaciòn.",3600,"Avisada x w app",Entregada,1000
+5,5,"2021-06-17 19:14:12","2021-06-22 19:47:23","Silla Ergo negra",Cilindro,3000,Avisado,Entregada,1000
+6,6,"2021-06-18 15:00:37","2021-07-02 19:04:19","Silla tipo Rody alta color roja tela",chapòn,2000,"Chapòn solo",Entregada,NULL
+8,7,"2021-06-18 16:35:38","2021-08-17 15:32:58","12 Sillas variadas","Ver en cuaderno/ falta pago",65690,"Enviè w app con precio y presupuesto detallado al mail. Numeraciòn de sillas: 0258 (1) / 0052 (2) / (3) 1459 / 0458 (4) / (5) sin numerar / 1458 (6) / 1437 (7) / 1445 (8) / 1584 (9) / 0474 (10) / 0710 (11) / 0505 (12)",Entregada,NULL
+9,8,"2021-06-19 16:20:34","2021-06-26 15:28:53","Sillon tipo mesh","Cilindro y basculante",8070,"Basculante: $4970 y cilindro $3100
+AVISADA",Entregada,2000
+10,9,"2021-06-22 13:17:55","2021-07-01 15:56:03","Silla tipo red","Colocar 4 tornillos c/arandela en respaldo, abrir y cerrar tapizado para colocar 2 insertos nuevos.",1100,"Autorizò reparaciòn 25/06  x w app
+AVISADO 29/06/21",Entregada,NULL
+11,10,"2021-06-22 14:37:25","2021-06-22 16:50:17","Sillon Gammer Rojo",Cilindro,3100,NULL,Entregada,180
+13,12,"2021-06-22 17:14:19","2021-06-30 17:19:21","Sillon gerencial Negro","Cilindro, ruedas y repar. en inserto apoyabrazos.",4650,AUTORIZADO,Entregada,NULL
+14,13,"2021-06-22 19:13:03","2021-07-28 17:18:21","Silla Alma blanca","cambiar cilindro",0,"La comprò acà, està en garantìa
+AVISADO 01/07",Entregada,NULL
+15,5,"2021-06-22 19:46:56","2021-06-30 19:34:17","Silla Ergo gris","Cambiar cilindro y revisar",3100,NULL,Entregada,NULL
+16,14,"2021-06-23 19:40:49","2021-07-08 15:03:49","Silla azul baja moderna","Cilindro y relleno",4600,"La trajo vecino Jorge 2235039618 . Autorizò x w app el 25/06",Entregada,NULL
+17,15,"2021-06-24 15:27:20","2021-06-25 19:45:24","Sillòn C chico","Cambiar chapòn",1900,AVISADO,Entregada,NULL
+18,16,"2021-06-25 15:47:07","2021-08-09 18:30:52","Sillòn tipo C chico c/casco marròn","Cotizar base completa neum. y tornillos en respaldo",7150,"Base neumàtica completa y tornillos respaldo  $ 7150.- 
+AVISADO X W APP",Entregada,NULL
+19,17,"2021-06-25 19:49:21","2021-09-10 19:56:34","Sillatipo Red","Ruedas, retapizar asiento y funda en parte superior de respaldo, 1 apoyabrazos usado.",5350,"avisado 22/7- 01/09",Entregada,NULL
+20,18,"2021-06-26 14:06:13","2021-07-06 17:28:27","Silla tipo R con chapòn U","cambiar cilindro",3100,"AUTORIZADA
+Avisado 30/06 y facturada a Mònica Juan ,  enviada x mail.",Entregada,NULL
+21,19,"2021-06-26 15:42:07","2021-09-02 16:32:32","Silla tipo NV 5 roja","Colocar apoyas oval y armar",1770,"AVISADA X W APP 28/06",Entregada,NULL
+22,20,"2021-06-26 15:55:53","2021-09-02 16:32:02","Sillòn Mesh cromado",Cilindro,3100,"AVISADO X W APP  28/06",Entregada,NULL
+23,21,"2021-06-29 18:11:51","2021-09-02 16:31:37","1 Silla Diva y 1 Silla R baja","1) Retapizado y cilindro  2) Retapizado, 2 tornillos y cilindro",12500,"Avisada x w app  03/07/21
+Retapizado en Pana Blue / Tabaco ò Sepia
+Cataluña 6165 ( y Rojas ) cobrar flete. Precio de contado.",Entregada,NULL
+24,22,"2021-06-29 18:47:12","2021-07-01 15:34:47","Sillòn C chico c/gris","Fijar altura en màx.  y cambiar chapòn.",3100,"Fijar altura $ 1600.-
+Chapòn $ 1500.-
+Avisado x w app 30/06",Entregada,200
+25,23,"2021-06-30 16:32:50","2021-07-02 20:04:12","Silla Fresa blanca resp. naranja",Cilindro,3100,"AUTORIZADO
+Avisado por w app 30/06",Entregada,1000
+26,24,"2021-06-30 18:21:29","2021-09-28 18:04:50","Silla RR alta negra","Colocar chapòn con U y cambiar inserto (abrir y cerrar tapizado)",2600,"Enviè un mensaje consultando x cambio de ruedas ( $ 1250.- ) 03/07/21
+AVISADO 21/07",Entregada,NULL
+27,25,"2021-06-30 19:48:45","2021-08-18 16:24:52","Sillòn Mesh cromado","Fabricar interno asiento c/insertos, abrir y cerrar tapizado.",3500,"Enviè w app 03/07/21
+AVISADO",Entregada,NULL
+28,26,"2021-07-01 15:52:10","2021-07-21 16:01:22","1 Silla Gerencial negra --  1 Silla operativa con red","1 - Cilindro y ruedas  2- basculante, cilindro y ruedas",13670,"Enviè w app 03/07/21 AUTORIZADO
+Terminada 12/7/21, AVISAR",Entregada,NULL
+29,27,"2021-07-02 14:29:00","2021-07-27 20:03:55","1- Sillon Aluminio Bajo   2.- Sillon aluminio bajo","1- Cilindro, basculante y ruedas   2.- Cilindro, basculante y Ruedas   ..... Revisar por si hay algo mas",18640,"Con el tapizado no podemos hacer nada.
+Enviè w app 03/07/21
+AUTORIZADO 03/07/21
+AVISADO 19/7/21",Entregada,NULL
+30,28,"2021-07-02 14:31:50","2021-07-22 13:55:08","Sillon gerencial negro","Estrella, tapizar asiento grande, y arandela en chapòn.",4250,"Enviè w app  03/07/21
+AUTORIZADO TRAE RUEDA FALTANTE
+AVISADO 13/07/21",Entregada,NULL
+31,29,"2021-07-06 15:10:21","2021-07-10 16:41:38","Base cromada","Cambio de cilindro",3100,"Avisè que no se puede sacar la carcaza del cilindro  y  que se puede cambiar lo de adentro,  va  a quedar con un poco de juego.
+AUTORIZADO / AVISADO",Entregada,1000
+32,30,"2021-07-07 15:28:59","2021-07-22 15:01:47","Sillòn gerencial","Se cambiò cilindro y se suplementò c/aluminio en el chapòn.",3800,"Puede ser el chapòn pasado. ver DE SUPLEM. CHAPÒN.
+AUTORIZADO",Entregada,NULL
+33,31,"2021-07-07 18:17:14","2021-07-13 17:53:04","Sillòn gerencial negro c/estructura de caño","Retapizado y cilindro",7600,terminado-avisado,Entregada,2000
+34,32,"2021-07-08 15:03:08","2021-08-20 15:08:12","4 Sillas tipo Rody Alta , negras con apoyabrazos","RevisaVer cuaderno",19700,"Pasar presupuesto al 2235277866 Roxana
+AUTORIZADO 21/07
+AVISADO /Hacen transferencia y luego retiran.",Entregada,NULL
+35,33,"2021-07-08 16:35:34","2021-07-20 17:33:27","3 sillòn Aluminio bajo","1) cilindro y soldar 2) cilindro 3) cilindro, soldar y tornillo",11000,"AUTORIZADO y avisado",Entregada,NULL
+36,34,"2021-07-08 17:19:33","2021-08-17 14:37:15","4  Sillas tipo  " 8500 " fijas, en tela negra.",Retapizado,12400,"Ver tela negra c/POLI",Entregada,NULL
+37,35,"2021-07-08 18:00:16","2021-08-17 14:41:42","3 Sillones gerenciales en Ecocuero negro y 1 sillòn en tela negra.","Revisar y arreglar ( ver cuaderno )",25600,"Hice 1 llamado, preguntar x Sr. Anglada",Entregada,NULL
+38,36,"2021-07-10 14:35:55","2021-07-28 14:41:28","Sillòn gerencial tipo Trento cromado","Revisar inclinaciòn hacia adelante",5200,"AUTORIZADO
+AVISADO",Entregada,NULL
+39,37,"2021-07-10 15:20:24","2021-08-17 14:43:08","Silla Rody alta","Retapizar asiento, ruedas y tornillos",3000,"Lo màs econòmico posible
+AVISADO",Entregada,NULL
+40,38,"2021-07-10 15:36:48","2021-08-17 14:43:59","Silla 7010 , sin apoyas, en tela jaspeada verde","Retapizado, cilindro, canasto, y chapòn.",9400,"Silla igual nueva le sale $ 13400.-
+Enviè w app 21/07. NO SE HACE",Entregada,NULL
+41,39,"2021-07-12 14:25:15","2021-09-28 18:05:46","Sillon gerencial bordo con pintas","Reparar inserto apoyab. derecho y tornillo basculante",1500,NULL,Entregada,NULL
+42,40,"2021-07-12 14:50:49","2021-07-19 18:22:19","2 SILLAS ROTAS",Revisar,800,"Armar 1 silla con las 2
+AVISADA",Entregada,NULL
+43,41,"2021-07-12 16:38:04","2021-08-04 20:00:19","3 sillas operativas ( 1 desarmada )","Sollas 1) y 3) fijar altura. Sillòn 2) Basculante, Retapizado, completo, fijar altura colocando carcaza y 1 rueda.",15600,"ENVIE W APP 16/07/21. Confirmo las sillas a dejar fijas.
+AUTORIZADO
+ENTREGADO 15600 + 10 % por pago en 12
+AVISADO",Entregada,NULL
+44,42,"2021-07-12 17:59:20","2021-09-29 19:21:16","Silla Ergo sin apoyabrazos, negra","falta avisar",5170,"RUEDAS
+CILINDRO
+Fijar c/tuercas respaldo
+SUPLEMENTAR ARANDELA (Conseguir perilla) del contacto permanente
+AVISADO X W APP",Entregada,NULL
+45,43,"2021-07-13 17:32:43","2021-12-11 16:36:14","Debe 2 cilindros $ 5000.- al 13/07/21/Pagò $ 25000.- el 16/07/21/ Llevò 2 Tyson completos 24/07/21. Retiro 1 cilindro 26/04 impago.Retirò 2 resp. completos y 3 ruedas 29/07/21. Retirò 1 cilindro y pagò 3500.- 03/08/21. /pagò $ 900.- / Debe $ 2750.- al 04/08/21 / Pagò y llevò 9 cil. $ 24750.- /Llevò 14/08/21  3 
+contactos, 1 cilindro y 5 ruedas pagò $ 18860.- debe $ 750.- / Pagò $ 34010.- 25/08/21 ( llevò 4 resp. comp., 1 contacto, 2 cilindros 8 ruedas y 3 estrella mediana ). Debe $ 2550.- en total/  19/08 devolviò 1 contacto y saldò con $ 2580.- / llevò 1 rueda y pagò. / Levò cilindro extra largo, debe $ 3900.- PAGADO 16/09/21. tiene $ 40 a favor. 21/09/21 lleva 1 cilindro ( debe)/pagado. / 08/12/21 llevò 5 cilindros,2 respaldos comp., 2 estrellas y 3 contactos. $ 42370.-/PAGADO","Venta de repuestos",0,"Precios a partir del 13/07/21 : cilindro $ 2750.- / $ 1600.- /Contacto $ 3670.- / Basculante $ 4500.- /ruedas $ 300.-/ estrella chica $ 1100.-/estrella grande $ 1480.-/chapòn $ 1600.-/ Respaldo Tyson completo c/contacto 
+PRECIOS A PARTIR DEL 14/09/21 : Estrella mediana $ 1680.- / Cilindro neumàtico $ 2950.- / Ruedas $ 330.- / Contacto permanente $ 4030.- / Chapòn $ 1800.- / Respaldo completo $ 5100.- / Equipo giratorio $ 2000.-",Entregada,NULL
+46,44,"2021-07-13 19:03:59","2021-07-29 15:23:07","Silla tipo Candy Operative negra","Estrella grande araña y ruedas",3400,"Colocar estrella araña y 5 ruedas
+PAGADO",Entregada,NULL
+47,45,"2021-07-14 12:57:50","2021-07-19 18:43:31","Silla marròn clara con apoyas",Revisar,03100,"Ingresa 13/7
+Tipo complicado !!",Entregada,0
+48,46,"2021-07-14 12:59:51","2021-08-17 14:47:46","Silla tipo 7010 puntino azul, no-neumàtica, sin apoyas","Cambiar estructura y tapizar en Ecocuero Talampaya gris claro",5400,"Ingresa 13/7
+Pasè presupuesto 30/07/21",Entregada,0
+49,47,"2021-07-14 19:07:38","2021-08-17 14:50:30","Silla cromada c/cuero blanco","Reparaciòn respaldo",3600,"AUTORIZADO
+AVISADO 24/07 POR W APP",Entregada,1500
+50,48,"2021-07-14 19:57:46","2021-07-27 14:51:45","Silla Mesh mediana","Consultar por funda Mesh",2800,"Hacer funda Mesh
+AUTORIZADO",Entregada,NULL
+51,49,"2021-07-15 14:22:41","2021-07-20 13:36:22","Silla china","Cambio de cilindro",3100,NULL,Entregada,NULL
+52,50,"2021-07-15 15:11:41","2021-09-02 16:29:16","2 Sillas respaldo red negras c/apoyas - 1 Banqueta blanca","1) Cilindro e interno en madera 2)Interno completo  3) Tornillos, aceitar, limpiar",10700,"AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+53,51,"2021-07-16 14:29:34","2021-08-11 14:09:10","Silla RR alta negra","Cilindro y bulòn en c. permanente",4100,NULL,Entregada,NULL
+54,52,"2021-07-19 16:45:47","2021-08-02 14:08:10","Silla estructura metàlica gris, resp. y apoyas en madera.","cilindro, retap.y rell. asiento y tornillos",5500,"AUTORIZADO
+Retapizar en Pana celeste ò gris ò tabaco ( Camel )
+AVISADO",Entregada,500
+55,53,"2021-07-21 14:48:04","2021-09-02 16:28:41","Silla NV-5","Retapizar asiento y cambiar chapòn.",3500,"Enviè w app 24
+PAGADO",Entregada,NULL
+56,54,"2021-07-21 14:56:42","2021-08-02 16:02:05","Sillòn gerencial Trento","Fijar altura en màximo",0,"AVISADA POR WP",Entregada,NULL
+57,55,"2021-07-22 18:39:45","2021-08-17 14:54:08","Silla Alma Gris/Visòn","Revisar cilindro",0,"SIN CARGO",Entregada,NULL
+58,56,"2021-07-23 16:20:35","2021-08-26 15:23:16","Sillon gerencial Negro","Revisar . Ver estrella, ruedas. retapizar (pasan el color de ecocuero). Pasar presupuesto",7500,"Retapizado en Talampaya 379
+Se cambiaron ruedas y se cambiaron forros de la estrella.
+AVISADO
+$ 5300 + $ 1500 + $ 700 = $ 7500.-",Entregada,NULL
+59,57,"2021-07-23 16:50:37","2021-07-30 13:35:29","Sillòn gerencial negro","Retapizado completo en Ecocuero Talampaya  5738 / 5731 / 5734",6870,"Retapizado, ruedas",Entregada,NULL
+60,58,"2021-07-26 14:52:14","2021-08-14 14:11:02","2 Rody Alta negras sin apoyabrazos","Revisar y pasar presup",8200,"AURORIZADO
+PAGADO
+AVISADO",Entregada,NULL
+61,59,"2021-07-26 19:03:55","2021-07-30 16:42:46","1) Sillòn Monet negro, cromado 1) Silla 7010 neum. s/brazos 4) India negra plàstica  c/apoy. Golf 3) India cromada c/apoy. Golf","Cambiar cilindros y revisar ( VER CUADERNO )",37140,"AUTORIZADO
+Enviè x w app datos bancarios y factura.",Entregada,NULL
+62,60,"2021-07-27 15:51:41","2021-07-31 15:29:57","Sillòn gerencial negro","Suplementar estrella",700,"AVISADO X W APP 29/07/21",Entregada,700
+63,61,"2021-07-28 17:56:46","2021-09-02 16:28:17","Silla plàstica blanca","Cortar y cambiar chapòn",3000,"CUIT 30-71099871-6
+AUTORIZADA",Entregada,1000
+64,62,"2021-07-28 18:22:33","2021-08-20 19:25:29","Silla tipo 8500 neumàtica negra","cortar y soldar chapòn",3200,NULL,Entregada,1000
+65,63,"2021-07-28 19:52:46","2021-07-31 17:05:00","Estrella c/caño y 3 ruedas","colocar estrella mediana y 1 rueda",2450,NULL,Entregada,NULL
+66,36,"2021-07-29 13:22:56","2021-08-20 19:18:48","Silla negra tipo india?con apoyas y base cromada(como las que entraron de giama)","Retapizar y rellenar (ver), arreglar respaldo y ruedas.",4500,"La trajo hoy a la mañana a primera hora .
+ENVIe w app 
+TERMINADO
+AVISADO",Entregada,0
+67,64,"2021-07-29 14:47:41","2021-08-20 19:50:26","Silla 7010 neumatica sin apoyas negra","Cortar y sodar chapon nuevo. Ver ruedas",3200,NULL,Entregada,1000
+68,65,"2021-07-29 15:31:21","2021-08-05 16:22:17","Silla Red negra","Estrella chica",1800,Entregada,Entregada,500
+69,66,"2021-07-29 16:40:44","2023-10-10 16:24:38","3 Sillas 8500 trineo c/apoyas (falta 1) blancas;  1 silla cajera rr baja negra",Revisar,7500,"CAJERA SE LE CAMBIÒ EL TAPIZADO AL ASIENTO.
+CAJERA SE LE RETOCÒ EL ARO CON PINTURA NEGRA.
+Sillas 8500 trineo se le colocaron tapones (4 x silla) y regatones ( 1 x silla ) , se limpiaron tapizados y se retocò pintura estructura.
+$ 2100 (cajera )
+RETIRO CAJERA 26/08",Entregada,NULL
+70,67,"2021-07-29 19:48:30","2021-08-10 18:46:10","2 Sillones gernciales negros","revisar ruedas y cotizar retapizado asientos",10400,"AUORIZADO
+aVISADO",Entregada,NULL
+71,68,"2021-07-30 15:12:49","2021-08-27 13:57:19","6 Silla 8500 neumàtica, con apoyas, color beige y 1 Gerencial c/casco color beige","Retapizado completo en Ecocuero negro y colocar tornillos faltantes de carcazas",25950,"Sillas c/u $ 3500.- y Sillòn $ 4950.-
+AVISADO",Entregada,NULL
+72,69,"2021-07-30 18:52:07","2021-08-25 18:41:18","Silla Rody baja s/brazos verde","cambiar chapòn con U $ 2500.- y retapizar en Talampaya 379 ò 454 ( trae 4 sillas màs para retapizar) $ 3600.- c/retapizado",6100,"1) $ 6100.-
+AVISADO/ PAGADO",Entregada,5000
+73,70,"2021-08-03 13:19:44","2021-08-04 13:15:28","Silla alma negra red millenium",Cilindro,3400,"La trajo a primera hora 3/8 hace 2 semanas estaba esperando traerla le dijimos que estabamos a full.
+AUTORIZADO",Entregada,1000
+74,71,"2021-08-03 14:14:27","2021-08-05 18:12:22","Sillòn gerencial simple negro","Cilindro y revisar",3400,"AVISADO X W APP",Entregada,600
+75,72,"2021-08-03 14:51:59","2021-09-02 18:17:51","1 Silla " 7010 " negra s/apoyas 2 Sillas cajeras " Ergo " sin apoyas y 2 sillas Ergo sin apoyas.","Ver cuaderno.",33450,"Avisè x w app
+AUTORIZADO / HACER PRIMERO SILLAS BAJAS !! ENTREGUE FACTURA
+Entregue las 3 bajas el 05/08/21 , HACER LAS CAJERAS PARA EL MIERCOLES / JUEVES
+Terminadas las 3 bajas
+PAGO EN 15 DIAS",Entregada,NULL
+76,73,"2021-08-03 19:26:48","2021-08-11 16:05:52","Sillòn gerencial negro","Cambio de cilindro",3400,"CUIT 30715288083
+AVISADO",Entregada,1000
+77,74,"2021-08-04 14:17:56","2021-09-28 18:07:12","Sillòn gerencial negro","Retapizar asiento-Cilindro-Cucurucho",8150,AUTORIZADA,Entregada,NULL
+78,75,"2021-08-04 14:22:45","2021-08-13 13:57:45","Silla chica negra","Soldar chapòn",2100,"se le adaptò chapòn nuevo a los 
+insertos que ya tenìa el asiento
+
+AVISADO",Entregada,NULL
+79,76,"2021-08-04 16:17:06","2021-08-11 16:44:26","plato de chapòn gerencial c/interior cilindro y estrella cober","colocar cilindro corto",3600,"trae estrella para colocarlo completo / PAGADO
+
+
+AVISADO",Entregada,NULL
+80,77,"2021-08-04 18:20:03","2021-08-06 19:12:48","Silla china negra con bordes plateados",Cilindro,3400,AUTORIZADO,Entregada,1000
+81,78,"2021-08-05 15:13:01","2021-08-05 19:26:46","Silla tipo Rody alta negra c/apoyas","Cilindro y ruedas",4770,"AVISADA X W APP",Entregada,1000
+82,79,"2021-08-05 15:29:47","2021-09-02 16:24:37","2 Sillones " C " chico negros","Colocar chapòn con manija",4400,NULL,Entregada,1000
+83,80,"2021-08-06 14:57:51","2021-09-02 16:24:07","Sillòn Mesh cromado",Cilindro,3400,AVISADO,Entregada,1000
+84,81,"2021-08-06 15:48:51","2021-08-30 16:12:06","Silla R alta en tela bordò","Cambiar pieza respaldo",700,NULL,Entregada,NULL
+85,48,"2021-08-06 17:43:57","2021-08-31 14:46:22","Volviò a traer silla anterior con enganche en tela mesh.","Hacer nueva funda y volver a cobrar",2800,AVISADO,Entregada,NULL
+86,82,"2021-08-07 13:34:14","2021-09-16 19:30:20","2 Sillas fijas de cocina, negras",.,10500,"Enviè presup. x w app. NO SE HACE. Se soldò una....",Entregada,NULL
+87,83,"2021-08-07 15:30:55","2021-08-28 16:32:53","Silla Rody alta tapizada en Altamira","Revisar y cotizar cilindro, ruedas Portantino",10100,AVISADO,Entregada,1000
+88,84,"2021-08-09 17:11:09","2021-08-18 16:31:47","Asiento de gerencial gris con apoyas y base cromada","Colocar cilindro largo",3400,"TERMINADO
+AVISADO",Entregada,800
+89,85,"2021-08-09 18:14:08","2021-08-20 18:10:36","Sillòn gerencial negro",Cilindro,3400,"TERMINADO
+AVISADO",Entregada,1500
+90,87,"2021-08-11 15:28:28","2021-09-16 14:07:49","1 Silla Rody alta negra y 1 Sillòn Aluminio alto","Revisar y presupuestar",11700,"benjaminboromdp@gmail.com
+Enviè presupuesto al mail: 1) Retapizar asiento, colocar tornillos en chapòn y cilindro 2) Colocar chapòn basculante nuevo. PAGADO
+AUTORIZADO
+AVISADO",Entregada,NULL
+91,88,"2021-08-12 17:22:13","2021-09-03 19:03:01","Sillòn gerencial rojo","Ruedas, basculante y lubricar regulaciòn de altura",7000,"TERMINADO
+AVISADO",Entregada,1000
+92,89,"2021-08-12 18:44:29","2021-08-20 18:13:17","Asiento silla negra",retapizar,1900,NULL,Entregada,NULL
+93,90,"2021-08-17 15:11:47","2021-09-03 14:59:43","Silla tipo Rody baja en tela azul","cilindro, ruedas y retapizado",8370,"Retapizar en Cuerotex VisòN ( segundo en el muestrario)
+PAGADO
+AVISADO",Entregada,NULL
+94,91,"2021-08-18 20:01:25","2021-09-02 19:34:07","2 Sillones C chicos","Retapizado completo, 1 cilindro, 5 ruedas y tornillos.",12400,"Bruno
+Avisè x w app",Entregada,5000
+95,92,"2021-08-19 15:54:06","2021-08-27 17:49:53","Silla aluminio alta","Cambio de cilindro",3400,"TERMINADO
+AVISADO",Entregada,NULL
+96,93,"2021-08-20 13:55:39","2021-09-17 15:30:36","Silla Ergo negra","cambiar chapón con U- cambiar cilindro",6100,"Enviè presup. x w app
+ENTREGADO
+FALTA PAGO",Entregada,NULL
+97,89,"2021-08-20 18:03:26","2021-08-26 19:34:45","Asiento silla R",Retapizar,1900,NULL,Entregada,NULL
+98,94,"2021-08-25 15:15:11","2021-09-20 16:00:10","Silla Rody alta en Altamira verde","Revisar y avisar",4200,"Cilindro y aceitar contacto permanente.
+AUTORIZADA/ FALTA PAGO
+TERMINADA
+AVISADA",Entregada,NULL
+99,69,"2021-08-25 18:40:44","2021-09-28 18:07:57","2 Silla 7010 color crema , sin ap.","revisar y retapizado",10200,"Retapizado completo y ruedas a cada silla
+$ 3600.- (retap.) + $ 1500 (ruedas)  son $ 10200.-",Entregada,2000
+100,66,"2021-08-26 15:04:24","2021-12-14 17:19:13","Sila cajera Rbaja s/brazos","Revisar y hacer",11600,NULL,Entregada,NULL
+101,95,"2021-08-26 17:54:43","2021-09-10 17:06:42","2 Sillones gerenciales negros ( 1 con casco y uno sin casco )","Retapizar asientos y apoyabrazos en uno de ellos.",6100,"Retap. as- $ 2500/ retap. apoyas. $ 1100.- CON COSTURA- AVISADO 0209",Entregada,1000
+102,51,"2021-08-27 15:46:38","2021-08-30 14:49:54","SILLA BLANCA MATE CON BASE CROMADA SIN APOYAS",CILINDRO,3400,"solo arreglar cilindro.",Entregada,1000
+103,96,"2021-08-28 16:20:38","2021-09-09 15:38:54","Silla RR baja en Puntino petroleo","Rellenar asiento, cilindro, suplementar apoyabrazos",5500,AUTORIZADA,Entregada,NULL
+104,97,"2021-08-28 16:40:50","2021-09-11 14:18:05","Sillòn gerencial beige","cambiar chapon (comun)- poner 4 parker-  ver si hay que suplementar cilindro  al cambiar chapón",2900,"Enviè w app
+AVISADO",Entregada,NULL
+105,50,"2021-08-28 16:49:24","2021-09-14 15:45:53","2 Sillones red cromados","En los 2 cilindro, interno de madera con insertos nuevos.",13740,"Enviè mensaje 28/08/21. AVISADO TERMINACION",Entregada,NULL
+106,11,"2021-08-30 15:12:56","2021-09-07 14:11:59","Sillòn c/casco, tela negra","Poner botones en asiento, 5 ruedas, cilindro.",5700,"Entregar silla " 8500 "  del pedido anterior. Pagada 6500.   ?",Entregada,NULL
+107,66,"2021-08-30 16:45:46","2021-12-14 17:17:27","Silla cromada blanca","Soldar asiento y hacer.",0,"Soldadura $ 2500.-",Entregada,NULL
+108,99,"2021-08-31 17:32:13","2021-09-01 17:16:45","Sillon gerencial con apoyabrazos negro",Cilindro_Cucurucho,3600,AUTORIZADO,Entregada,NULL
+109,100,"2021-08-31 17:36:24","2021-09-06 17:32:48","Sillon gerencial sin apoyabrazos, azul, base cromada","Retapizado completo ecocuero negro",4600,"Enviè presupuesto por w app.
+AVISADO",Entregada,NULL
+110,101,"2021-09-01 13:24:31","2021-09-29 16:25:07","1 Sillòn gerencial cromado, 1 Silla Rody c/riñonera y 1  Silla neum. negra","Ver cuaderno",6800,"$ 6800.-. Avisado",Entregada,NULL
+111,59,"2021-09-01 15:28:18","2021-09-07 16:04:37","Silla India c/apoyabrazos Golf negra","Cilindro, suplem. , apoyabrazos y retapizar asiento",5900,"cilindro $ 3600, suplem. apoyas $ 500 y retap. asiento $ 1800",Entregada,NULL
+112,69,"2021-09-01 15:49:02","2021-09-09 15:02:28","sILLA 7010 OPERATIVA C/APOYAS COLOR CREMA, sILLA 7010 FIJA SIN APOYAS COLOR CREMA","1) Retapizado completo, cilindro y ruedas  2) Retapizado completo, càscara respaldo y 1 tornillo.",12800,NULL,Entregada,NULL
+113,102,"2021-09-03 14:24:13","2021-09-10 14:10:43",Candy,Revisar,2000,NULL,Entregada,NULL
+114,103,"2021-09-03 15:18:44","2021-09-15 19:31:58","Sillon tipo gammer blanco y negro","Revisar completo",12915,"Cilindro $ 3740, ruedas silic $ 1650,   cambiar chapon $ 2.300 cambiar estrella .... comun 2365 o cromada 5225.  totales 10055 o 12440. Hacer con cromada",Entregada,NULL
+115,104,"2021-09-03 18:33:07","2021-09-30 17:28:31","Silla Tipo Tyson negra operativa - Silla tipo 7010 color verde musgo sin apoyas","Revisar y presupuestar",0,"Silla Tipo Tyson: Cilindro $ 3740  + suplementar apoyas    $ 600 +  Cambiar T de respaldo  $ 1000 =  5.340; Silla 7010: Retapizar y rellenar completo  $  3850.- màs $ 700 de interno TOTAL   9.890.-
+
+TERMINADO
+AVISADO",Entregada,NULL
+116,105,"2021-09-03 19:47:55","2021-10-07 20:00:25","TOTAL 5 SILLAS - 3 SILLAS OPERATIVA TIPO RED NEGRAS, CUATRO APOYAS, CROMADAS- 1 SILLA TIPO CANDY C APOYAS NEGRA C RUEDAS- 1 SILLA TIPO CANDY CON APOYAS NEGRA FIJA","REVISAR Y AVISAR",24390,"Silla 3 no hay repuesto
+APROBADO / PAGADO
+AVISADA",Entregada,NULL
+117,90,"2021-09-04 16:22:02","2021-09-20 18:37:21","Silla color chocolate","revisar chapon. no funciona palanca",0,NULL,Entregada,NULL
+118,53,"2021-09-06 15:38:44","2021-09-28 18:10:25","Silla NV-5","Revisar movimientodel asiento",0,"Se cambiò chapòn de nuevo",Entregada,NULL
+119,106,"2021-09-06 16:03:18","2021-10-12 19:15:06","6 Sillas Candy","Revisar y pasar presupuesto / AUTORIZADO / AVISADO desde mi celu",32350,"Ver cuaderno
+Avisada x w app
+PAGADO / Retiran Lunes",Entregada,NULL
+120,100,"2021-09-06 17:33:21","2021-09-28 18:11:28","Silla fija banca, cromada","Revisar y tapizar en ecocuero negro",4600,"AVISADO
+sumar $450 de regatones",Entregada,NULL
+121,107,"2021-09-07 17:40:16","2021-10-01 18:04:35","Sillon gerencial Negro","Revisar y presupuestar",6390,"Ruedas conjunto completo : 1650,  Cambio de cilindro: 3740,   Rellenar apoyas : 1000.  TOTAL: 6.390.-
+
+AVISADO",Entregada,NULL
+122,108,"2021-09-07 17:41:51","2021-10-01 18:04:51","Silla Bezzi, color negra","Revisar y presupuestar",6050,"Cambiar chapon basculante, soldar o tornillos    6.050.- pagada
+
+AVISADO
+Autorizado",Entregada,NULL
+123,109,"2021-09-08 19:34:45","2021-09-28 19:25:10","Respaldo sillon gerencial negro","Revisar y presupuestar",2600,NULL,Entregada,NULL
+124,98,"2021-09-09 17:20:30","2021-11-04 15:09:40","Respaldo sillon gerencial negro",reparar,0,NULL,Entregada,NULL
+125,110,"2021-09-09 17:24:45","2021-09-28 18:11:55","Sillon Matero Rojo","Retapizar en nueva tela gamuzina . la mas clarita (Parecida al Arco)",4000,NULL,Entregada,NULL
+126,88,"2021-09-11 14:52:16","2021-09-23 19:22:18","Sillon gerencial",Revisar,0,"Le pusimos 1 cilindro s/cargo",Entregada,NULL
+127,111,"2021-09-11 15:26:18","2021-10-01 19:42:23","Silla 7010 op color crudo sin apoyas","Ruedas, retapizado completo en ecocuero blanco , ajuste general",5500,AVISADA,Entregada,2500
+128,112,"2021-09-13 15:19:45","2021-10-07 16:57:13","Silla Candy negra",Chapon,5500,PAGADO,Entregada,NULL
+129,113,"2021-09-15 16:17:46","2021-11-04 15:10:07","Sillòn C chico","Estrella chica, 1 rueda y retapizado asiento (aprovechando el Mesh )",4100,"27-11990334-9
+
+Avisado",Entregada,NULL
+130,114,"2021-09-15 17:05:05","2021-09-28 18:13:26","Base silla","Cambio de cilindro y chapòn. POner el cono",5600,AVISADO,Entregada,500
+131,115,"2021-09-17 14:42:42","2021-09-24 14:03:44","Sillòn Mesh mediano c/cromado",Cilindro,3750,"AVISADO
+ENTREGADO",Entregada,1000
+132,116,"2021-09-20 15:04:10","2021-09-20 17:37:15","Sillòn gerencial cromado","Cambiar basculante",6500,AVISADA,Entregada,2000
+133,117,"2021-09-20 15:55:11","2021-10-08 18:56:09","Butaca con botones","Retapizar en Ecocuero Peugeot/Hilo negro y menos relleno.",0,NULL,Entregada,NULL
+134,118,"2021-09-20 16:51:22","2021-09-21 20:01:28","Base neumatica basculante cromada","Cambiar el cilindro",3740,Avisado,Entregada,NULL
+135,18,"2021-09-20 18:05:39","2021-10-25 16:16:42","Silla negra sin apoyas  pana suave negra","Rellenar asiento, ruedas y soldar pieza respaldo",4350,"PRESUPUESTAR Y AVISAR
+Pasè  x w app, falta confirmaciòn
+AUTORIZADO / 
+FACTURAR A MONICA JUAN /
+ TERMINADO/AVISADO",Entregada,NULL
+136,119,"2021-09-23 16:03:54","2021-10-14 15:22:47","Silla Rody alta negra desarmada, con apoyabrazos","Cambiar Chapòn",3000,"Mal el nº de cel
+AVISADA",Entregada,NULL
+138,120,"2021-09-23 19:40:33","2021-10-12 19:11:10","Sillòn gamer Bulk","Cambiar cilindro",0,"SIN CARGO
+AVISADO",Entregada,NULL
+139,121,"2021-09-24 15:55:41","2021-11-04 15:10:48","Sillon gerencial mediano cromado","Revisar y pasar presupuesto",3900,Autorizado,Entregada,NULL
+140,122,"2021-09-24 16:34:30","2021-10-13 16:35:54","2 Sillas 8500 neumaticas c/apoyas- 1 Rody Premium . Todas negras","Revisar y presupuestar",0,"PRESUPUESTO ENVIADO 02/10/21 POR MAIL
+AUTORIZADO. Factura enviada por mail 12/10/21
+TERMINADO
+AVISADO",Entregada,NULL
+141,123,"2021-09-24 18:40:29","2021-10-14 15:11:11","Silla En cuero blanco , cromada","Hacer funda en Ecocuero blanco",5200,"Pasè presupuesto x w app
+APROBADA
+AVISADA",Entregada,NULL
+142,124,"2021-09-25 14:36:04","2021-09-28 18:14:21","Silla Roja cuero, cromada","Cambio de ruedas",1500,NULL,Entregada,NULL
+143,125,"2021-09-27 14:51:20","2021-10-12 19:09:12","Silla Candy gris PERLA de Dakot","Cambiar basculante y 1 rueda",5800,"AUTORIZADO
+AVISADO",Entregada,NULL
+144,126,"2021-09-27 15:08:28","2021-10-30 15:11:37","Sillòn tipo C de colores varios","Chapòn y cilindro",5700,"COLOCAR APOYA
+ TERMINADO AVISADO",Entregada,NULL
+145,127,"2021-09-28 19:14:39","2021-12-18 17:18:57","Silla Rody baja gris con apoyabrazos","cambiar tornillo largo y ver contacto",0,"AVISADO X W APP",Entregada,NULL
+146,43,"2021-09-29 18:15:50","2022-02-17 20:44:47","REPUESTOS Saldo al 29/09  $ 2910 / Pagò 01/10/21 / PAGO $ 31550.- / Por 1 cilindro, 4 respaldos comp. y 4 estrellas medianas / Falta retirar 2 respaldos completos y 4 estrellas medianas.s / Retira todo 05/10/21 / PAGA $ 40965.- / Aumentar 8 % / Debemos a Juanjo $ 265.- (19/11/21)/ llevò 1 cilindro, 1 estrell y 1 respaldo $ 10205.-/ Debe un interno $ 1100.-/Pagado. Le di $ 1500.-",r,0,"PRECIOS A PARTIR DEL 01/10/21 : Estrella mediana $ 1760.- / Cilindro neumàtico $ 3090.- / Ruedas $ 345.- / Contacto permanente $ 4230.- / Chapòn $ 1890.- / Respaldo completo $ 5355.- / Equipo giratorio $ 2000.- A PARTIR DEL 28/01/22  + 9%. debe 1.565.- - estrella devuelta 1760= ( 195 a favor) . Llevo 5 ruedas 1880-195= 1685 debe.  PRECIOS A PARTIR DEL 28/01/22 : Estrella mediana $ 1920.- / Cilindro neumàtico $ 3370.- / Ruedas $ 376.- / Contacto permanente $ 4610.- / Chapòn $ 2060.- / Respaldo completo $ 5840.- / Equipo giratorio $ 2180.- / Par de apoyabrazos Golf $ 1600.- /  DEBE 1685 PAGADO. 14/02/22 llevo 1 cilindro y 1 rueda, debe",Entregada,NULL
+147,104,"2021-09-30 18:22:38","2021-11-04 13:56:14","1 silla R baja negra c/apoyas y 1 Silla china sin respaldo, negra","REVISADO Y PRESUPUESTADO- 1) RUEDAS, RELLENAR, EMPROLIJAR GOMA. - 2) RUEDAS, CAMBIAR PERILLA CONTACTO PERMANENTE",5950,"AUTORIZADA/RETIRADA SILLA 2)
+TERMINADA / SALDO SILLA 1) CILINDRO Y RESPALDO US. RETAPIZADO A NUEVO $ 6500.-
+
+AVISADO",Entregada,NULL
+148,125,"2021-10-01 14:48:55","2021-11-02 15:23:24","2 Sillas Rody alta, 2 Sillòn Mesh alto (uno c/partes de Ecocuero) y 1 Tipo Tyson roja.","Revisar y avisar",46520,"ENVIÈ PRESUPUESTO X W APP/ pagado con transferencia
+
+TERMINADO
+AUTORIZADO",Entregada,NULL
+149,128,"2021-10-02 15:22:40","2021-10-06 16:50:24","Sillòn C chico negro","Colocar chapòn  y cotizar retapizado Ecocuero blanco con franja ò banda roja.",2600,"chapòn $ 2600.-
+Retapizado c/franja en el respaldo $ 4800.-
+Hace arreglo sòlo. / AVISADO",Entregada,NULL
+150,129,"2021-10-04 14:54:39","2021-11-04 15:26:15","Silla china, negra sin apoyas",CILINDRO,3740,"TERMINADA
+AVISADA",Entregada,NULL
+151,130,"2021-10-04 16:32:58","2021-10-19 17:07:17","3 Sillas Red baja A2","Revisar y presupuestar",23480,"Pasè presup. x w app
+AVISADO. Factura enviada por mail- TRANSFERENCIA 19/10",Entregada,NULL
+152,131,"2021-10-05 14:34:14","2021-11-04 15:27:13","Silla tipo Rody color rojo, con apoyas","chapòn solamente",2100,"Enviè presupuesto x w app. Pagada en efectivo",Entregada,NULL
+153,132,"2021-10-05 16:20:47","2022-12-13 18:14:11","Sillòn gerencial en Altamira gris y pana / Sillòn c/apoyas tapizados bajo en Altamira gris.",.,13100,"Avisado x w app
+Ver factura
+ENTREGADO",Entregada,NULL
+154,133,"2021-10-05 18:01:25","2021-10-08 18:50:24","Asiento sillòn C chico negro","Retapizado en Eco negro con costuras iguales",2000,"TERMINADO 
+AVISADO",Entregada,NULL
+155,134,"2021-10-05 18:23:09","2021-10-19 14:24:34","Silla Rody baja gris c/apoyas","CILINDRO-CHAPON-CONTACTO ($3700+$2500+$3700)",9900,"TERMINADO
+AVISADO",Entregada,NULL
+156,135,"2021-10-06 15:54:41","2021-10-12 18:42:45","Sillòn gerencial negro c/apoyas","Revisar y arreglar",0,"Reservar 1 silla " 7010 " nueva y retira con èsta.",Entregada,NULL
+157,136,"2021-10-06 19:09:55","2021-11-04 15:29:14","Sillòn gerencial Jazz","Cambiar basculante con parker y cilindro y cucurucho",8540,"PAGADO 
+Basculante + cilindro = $ 8540.
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,5500
+158,137,"2021-10-07 13:56:09","2021-10-08 18:07:43","Base cajera","Cambiar estrella",2400,AVISADO,Entregada,2000
+159,138,"2021-10-07 14:02:00","2021-10-26 19:03:56","Sillon gerencial sin base. Respaldo roto","Soldar, suplementar cilindro y cambiar cilindro",6400,"Enviè w app con presupuesto
+AUTORIZADO
+TERMINADO 
+AVISADO",Entregada,NULL
+160,139,"2021-10-07 18:30:25","2021-10-07 18:50:22","Base gamer c/estrella partida","Colocar estrella mediana",2600,"AVISADO
+PAGADO",Entregada,NULL
+161,140,"2021-10-08 17:25:11","2021-10-08 18:54:14","Sillòn C chico","Cambiar chapòn",2600,AUTORIZADO,Entregada,NULL
+162,141,"2021-10-08 18:22:04","2021-10-30 16:12:08","Silla R baja roja sin brazos","Retapizado, bilòn en el respaldo, chapòn.",6800,"Enviè presup. x w app
+
+AVISADO",Entregada,NULL
+163,142,"2021-10-08 19:22:49","2021-10-27 19:31:40","Sillòn gamer blanco y gris","REVISAR Y AVISAR",2800,"Soldar basculante Asyncro
+
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+164,143,"2021-10-14 17:11:14","2021-11-08 15:26:44","Silla cajera negra, sin apoyas, respaldo suelto","Revisar y presupuestar: Retapizado completo, interno asiento, cilindro, retocar aro, ruedas y 2 tornillos.",10950,"AVISADO X W APP",Entregada,NULL
+165,144,"2021-10-18 16:05:44","2021-10-22 13:35:42","Silla Candy original","Cambiar estrella",2000,"AVISADO. PAGADA",Entregada,NULL
+166,145,"2021-10-18 16:11:38","2021-11-08 16:17:19","Silla R baja","Revisar cilindro y cambiar estrella. Pasè presup. x w app",7680,"Hay que cambiar estrella y cilindro.
+Estrella plàstica chica $ 1980.- / Retapizar asiento ( liso ) $ 2000.- / cilindro $ 3700.-
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+167,146,"2021-10-18 19:31:30","2021-11-04 17:26:23","Sillon gerencial red","Ruedas, cilindro, 2 tornillos y suplem. chapòn ( arandela)",5590,"Revisar chapon y ruedas. Pasar presupuesto
+AUTORIZADO/AVISADO",Entregada,NULL
+168,147,"2021-10-21 15:35:56","2021-11-02 15:01:22","Silla china negra","Estrella chica y cilindro",5720,"Revisar cilindro y avisar
+AUTORIZADO
+AVISADO",Entregada,NULL
+169,148,"2021-10-22 13:32:47","2021-10-22 15:06:27","Sillon gerencial Negro","Cambiar estrella cromada",0,NULL,Entregada,NULL
+170,149,"2021-10-25 13:19:03","2021-10-26 19:09:20","Sillón gamer negro/rojo","Estrella mediana",1980,"PRESUPUESTADO X W APP
+AUTORIZADO 
+TERMINADO 
+AVISADO",Entregada,NULL
+171,150,"2021-10-25 15:14:22","2021-11-15 16:21:46","Silla rody alta en Ecocuero Beige","Cambiar contacto perm. c/soldadura",4600,"CUIT 30676816530
+AUTORIZADO",Entregada,NULL
+172,151,"2021-10-25 17:19:43","2021-11-13 16:38:06","Sillon gerencial Negro","Soldar chapòn, abrir respaldo y soldar cañito c/tuerca, 2 bulones",5800,PAGADO,Entregada,NULL
+173,153,"2021-10-26 14:02:47","2021-11-08 14:48:48","Silla giratoria 7010 tapizada en Tela marròn diagonal","Ruedas, relleno y revisar",3600,"Pasè pres. x w app",Entregada,NULL
+174,154,"2021-10-26 15:53:47","2021-11-04 16:32:17","Sillòn gamer negro y gris / AK RACING","Retapizado $ 6000.- MÀS CILINDRO $ 3700.-",9700,"Consultè por cambio de cilindro
+AUTORIZADO/PAGADO",Entregada,NULL
+175,155,"2021-10-26 19:22:38","2021-11-04 14:41:53","Silla tipoRody color mostaza","Cambiar estrella y suplementar , solamente !!",2860,"Se pasò cuando la trajo $ 2860 por cambiar la estrella y suplementar. Pero se revisò y habrìa que cambiar estrella, cilindro y colocar 3 tornillos ($ 6210.-).
+TERMINADO
+AVISADO",Entregada,500
+176,156,"2021-10-28 14:16:36","2021-11-01 17:59:11","Sillon gerencial Negro","Revisar cilindro ($ 3700.-)",0,"Si es cilindro sòlo, hacerlo. Si no, avisar.
+
+TERMINADO
+AVISADO",Entregada,NULL
+177,152,"2021-10-28 14:26:25","2021-11-04 15:29:48","Sillòn gerencial cromado c/base trineo","Reparar tapizado y 1 tornillo",150,NULL,Entregada,NULL
+178,157,"2021-10-28 15:00:04","2021-12-03 16:14:57","Silla Rody alta negra","Ruedas y chapòn comùn.",3950,"AUTORIZADA/PAGADO
+AVISADO X W APP",Entregada,NULL
+179,158,"2021-10-28 18:16:49","2021-11-04 17:08:13","Sillòn Mesh cromado","Rellenar asiento, cilindro y ruedas",7350,"Punto Sur Artes de Pesca S.A.     30-70933592-4
+AVISADA",Entregada,NULL
+180,159,"2021-10-29 15:31:06","2021-11-05 15:40:36","Banqueta cromada","colocar cilindro nuevo  y armar",4000,"AVISADO
+ENTREGADO",Entregada,4000
+181,160,"2021-10-30 15:18:23","2021-11-15 16:21:26","Silla tipo India c/apoyas cromados","Revisar y presupuestar",7700,"Ruedas, cilindro y estrella mediana
+Enviè pres. x w app./ AVISADA",Entregada,NULL
+182,161,"2021-11-01 15:26:02","2021-11-09 19:53:40","Silla Alma est. negra","Fijar respaldo y revisar",1500,"TERMINADO
+AVISADO",Entregada,NULL
+183,162,"2021-11-01 18:03:17","2021-11-05 19:20:18","Silla Rody baja, pana salmon, sin apoyas","Revisar y cotizar retapizado",9100,"Enviè w app con presupuesto
+
+TERMINADO 
+AVISADO",Entregada,2000
+184,163,"2021-11-02 13:31:13","2021-11-05 14:19:39","Sillòn  C chico negro","cambiar chapòn",2300,"TERMINADO
+AVISADO",Entregada,500
+185,164,"2021-11-03 14:07:43","2021-11-04 18:19:24","Base estrella","Cambio de cilindro. PAGADO",03740,"AVISDO POR W APP",Entregada,3740
+186,165,"2021-11-03 14:54:43","2021-11-16 19:40:04","Silla cajera negra sin brazos",l,0,"NO SE HACE PORQUE ES MUCHA COSA.
+Queda para Nosotros",Entregada,NULL
+187,167,"2021-11-03 17:31:05","2021-11-11 16:26:22","Silla Rody alta bordò","Revisar y presupuestar/se baja cilindro/ contacto",8300,"TERMINADO
+AVISADO. PAGADA",Entregada,NULL
+188,166,"2021-11-03 17:34:39","2021-12-20 20:04:33","3 Silla Rody baja Premium color bordo c/apoyas, 1 Silla Bezzi cajera","Revisar y presupuestar",33200,"VER CUADERNO /PAGADO
+TERMINADO/AVISADO
+ESPERAR RESPUESTA Y.RE-AVISAR SI NO RESPONDEN/ Pasan 21 ò 22 de Diciembre",Entregada,NULL
+189,158,"2021-11-04 17:12:52","2021-12-01 19:27:38","Sillòn Mesh cromado","TAPIZAR IGUAL ANTES / CILINDRO Y RUEDAS",7350,"AVISADA X W APP 16/11/21",Entregada,NULL
+190,168,"2021-11-05 13:30:24","2021-11-08 16:16:52","Base sillòn cromada","Cambiar chapòn c/colocaciòn de parker y revisar cilindro",9200,NULL,Entregada,NULL
+191,169,"2021-11-06 15:29:36","2021-11-17 14:35:48","Base neumàtica grande","Cambiar cilindro y ruedas",5350,"AVISADO X W APP",Entregada,2000
+192,170,"2021-11-08 14:51:41","2021-11-10 20:26:06","1 Silloncito en pana azul y 1 silla " U " marròn, ambos giratorios","Cambiar base de uno a otro.",700,"TERMINADO
+AVISADO",Entregada,NULL
+193,171,"2021-11-08 19:26:43","2022-03-22 16:19:30","Base basculante cromada sin ruedas","Colocar estrella med. plástica y ruedas",4000,"TERMINADO
+AVISADO",Entregada,1200
+194,172,"2021-11-08 19:42:36","2021-11-10 15:31:31","Respaldo silla tipo Biro Baja","Cambiar T. PAGADA. AVISADO",950,"TERMINADO
+AVISADO",Entregada,950
+195,173,"2021-11-08 20:43:38","2021-11-09 20:38:01","Sillòn Trento","Chapòn basculante, cilindro y suplem. estrella",9600,"TERMINADO
+AVISADO",Entregada,2000
+196,72,"2021-11-09 18:09:54","2021-11-18 20:05:11","Silla cajera tipo Ergo ( A2)","Colocar estrella mediana y ruedas",4100,AVISADO,Entregada,NULL
+197,174,"2021-11-09 20:51:03","2022-03-22 16:17:57","Sillòn Mesh cromado","Hacer asiento y ruedas",4650,"Pasè pres. x w app
+AUTORIZADA
+TERMINADA
+AVISADA",Entregada,NULL
+198,175,"2021-11-10 16:11:00","2021-11-16 14:43:41","SILLA 7010 BEIGE","Retapizar en Eco negro",4000,"30-71101431-0
+AVISADO
+PAGADO",Entregada,2000
+199,151,"2021-11-13 16:38:42","2021-11-29 18:48:33","Sillòn gerencial mediano negro","Cilindro, relleno de asiento, 1 inserto, 1 rueda us. y 2 tornillos",6200,"TERMINADO 
+AVISADO",Entregada,NULL
+200,94,"2021-11-13 17:45:34","2023-01-23 18:48:01","Silla Rody premium con apoyabrazos","Revisar y presupuestar: cilindro, chapòn, ruedas, rellenar asiento y respaldo, tornillo y suplem. apoyas",14950,"NO SE HIZO",Entregada,NULL
+201,176,"2021-11-17 16:22:16","2021-11-18 16:26:21","Sillòn Aluminio alto","colocar estrella mediana y 1 rueda  ( $ 2400 + rueda)",2730,"Avisado x w app",Entregada,1000
+202,177,"2021-11-17 20:40:03","2021-11-29 19:03:52","Sillon gerencial median negro, sin estrella","Retapizado completo en cuerotex negr, rellenar, estrella mediana con ruedas. Revisar inserto apoyabrazos. 10000 mas inserto",10000,"TERMINADO 
+AVISADO",Entregada,NULL
+203,158,"2021-11-18 18:48:01","2021-12-01 19:27:45","1 silla 7010 neumatica c/brazos, 1 silla 7010 giratoria sin brazos, 1 rody alta, 1 china verde","Revisar y hacer",23950,"TERMINADO
+AVISADO",Entregada,NULL
+204,66,"2021-11-19 15:11:23","2021-11-19 15:16:17","Sillòn gerencial blanco","Se cambiò 1 rueda",330,NULL,Entregada,NULL
+205,178,"2021-11-19 17:42:52","2022-01-12 14:21:57","Silla Rody Premium conriñonera. Negra","Cilindro y contacto c/soldadura",7700,"AVISADO
+FACTURA ENVIADA",Entregada,NULL
+206,179,"2021-11-20 14:44:48","2022-10-31 18:50:53","Silla operativa Mesh negra","Revisar y presupuestar",0,"NO SE PUEDE ARREGLAR
+Nos deja la silla",Entregada,NULL
+207,66,"2021-11-23 19:32:12","2022-01-10 16:03:58","Silla cajera Rody baja c/riñonera","Ver cuaderno",13350,"Una silla nueva similar $ 22500.-",Entregada,NULL
+208,180,"2021-11-24 15:28:06","2021-11-29 19:19:00","Sillòn gamer Wesdar, negro y verde","Revisar inclinaciòn/ cambiar basculante",5500,"Madera asiento, revisada por Poli y està ok. Ver basculante.
+
+TERMINADO
+AVISADO",Entregada,NULL
+209,181,"2021-11-24 17:42:46","2021-12-17 15:18:08","Sillon gerencial Negro","Cilindro, ruedas y chapon basculante",10900,"TERMINADO
+AVISADO",Entregada,4000
+210,182,"2021-11-24 19:59:15","2021-12-03 18:36:22","Base giratoria. Silla 7010 negra, separadas","Caambiar base giratoria",3100,AVISADO,Entregada,3100
+211,183,"2021-11-24 20:47:29","2021-11-30 19:36:06","Base cromada","Cambiar cilindro",3750,"Presupuestar
+AUTORIZADO / AVISADO",Entregada,NULL
+212,184,"2021-11-25 17:07:38","2022-01-28 19:00:18","Silla tipo Ergo negra c/apoyas","Revisar cilindro y ver",8850,"30-68999009-2
+SE LES PASÓ PRESUPUESTO, VISTO (SIN RESPUESTA AUN 13/12)/SE LE VOLVIÓ A ESCRIBIR  27/12 AUTORIZADO 27/12/21
+
+TERMINADO
+AVISADO",Entregada,NULL
+213,185,"2021-11-26 18:49:54","2022-03-04 20:14:27","2 Sillas con apoyas regulables en tela azul","Revisar y presupuestar. pagado 04/03/22",13250,"Pasè pres. x w app",Entregada,NULL
+214,186,"2021-11-26 20:49:32","2021-11-29 19:16:43","Sillon c chico","estrella chica y ruedas usadas",0,NULL,Entregada,NULL
+215,187,"2021-12-03 15:47:59","2021-12-14 20:24:11","Sillòn Aluminio alto","Hacer funda borde asiento c/refuerzo y poner taquito de goma dentro de cilindro",2900,AVISADO,Entregada,NULL
+216,188,"2021-12-03 17:17:52","2021-12-13 14:29:30","Sillòn negro chico","Retapizar c/faja",4500,"AUTORIZADO
+AVISADO/PAGADO",Entregada,NULL
+217,189,"2021-12-06 15:42:34","2021-12-09 19:24:58","Base basculante negra. Sillon basculante negro","Cambiar basculante y fijar",6555,"$ 5700.- tarjeta en 1 pago / $ 6555.- 3/6/12 cuOtas VISA. Pagado con TC 
+AVISADO",Entregada,NULL
+218,190,"2021-12-06 19:43:30","2022-03-22 16:17:36","Sillòn Aluminio alto","Revisar y conseguir tapones",9580,"30-71457280-2
+PAGADO
+TERMINADO
+AVISADO",Entregada,NULL
+219,191,"2021-12-06 20:04:52","2021-12-18 17:14:37","Sillon Gamer negro y blanco sin respaldo","Colocar estrella plàstica",2360,"Revisar inclinaciòn",Entregada,NULL
+220,192,"2021-12-07 15:01:13","2022-01-15 14:32:51","Silla fija color Mostaza",Soldar,2100,"SE SOLDÒ UNA PATA Y SE REFORZARON LAS OTRAS
+AVISADO",Entregada,NULL
+221,146,"2021-12-09 19:28:49","2022-01-10 19:20:35","Sillon Mesh alto Cromado","Cambiar basculante",5500,"TERMINADO
+AVISADO",Entregada,NULL
+222,193,"2021-12-10 16:39:03","2022-01-10 19:17:22","Sillòn chico tipo U","Colocar estrella chica y cotizar: Parches en casco ò Retapizado de casco",1980,"Retapizado de casco $ 2500.-
+PAGADO",Entregada,NULL
+223,194,"2021-12-14 15:05:53","2021-12-29 15:55:32","Silla 8500 bordeaux neumatica","Revisar y presupuestar",7380,"Estrella chica, ruedas, cilindro.",Entregada,NULL
+224,195,"2021-12-14 15:26:54","2022-01-25 16:07:16","4 Sillas tipo Rody Alta , negras con apoyabrazos / 1 tipo 7010 giratoria c/apoyas / 1 tipo 7010 giratoria s/apoyas","Revisar y presupuestar",40350,"Avisado Daniel x w app",Entregada,NULL
+225,196,"2021-12-14 18:10:07","2021-12-16 17:40:45","Silla Alma c/regatones/negra","Cambiar cilindro",3750,AVISADO,Entregada,500
+226,197,"2021-12-15 20:25:57","2021-12-15 20:26:05","Base basculante negra","cambiar estrella mediana",0,NULL,Entregada,NULL
+227,198,"2021-12-16 17:38:05","2022-01-19 16:49:45","1.- Silla Rody alta c/apoyas negra    2.- Sillon tipo C chico c/casco","1.- retapizar, contacto, tornillo, ruedas, cilindro.  2) estrella med., rellenar asiento, ruedas y 1 tornillo.",20210,"AUTORIZADO
+Avisado x w app",Entregada,NULL
+228,148,"2021-12-20 15:39:40","2022-02-02 17:21:43","Silla Ergo negra","Retapizar asiento en Ecocuero negro",2200,"TERMINADA 
+AVISADO",Entregada,NULL
+229,66,"2021-12-20 16:20:29","2022-01-06 15:46:44","2 Silla Rody alta negra","Ver cuaderno",25100,Entregadas,Entregada,NULL
+230,200,"2021-12-22 16:35:03","2022-01-10 14:35:33","Base cromada banqueta","Fabricar asiento redondo diàmetro 30 cm. asiento redondo en Ecocuero blanco",3500,AVISADO,Entregada,NULL
+231,201,"2021-12-22 20:20:22","2022-01-06 15:32:46","Sillòn gamer negro","Cambiar estrella",2360,"TERMINADA 
+AVISADA X W APP",Entregada,1400
+232,202,"2021-12-29 16:07:54","2022-01-11 14:21:00","Sillòn gerencial negro sin base","Retapizar en Ecocuero negro 7 rellenar asiento y poca costura",6500,"Avisado x w app",Entregada,2000
+233,143,"2022-01-03 15:44:33","2022-01-06 15:58:44","Silla negra tipo Alma","Retap. asiento en Eco negro y ver si van apoyas golf",2200,"TERMINADO
+AVISADO
+
+(NO CONSEGUIMOS APOYAS)",Entregada,NULL
+234,203,"2022-01-03 20:25:58","2022-01-04 15:52:58","Sillon Gammer negro y rojo. Desarmado",Chapòn,6000,"AVISADO X W APP
+PAGADO",Entregada,2000
+235,204,"2022-01-04 20:07:18","2022-01-08 16:10:19","Sillon gerencial Negro","Cambio de cilindro, chapòn y fijar base.",6750,AUTORIZADO,Entregada,2000
+236,205,"2022-01-05 16:24:05","2022-02-02 14:56:05","1 Sillòn gerencial negro y 1 silla 7010 marròn","1) Cilindro, ruedas, retap. y rellenar asiento y 1 inserto 2) Cambiar estructura, ruedas, rellenar completo y cilindro",17550,"AUTORIZADO
+Asiento sillòn està en lo de Poli (10/01/22)
+
+TERMINADO 
+AVISADO",Entregada,NULL
+237,66,"2022-01-05 17:03:36","2022-01-10 16:57:10","1 Sillòn gerencial blanco y   silla Rody RR negra s/brazos.","cilindros y revisar",24250,"Se entregò sillòn blanco y se avisò por Rody terminada.",Entregada,NULL
+238,206,"2022-01-05 19:24:06","2022-01-12 19:04:47","Silla tipo mesh tapizada colores con base cromada con apoyabrazos","1 bulòn, basculante y 4 torn. Parker. Agreguè $ 300.- por colocar tacos de Grilòn.",6450,"Presupuestado x w app
+AVISADA",Entregada,NULL
+239,207,"2022-01-06 14:49:54","2023-01-23 18:47:04","Silla Rody negra, c/apoyas","Interno madera c/insertos, tapizar y rellenar asiento, ruedas, cilindro y contacto.",13450,"Pasè presupuesto x w app","No se hace",NULL
+240,208,"2022-01-08 15:49:42","2022-01-10 14:15:09","Silla  " Giroflex " monocasco","Cambiar cilindro y revisar",3900,"AVISADO X W APP",Entregada,1000
+241,209,"2022-01-08 16:03:52","2022-04-05 16:06:47","Silla tipo R baja","Cambiar cilindro y perilla contacto perm.",4700,"TERMINADO
+AVISADO",Entregada,NULL
+242,210,"2022-01-08 16:50:06","2022-01-08 17:54:03","Sillòn gamer BLK","Colocar estrella cromada, cilindro y basculante",14900,ENTREGADO,Entregada,NULL
+243,77,"2022-01-11 18:04:27","2022-01-15 14:28:21","Sillòn C chico negro","Colocar estrella mediana",2390,AVISADO,Entregada,1500
+244,211,"2022-01-12 16:35:00","2022-01-15 16:40:34","Silla Candy","Cambiar apoyabrazos original",6400,"Cilindro y apoyabrazos: $ 3900 + $ 2500
+AVISADO",Entregada,1000
+245,212,"2022-01-13 17:04:55","2022-01-17 17:30:01","Silla Rody alta c/apoyas, color beige",Revisar,0,"No la hace",Entregada,NULL
+246,66,"2022-01-14 19:37:19","2022-01-24 16:30:19","Silla cajera tipo Rody baja","Chapòn, ruedas, tapizar y rellenar asiento, retocar aro.",7180,AVISADO,Entregada,NULL
+247,195,"2022-01-14 19:41:35","2022-02-14 16:03:29","1 silla 7010 girat. c/apoyas., 3 cajera negra c/regatones.","Revisar y presupuestar",50830,"CUIT  30715451235
+AVISADO MATIAS X W APP / FACTURA HECHA / PAGADO",Entregada,NULL
+248,213,"2022-01-19 20:42:43","2022-01-27 20:42:43","Silla negra candy",Revisar,6000,"Aparte de la rajadura, el chapòn basculante tiene roto el mecanismo de regulaciòn.
+Hay que cambiar el basculante $ 6000.- AVISADO x w app",Entregada,NULL
+249,214,"2022-01-21 17:23:26","2022-01-31 15:20:16","Sillon gerencial gris claro","cambiar estrella mediana",2600,"PAGADA / AVISADO X W APP",Entregada,NULL
+250,215,"2022-01-21 18:18:06","2022-02-03 14:51:13","Silla cajera tipo Rody roja y negra","Revisar y presupuestar: chapòn, cilindro, ruedas, enderezar aro, interno asiento de madera, retapizado asiento c/relleno.",14200,NULL,Entregada,NULL
+251,216,"2022-01-21 19:51:17","2022-01-28 18:41:40","repuesto de poya, se puede conseguir? llamar",Revisar,0,NULL,Entregada,NULL
+252,217,"2022-01-22 14:42:37","2022-01-29 14:11:20","2 Silla tipo Ergo negra c/apoyabrazos " D "","Retapizado completo",8200,"No hacemos fundas / Avisada x w app
+CONFIRMO RETAP. COMPLETO / AVISADA",Entregada,3000
+253,218,"2022-01-22 15:00:03","2022-01-27 18:57:20","Sillòn gerencial cromado c/red","Retapizar asiento en Ecocuero negro",2800,AVISADA,Entregada,NULL
+254,219,"2022-01-22 17:15:42","2022-03-22 16:17:12","Silla tipo Turìn negra c/apoyabrazos Golf","Retapizar asiento",2200,"AVISADA X W APP",Entregada,NULL
+255,220,"2022-01-24 14:37:55","2022-03-22 16:16:49","Sillòn bajo reg. manual, color rojo","Revisar regulaciòn de altura",2600,NULL,Entregada,NULL
+256,221,"2022-01-24 18:22:09","2022-03-22 16:16:18","Sillon red con apoyas grandes reulables","Revisar y presupuestar",0,"No podemos repararlo
+AVISADO",Entregada,NULL
+257,222,"2022-01-24 18:44:30","2022-01-26 19:55:43","2 Sillas Ergo con apoyabrazos D negras","Revisar y presupuestar",2250,NULL,Entregada,NULL
+258,223,"2022-01-25 14:14:47","2022-01-27 18:58:16","Sillòn gerencial negro cromado","Cilindro y revisar",0,NULL,Entregada,NULL
+259,224,"2022-01-25 20:30:15","2022-03-14 18:34:49","Silla 7010 negra","cilindro y retapizar asiento",6300,"AVISADO X W APP",Entregada,1000
+260,225,"2022-01-26 15:29:09","2022-01-31 16:04:21","Silla Turìn basic negra","Revisar inclinaciòn hacia adelante de asiento",0,"SIN CARGO
+AVISADO",Entregada,NULL
+261,17,"2022-01-26 17:42:51","2022-02-25 17:35:38","Silla Red chic negra","Revisar cilindro y chapòn (soldar)",6600,"Esperando autorizaciòn de cilindro
+$ 2500 + $ 4100
+Autorizado
+
+
+TERMINADO
+AVISADO",Entregada,NULL
+262,227,"2022-01-27 14:15:25","2022-02-08 14:56:17","Silla operativa negra, c/apoyab. china","Cilindro y revisar",4000,"Precio sin factura
+AVISADO X W APP",Entregada,NULL
+263,35,"2022-01-28 15:20:30","2022-02-11 16:11:37","Sillòn gerencial negro","Colocar estrella mediana y ruedas",4800,"Avisar a Nestor Vega 2236814418
+AVISADO",Entregada,NULL
+264,228,"2022-02-01 15:26:33","2022-03-22 16:15:56","Silla Rody baja s/apoyas","Revisar y avisar",6700,"Rellenar asiento, cilindro y perilla contacto.
+AVISADO",Entregada,NULL
+265,229,"2022-02-03 16:22:40","2022-02-03 19:16:44","Silla Plàstica blanca c/base cromada","cambiar cilindro",4200,AVISADA,Entregada,NULL
+266,11,"2022-02-03 17:40:05","2022-02-04 16:44:06","Silla Candy operative","Revisar y avisar",1800,NULL,Entregada,NULL
+267,230,"2022-02-03 19:53:28","2022-02-10 14:46:06","2 sillas tipo tyson, negras, sin apoyabrazos","Revisar y presupuestar",10800,CONFIRMADO,Entregada,NULL
+268,231,"2022-02-04 16:46:25","2022-02-15 17:21:55","Silla India gris, cromada c/apoyas","Revisar cilindro, ruedas y retapizado de asiento y respaldo",10300,AUTORIZADO,Entregada,NULL
+269,232,"2022-02-04 17:02:07","2022-02-09 15:12:23","Sillon gammer rojo y negro","Cambiar cilindro y endrerezar apoyas",4900,AVISADA,Entregada,NULL
+270,233,"2022-02-04 17:28:06","2022-02-19 14:12:13","2 Sillas tipo aluminio bajas, negra","Revisar y presupuestar. retapizado de apoyas",6800,"AUTORIZADO
+AVISADO",Entregada,NULL
+271,11,"2022-02-04 18:40:18","2022-02-08 16:05:03","Silla Candy operative","Cambiar ruedas",1800,AVISADO,Entregada,NULL
+272,234,"2022-02-08 20:36:34","2022-03-22 16:15:20","Sillon tipo gerencial chico, negro, con apoyas. N","Necesita que suba mas",4100,"Cambiar cilindro",Entregada,NULL
+273,154,"2022-02-09 18:39:18","2022-02-09 19:27:29","Mismo sillòn","Colocar estrella cromada y nivelar",3000,complicada,Entregada,NULL
+274,235,"2022-02-10 18:51:15","2022-02-14 16:07:56","Sillòn C grande","Estrella y ruedas",3000,NULL,Entregada,NULL
+276,35,"2022-02-11 18:36:40","2022-02-18 14:35:38","1 Sillòn gerencial, base y apoyas de madera y 1 Sillòn Aluminio bajo","Teñir sillòn grande y rellenar asiento, cilindro y suplementar $ 3300.-  / $ 4100.- / $ 700.-  Total $ 8100.-",8100,"Sillòn Aluminio no se puede hacer",Entregada,NULL
+277,237,"2022-02-11 20:25:48","2022-03-22 14:45:59","2 Sillas tipo tyson color bordo sin apoyabrazos, 2 sillones gerenciales negros con apoyas","Revisar y presupuestar. ver tapizado en los bords de los gerenciales",26600,"Ver cuaderno
+
+TERMINADO 
+AVISADO",Entregada,NULL
+278,238,"2022-02-12 15:14:57","2022-03-22 15:26:51","Sillòn C chico y silla china negra sin apoyas.","Cambiar cilindro de china a Sillòn / Retapizar sillòn",9100,"Retapizado $ 6000.- AUTORIZADO/ Tipo maleducado, no le gustò el retapizado. La segunda vez que se retapizò, tampoco le gustò ( y estaba bien )
+Cambio de cilindro $ 600.- / Interno asiento $ 2500.- / Le rebajè a $ 8500.-
+
+TERMINADO
+AVISADO",Entregada,NULL
+280,239,"2022-02-12 15:18:39","2022-02-15 20:49:41","Sillon gerencial Negro con base cober","Colocar estrella mediana",2600,AVISADO,Entregada,1000
+281,240,"2022-02-14 14:52:12","2022-03-22 15:26:26","Sillòn rojo tipo Ergo y silla tipo Tyson","Retapizados y  cambiar " T " en 1",9600,"retap. c/u $ 4200 . Talampaya 5735 / 5728 / 5733
+Cambiar  " T " $ 1200.-",Entregada,NULL
+282,241,"2022-02-14 16:35:30","2022-02-18 17:13:07","Sillòn viejo marròn monocasco","Colocar base completa ( equipo giratorio )",10000,"PAGADO / AVISADO",Entregada,NULL
+283,242,"2022-02-15 15:52:07","2022-03-09 16:50:16","Sillòn C chico negro","Colocar estrella mediana de las nuevas y ruedas usadas / $ 2600.- ruedas $ 900",3000,"Descuento en ruedas
+AVISADO",Entregada,NULL
+284,152,"2022-02-15 16:16:36","2022-02-22 16:04:07","Sillon gerencial Negro","Cotizar parches en tapizado",1500,"Retapizado completo $ 7000.-",Entregada,NULL
+285,243,"2022-02-17 16:54:46","2022-04-18 14:32:56","Sillòn gerencial negro /Mesh","Revisar y presupuestar",0,"AVISADO/ AUTORIZADO
+
+TERMINADO
+AVISADO",Entregada,NULL
+286,43,"2022-02-17 20:37:11","2022-09-12 15:50:44","DEL 28/01/22 : Estrella mediana $ 1920.- / Cilindro neumàtico $ 3370.- / Ruedas $ 376.- / Contacto permanente $ 4610.- / Chapòn $ 2060.- / Respaldo completo $ 5840.- / Equipo giratorio $ 2180.- / Par de apoyabrazos Golf $ 1600.- /","Retiro 5 cilindros 17/02/22",0,"PEDIDO 17/05/22  2 CONTACTOS Y 2 respaldos. Pago 14600. total 20800. Saldo 6200. retiro 2 contactos. 24/05/22 Retira 2 respaldos  , debe 6.200",Entregada,NULL
+288,35,"2022-02-18 14:36:05","2022-04-28 16:30:13","Silla fija  " 7010 " tela negra","retapizar y relleno. cambiar regatones . retocar estructura",5000,NULL,Entregada,NULL
+289,185,"2022-02-18 18:33:25","2022-03-26 16:08:04","1 Silla y 1 sillon con apoyas regulables en tela azul","Cambio de cilindro en los 2",8200,"TERMINADO
+AVISADO",Entregada,NULL
+290,244,"2022-02-18 20:47:28","2022-03-08 20:42:38","Silla tipo Biro, color gris, con apoyas","Revisar y presupuestar. Incluido el tapizado y relleno. Tiene las ruedas. Tapizado ecocuero 6168/6179.",7000,"TERMINADO
+AVISADO",Entregada,NULL
+291,245,"2022-02-19 17:44:32","2022-05-09 16:27:25","Sillòn gerencial grande","Cotizar retapizado con 2 colores y revisar/ Apoyabrazos, bordes respaldo y borde delantero asiento en Talampaya 6166 ò 5737",16150,"consultar colores de parches y cuales son. PASA A VER COLORES 03/03/22 
+Retapizado completo $ 6000.- / Basculante $ 6050.- / Cilindro $ 4100.- AUTORIZADO / AVISADA X W APP",Entregada,10000
+292,152,"2022-02-22 16:04:47","2022-02-25 18:37:30","Sillón gerencial negro","Parchear tapizado",900,"TERMINADO
+AVISADO",Entregada,NULL
+294,246,"2022-02-23 20:47:36","2022-02-25 17:21:22","Siilon gris con apoyas","estrella mediana",2600,AVISADA,Entregada,NULL
+295,132,"2022-02-25 16:41:12","2022-03-22 15:25:47","2 Sillas turin basic","revisar y reparar cilindros",4000,"ENVIAR FACTURA A CARMEN",Entregada,NULL
+296,247,"2022-03-03 15:51:45","2022-04-13 13:32:43","Silla  " Candy operative "","Cambiar cilindro y ( ruedas )",0,"Sin cargo
+
+TERMINADO
+AVISADO",Entregada,NULL
+297,248,"2022-03-04 15:09:34","2022-03-22 16:07:06","Sillòn gerencial negro con casco","Ruedas y estrella mediana",4400,"TERMINADO
+AVISADO",Entregada,NULL
+298,250,"2022-03-05 15:45:09","2022-03-17 13:26:22","Silla " 7010 " neumàtica","cambiar chapòn",3400,AVISADA,Entregada,NULL
+299,251,"2022-03-05 16:08:47","2022-04-08 15:02:24","10 Silla 7010 tap. en tela","Revisar y presupuestar",0,"Esperando respuesta",Entregada,NULL
+301,252,"2022-03-08 16:54:30","2022-03-09 17:25:27","Silla Rody baja","Colocar estrella",2600,NULL,Entregada,NULL
+302,253,"2022-03-08 17:14:32","2022-04-21 18:13:55","Silla Red negra","Buscar respaldo de repuesto",0,"No hay repuesto.
+Colocar parte superior de Candy operative $ 11000.- /AVISADO",Entregada,NULL
+303,254,"2022-03-08 20:04:53","2022-03-12 15:04:23","Base basculante negra","Cambiar estrella y ruedas",4200,NULL,Entregada,2000
+304,255,"2022-03-09 16:00:03","2022-04-01 13:16:57","Silla 8500 c/apoyas en color verde",soldar,2500,"TERMINADO
+AVISADO",Entregada,NULL
+305,256,"2022-03-10 15:17:57","2022-03-10 19:40:28","Base cromada basculante","Cambiar basculante",6700,"CUIT  30-70716077-9
+AVISADO",Entregada,NULL
+306,257,"2022-03-10 18:41:52","2022-03-22 15:27:21","Sillòn gamer GP  Game Pro  blanco y negro",CILINDRO,4510,PAGADO/AVISADO,Entregada,NULL
+307,224,"2022-03-10 20:59:09","2022-03-14 19:31:10","Silla 8500 negra, giratoria","Cambio de cilindro",4500,"TERMINADO
+AVISADO",Entregada,2000
+308,198,"2022-03-11 15:53:19","2022-03-28 14:44:45","Silla Rody alta azul petroleo","Revisar y presupuestar",8550,"AUTORIZADA / AVISADO",Entregada,NULL
+309,258,"2022-03-11 17:28:50","2022-03-15 15:13:44","Silla Rody premium en tela negra","Cilindro y 5 ruedas",6200,"AUTORIZADO
+
+TERMINADO",Entregada,2000
+310,93,"2022-03-11 18:03:05","2022-03-22 14:11:10","4 Sillones tipo director plegable","Retapizar en lona cobertura negra",14400,AUTORIZADO,Entregada,NULL
+311,259,"2022-03-16 14:49:07","2022-03-22 14:10:31","Alma Blanca",Cilindro,0,"Silla Alma en garantía cambio de cilindro (Sin cargo)
+
+
+TERMINADO
+AVISADO",Entregada,NULL
+312,37,"2022-03-16 14:55:18","2022-09-05 14:13:50","Rody alta negra sin apoyas","Revisar y presupuestar",9400,"Cilindro, palanca chapòn, interno de madera, ruedas, Rellenar y retap. asiento
+Sin retapizado de asiento $ 7000.-/Avisar cuando hay sillas usadas x 3
+
+NO SE HACE
+NOS QUEDA A NOSOTROS",Entregada,NULL
+313,260,"2022-03-16 16:03:53","2022-03-17 15:16:04","Silla Candy operative","Colocar cilindro largo",800,"TERMINADO
+AVISADO",Entregada,NULL
+314,261,"2022-03-17 18:55:06","2022-03-29 13:13:10","Sillon tipo Milano alto , negro","Revisar y presupuestar",0,"NO SE HIZO
+ENTREGADO",Entregada,NULL
+316,71,"2022-03-21 13:54:04","2022-03-22 19:01:32","Sillon gerencial Negro con casco y paneles de apoyabrazos","Revisar cilindro, perilla de palanca y suplem.",4750,AVISADO,Entregada,NULL
+317,66,"2022-03-22 16:14:11","2022-03-22 16:14:49","Silla cajera negra","Revisar y arreglar, limpiar ruedas...",9700,"AVISADO
+REPARACION DEL 11 DE FEBRERO",Entregada,NULL
+318,263,"2022-03-22 17:15:39","2022-03-25 18:19:16","Base neumatica chica","Cambio de cilindro",4500,NULL,Entregada,NULL
+319,264,"2022-03-22 18:35:27","2022-03-29 14:04:58","2 Sillas 1 verde sin apoyas y 1 beige","Revisar las 2",1600,"Propuesta en conversaciòn",Entregada,NULL
+320,265,"2022-03-22 18:52:33","2022-04-19 17:38:41","Silla 7000 opertaiva, negra","Colocar estrella mediana",2860,"TERMINADO
+AVISADO",Entregada,1000
+321,266,"2022-03-23 13:54:38","2022-04-01 14:58:05","Silla India Negra c/apoyab cromados","Cilindro y retap. asiento",7700,"Hubo que suplementar el cilindro (por èso agregamos $ 700.- )
+
+TERMINADO
+
+AVISADO",Entregada,1000
+322,24,"2022-03-23 15:09:47","2022-04-02 15:15:49","Silla Rody negra c/apoyas","Resorte de chapòn y ajustar apoyabrazos.",2500,AVISADO,Entregada,NULL
+323,267,"2022-03-23 16:30:24","2022-04-09 14:28:49","Silla tipo Candy negra","Chapòn y ruedas usadas",3750,"TERMINADO
+AVISADO",Entregada,1000
+324,268,"2022-03-25 15:04:31","2022-03-29 17:00:29","Silla 8500 Cuerotex arena c/apoyabrazos","Soldar y reforzar orejas respaldo",2500,"TERMINADO
+Avisada",Entregada,NULL
+325,269,"2022-03-25 16:08:22","2022-03-29 16:59:30","Sillòn gerencial negro","Revisar cilindro y basculante",4700,"Cilindro y cucurucho",Entregada,NULL
+326,270,"2022-03-25 19:13:52","2022-04-06 19:47:30","Sillon gerencial Negro","Revisar y presupuestar por separado los arreglos",11150,"cilindro y basculante
+
+TERMINADO
+AVISADO",Entregada,NULL
+327,271,"2022-03-25 20:02:24","2022-05-19 15:50:40","Silla tipo candy, red roja","Revisar y presupuestar",6600,"Cilindro y Rellenar asiento
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+328,209,"2022-03-26 13:17:31","2022-04-13 18:36:08","Silla de madera","Hacer madera interno, retapizar y rellenar  asiento en talampaya negro",3500,"AVISADA
+
+TERMINADO",Entregada,2000
+329,22,"2022-03-26 15:15:14","2022-04-12 19:26:11","Sillòn C chico c/gris","Retapizado completo en Cuerotex negro",6000,TERMINADO,Entregada,1000
+330,272,"2022-03-28 17:19:47","2022-04-08 17:32:31","Base Silla Alma","Revisar estrella c/cilindro pasado. Presupuestar",1300,"TERMINADO
+AVISADO",Entregada,NULL
+331,134,"2022-03-28 17:59:03","2023-09-08 18:41:28","Silla Rody baja gris, con apoyabrazos","Revisar y presupuestar",15000,"AVISADO X W APP
+$ 17250.- ( actualizado a Julio )/ actualizado a Diciembre $ 21.500.-
+NO PAGARON . NO RETIRARON. PASA A STOCK PARA VENTA",Entregada,NULL
+332,273,"2022-03-28 19:39:47","2022-05-10 19:22:27","Silla 7010 gris","colocar càscara respaldo",0,"SIN CARGO
+
+TERMINADO
+
+AVISADO",Entregada,NULL
+333,274,"2022-03-28 19:43:15","2022-04-01 17:26:34","Sillon gerencial Negro","Cilindr, suplem. c/grilòn y suplem. estrella.",5500,"TERMMINADO
+
+AVISADO",Entregada,NULL
+334,275,"2022-03-28 19:53:39","2023-04-04 14:13:47","Silla tipo Rbaja china negra","Revisar y presupuestar",0,"Retap. asiento $ 2700.- / Ruedas $ 1700.- / Cilindro $ 4700.-
+AVISADA en abril y mayo, hasta Agosto nunca contestò.
+ESTA ARRIBA",Entregada,NULL
+335,276,"2022-03-30 17:32:28","2022-04-05 16:09:13","Asiento Cuerotex baige",Rellenar,0,NULL,Entregada,NULL
+336,277,"2022-03-30 17:34:27","2022-04-11 15:39:05","Sillón "C" alto mesh","Cilindro y revisar",4700,"cilindro
+
+TERMINADO
+AVISADO",Entregada,1000
+337,153,"2022-03-31 14:21:15","2022-05-09 16:19:22","Silla negra/gris con apoyas y base cromada","Chapòn y revisar",3200,"chapòn nuevo
+LLEVAR A BULONERA
+
+TERMINADO",Entregada,NULL
+338,278,"2022-04-02 16:00:59","2022-04-28 17:24:35","Silla Biro alta negra","Revisar y avisar",7400,"Contacto nuevo y retapizar asiento ( $ 4700 +$ 2700 )
+AVISAD X W APP",Entregada,NULL
+339,279,"2022-04-02 16:41:17","2022-04-28 16:29:42","Silla Alma est. negra /azul","Cambio de cilindro",0,"Sin cargo
+
+TERMINADO
+AVISADO",Entregada,NULL
+340,280,"2022-04-04 18:00:33","2022-04-27 19:15:30","Sillon gerencial Negro","Revisar y presupuestar",2350,"Rellenar asiento, inserto y tornillo
+AVISADO X A APP",Entregada,NULL
+341,281,"2022-04-05 16:55:36","2022-05-14 15:14:53","2 Sillones chicos tipo C Bordò y amarillo","Revisar y presupuestar",7750,"TERMINADO / TALAMPAYA NEGRO
+AVISADO",Entregada,NULL
+342,211,"2022-04-07 17:37:55","2022-04-13 15:31:05","Silla Candy","Cambiar basculante",4500,"TERMINADO
+AVISADO",Entregada,NULL
+343,282,"2022-04-08 16:13:35","2022-05-21 15:40:37","Silla tipo India cromada negra","Cilindro y rellenar asiento",7500,AVISADA,Entregada,3000
+344,283,"2022-04-09 14:30:05","2022-05-06 13:55:03","2 Silla 7010 s/apoyas  y 3 sillas Tyson c/ovalina s/apoyas. Todas en Ecocuero gris","Revisar y presupuestar",21200,"Pasè presup. x w app / AUTORIZADO
+AVISADO",Entregada,NULL
+345,284,"2022-04-11 13:35:46","2022-04-20 13:09:58","2 Silla Turìn basic negra , neum.","Se inclinan hacia adelante / clavar bien chapòn en una",0,"TERMINADO 
+AVISADO",Entregada,NULL
+346,7,"2022-04-11 14:01:42","2022-05-30 19:14:35","2 Silla 7010 negras y 1 sillòn Gerncial negro plàstico","Revisar y hacer",12080,"AUTORIZADO / ORDEN DE COMPRA Nº 178
+FACTURA ENVIADA 10/05/22. ENTREGADAS- PAGADO 30/05/22
+AVISADO",Entregada,NULL
+347,285,"2022-04-12 18:11:09","2022-04-28 16:31:10","Banqueta alta, neum., c/asiento en Econegro, cromada","Fijar altura en màximo",2500,"TERMINADO 
+AVISADO",Entregada,1000
+348,286,"2022-04-12 19:23:55","2022-04-28 16:39:32","Silla tipo India","cambiar estrella y suplementar",3500,"PAGADO
+
+TERMINADO
+AVISADO",Entregada,NULL
+349,287,"2022-04-19 13:33:42","2022-04-28 18:31:45","Banqueta negra","Revisar y presupuestar",2500,"Fijar en altura màx. . entre 73 y 75 la altura final
+Esperando autorizaciòn.",Entregada,2000
+350,288,"2022-04-19 15:13:44","2022-05-09 19:45:36","Base basculante negra","Revisar y presupuestar",4850,"Enviè w app con 2 opciones: estrella plàstica c/ruedas $ 4850.-
+AUTORIZADO",Entregada,NULL
+351,17,"2022-04-19 17:18:36","2022-04-27 19:54:19","Silla red chica negra ( ya traida )","revisar chapòn",0,"SIN CARGO
+AVISADO",Entregada,NULL
+352,284,"2022-04-19 19:13:52","2022-04-20 13:10:04","2 Turìn basic","Suplementar de adelante",0,"SIN CARGO
+AVISADO",Entregada,NULL
+353,289,"2022-04-20 18:09:09","2022-08-23 13:50:45","1 Silla Candy negra y 1 silla cromada negra","Silla cromada, no tiene arreglo, silla Candy : fabricar interno $ 3800.- y cilindro $ 4700.- ( si se utiliza el cilindro de la otra, se ahorra èste importe)",4200,"Enviè presupuesto por w app
+AUTORIZADO / AVISADO 2 VECES
+TERMINADO 
+AVISADO",Entregada,NULL
+354,290,"2022-04-20 18:39:52","2022-05-06 15:18:26","Sillòn Negro gerencial","Cilindro, rellenar asiento y parches, fuelle telescòpico, 1 rueda",5500,"PRECIO REAL $ 7100,  CON DESCUENTO $ 5500.-
+AVISADA X W APP",Entregada,NULL
+355,291,"2022-04-21 19:19:40","2022-05-02 18:02:22","Silla India azul","Cambiar cilindro",0,"PAGADA / AVISADO
+Trae nuevamente, se saliò estrella. SIN CARGO",Entregada,NULL
+356,292,"2022-04-23 15:40:04","2022-06-15 18:43:44","Silla tipo Rody color tiza","Cambiar apoyabrazos y retapizado completo en Talampaya 454 ò 159",6200,"5330 + 900
+TERMINADO AVISADO",Entregada,2000
+357,293,"2022-04-26 16:36:58","2022-04-29 16:39:21","Silla Rody alta negra",Contacto,4300,TERMINADO,Entregada,NULL
+358,294,"2022-04-26 18:33:44","2022-05-03 18:59:28","Silla tipo NV-5  gris","Suplementar estrella, ajustar respaldo y chapòn c/arandelas",700,"Ver estrella y respaldo
+AVISADA
+
+TERMINADO",Entregada,NULL
+359,185,"2022-04-27 13:55:49","2022-05-07 14:33:27","Asiento y respaldo silla fija",Retapizar,3900,"TERMINADO
+PAGADO
+
+Enviè presupuesto x mail",Entregada,NULL
+360,295,"2022-04-27 15:10:42","2022-05-30 19:34:12","Sillon gerencial Negro con laterales/apoyab. tapizados","Presupuestar basculante, retap. de laterales y revisar.",10700,"AUTORIZADO SALDO $ 8700.-
+TERMINADO. PAGADO TODO
+AVISADO",Entregada,2000
+361,297,"2022-04-27 17:50:49","2022-05-23 15:13:21","2 Sillas Cajeras tipo Tyson negras c/apoyas","Revisar y presupuestar /No tapizado asientos, solamente del respaldo de una , pero aparte.",19800,"PAGADO X TRANSF.
+TERMINADO
+FALTA AVISAR (ESTA DE VACACIONES)",Entregada,NULL
+362,298,"2022-04-27 18:35:55","2022-05-20 15:20:08","3 Silla " 7010 " fija negra y  1  " 7010 " neumàtica sin brazos","Revisar y presupuestar",15940,"Enviè pres. x mail
+AUTORIZADO. Factura enviada y flete agregado. PAGADO POR TRANSFERENCIA
+TERMINADO
+AVISADO",Entregada,NULL
+363,280,"2022-04-27 19:17:21","2022-05-03 17:29:19","Silla tipo Candy roja","Revisar inclinacion y relleno",2100,"Rellenar asiento y suplementar chapòn c/arandelas
+
+TERMINADO
+AVISADO",Entregada,NULL
+364,299,"2022-04-28 16:22:46","2022-05-20 15:20:33","Silla china negra alta","Rellenar y retapizar comp. ruedas y chapòn",9500,"AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+365,300,"2022-04-28 17:51:41","2022-05-02 18:09:40","Sillòn Mesh alto cromado","Colocar estrella cromada",6930,"TEMRINADO / Entregado
+AVISADO",Entregada,NULL
+366,301,"2022-04-28 18:42:13","2022-05-31 14:24:31","Silla fija de comedor, madera, esterilla y tela bordó","Fabricar interno de madera",2800,"TERMINADO
+AVISADO",Entregada,1000
+367,271,"2022-04-29 15:51:05","2022-05-19 15:50:47","Silla Candy con rojo - Sillon tipo C negro","Revisar y presupuestar",22770,"Tipo C: estrella chica,  1 rueda,
+Chapón,  relleanar respaldo, rellanar y retapizar asiento.
+
+Candy roja: basculante, 2 tornillos, rellenar asiento.
+
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+368,302,"2022-04-29 17:31:53","2022-05-24 17:42:31","Sillòn gerencial negro tipo Trento","Revisar y avisar",4500,"Fabricar interno ( abrir y cerrar tapizado ) y rellenar 
+Esperando confirmaciòn.
+AUTORIZADO
+TERMINADO 
+AVISADO",Entregada,NULL
+369,303,"2022-04-30 13:40:03","2022-08-30 15:39:57","Silla Simet cromada ceniza","Retapizar asiento y apoyabrazos / en Talampaya 268 ò 159 / COLOCAR 1 TORN. pARKER.",3600,"Revisar y presupuestar / Pasè pres. x w app / AUTORIZADO
+TERMINADO 
+AVISADO",Entregada,NULL
+370,304,"2022-05-02 17:17:18","2022-05-04 16:44:53","Base neumàtica basculante","cilindro, estrella y 1 rueda /",9570,"PAGADO / FACTURA HECHA ( ENTREGAR )
+AVISADO X W APP",Entregada,NULL
+371,305,"2022-05-03 13:40:28","2022-05-21 14:47:11","Sillon gerencial Negro","Retapizado completo, limpiar apòyabrazos y lubricar eje y ruedas",7100,"Revisado y presupuestado.
+CONFIRMADO
+TERMINADO
+AVISADO",Entregada,3500
+372,306,"2022-05-03 14:18:08","2022-05-13 16:54:54","Sillon gerencial Negro","Cambiar cilindro, abrir tapizado y sacar tornillos cortados de insertos apoyabrazos, colocar 2 tornillos largos Allen.",6050,"Revisar cilindro / Alejandro
+Enviè mensaje x w app
+TERMINADO
+AVISADO",Entregada,NULL
+373,307,"2022-05-03 15:12:56","2022-05-10 17:06:11","Silla tipo tyson rosa sin apoyabrazos","Revisar y presupuestar y tapizar. cuerotex 3 o 4, o ecocuero 268 o 159",3100,"Respaldo nuevo, retapizado completo, 2 tornillos y ruedas. HACER SOLO RESPALDO
+AVISADO",Entregada,NULL
+374,294,"2022-05-04 18:18:45","2022-05-11 18:42:41","Sillon Turin Basic negra","Cambio de cilindro y rellenar asiento",7000,AVISADO,Entregada,NULL
+375,308,"2022-05-06 19:32:49","2022-06-24 14:12:36","Silla 7010 NEUMÀTICA en Puntino petroleo","Cilindro, rellenar asiento, enderezar estructura, perilla cilindro.",7250,"Revisar y presupuestar
+ENVIE PRES. X  W APP
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+376,185,"2022-05-07 14:37:55","2022-06-04 16:55:10","Silla azul c/resp. red",Cilindro,4900,"AUTORIZADO
+TERMINADO / PAGADO
+AVISADO",Entregada,NULL
+377,89,"2022-05-09 16:04:52","2022-05-11 19:43:52","1 asiento alma, 1 asientoRody y 1 respaldo India Mesh","Retapizar en Talampaya negro y Mesh negro",7700,AVISADO,Entregada,NULL
+378,309,"2022-05-10 14:17:37","2022-06-10 18:45:37","Banqueta alta cromada, neum., econegro","soldar base",2400,"Pidiò precio para retapizar otra igual $ 4900.-
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+379,310,"2022-05-10 16:48:56","2022-05-13 16:18:09","Sillon gerencial Negro pequeño","Colocar estrella chica màs 1 rueda ( $ 340.- )",2940,AVISADO,Entregada,1500
+380,311,"2022-05-11 14:48:39","2022-06-15 19:18:10","Sillon gerencial Negro","colocar estrella mediana, 1 rueda y suplementar con arandelas.",3840,"Revisar y presupuestar
+ENVIE PRES. X  W APP
+TERMINADO 
+AVISADO",Entregada,NULL
+381,312,"2022-05-11 14:50:16","2022-05-19 17:19:17","Sillòn C chico negro","Cambiar cilindro y chapòn, fijar c/parker",7900,"AUTORIZADO
+TERMINADO
+AVISADO",Entregada,4000
+382,281,"2022-05-11 14:51:57","2022-06-29 18:39:44","Sillòn tipo C amarillo puntino","Revisar y presupuestar",8100,"Equipo giratorio, retapizado completo en Talampaya negro y 1 tornillo
+ENVIE PRES. X  W APP
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+383,313,"2022-05-11 15:48:18","2022-06-14 16:06:01","Silla Rody alta c/riñonera","Revisar y presupuestar",6470,"Contacto perm. c/soldadura
+AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+384,314,"2022-05-11 19:23:37","2022-06-08 19:09:03","Sillòn Mesh cromado","Cmabiar rueditas rotas y tapizar y rellenar asiento/ parche respaldo",4500,"Falta parche respaldo. PAGADO 
+AVISADO",Entregada,2000
+385,315,"2022-05-13 14:40:51","2022-07-27 15:14:36","Silla operativa negra con apoyas","Revisar y presupuestar",0,"No tiene arreglo. roto el Asyncro.
+Nos la deja.",Entregada,NULL
+386,316,"2022-05-13 16:22:03","2022-05-27 14:31:43","2 Silla tipo Turin con cabezal negras, con bases cromadas. cuit 30716948052","Cambiar basculates",11600,"AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+387,317,"2022-05-16 16:31:29","2022-05-23 16:32:32","Sillon gammer tipo Bkl, negro","Cambio de cilindro",4900,"AUTORIZADO
+TERMINADO
+AVISADO",Entregada,NULL
+388,264,"2022-05-16 19:45:42","2022-06-02 14:10:20","1 Silla verde, sin apoyas","cambiar cilindro 4.900.-. tapizado completo 5.500",10400,"AUTORIZADO 
+TERMINADO 
+AVISADO",Entregada,NULL
+389,318,"2022-05-19 19:11:59","2022-05-27 19:09:34","sillon gammer negro y rojo","Cambiar basculante y ruedas",7370,"AUTORIZADO 
+TERMINADO 
+AVISADO",Entregada,NULL
+390,319,"2022-05-20 19:50:32","2022-05-31 15:41:55","Sila tipo Tyson con apoyas negra","Ruedas y tapizado  - venuspesquera@hotmail.com enviar fc 30-68558882-6",4700,"tapizado ecocuero 125. solo asiento. opcion 2 negro
+
+TERMINADO
+AVISADO",Entregada,2000
+391,320,"2022-05-21 13:38:50","2022-05-27 19:36:39","Sillon operativo negro, tela mesh, con apoyas, cromado","Cambio de cilindro",4900,NULL,Entregada,1000
+392,36,"2022-05-23 15:30:31","2022-07-14 13:16:23","Silla tipo Rody negra, con apoyabraz0os","Revisar y presupuestar",14500,"Se baja
+Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+393,321,"2022-05-23 18:06:35","2022-05-28 15:07:30","Estrella plateada con cilindro y ruedas","Cambiar ruedas y cilindro a base cromada nueva",6800,"ENVIADA fc A . cuit 30707642188 - mail  irubatsa@gmail.com. ENTREGADA 26/05, PAGADA POR TRANSFERENCIA",Entregada,1000
+394,322,"2022-05-24 19:44:26","2022-07-02 15:35:43","2 Pie de Banquetas plateadas","Sacar y luego volver a colocar los cilindros",2000,"Se llevo la base, quedaron los cilindros.
+Trajo todo/armar",Entregada,NULL
+395,323,"2022-05-26 19:21:15","2022-08-22 17:56:41","Silla tipo Rody alta, crudo y negra, con apoya","Revisar y presupuestar",2100,"AVISADO X W APP
+NUEVAMENTE EN AGOSTO !!
+TERMINADO 
+AVISADO",Entregada,NULL
+396,324,"2022-05-27 18:29:11","2022-06-15 18:09:23","Silla china negra sin apoyas","Revisar y presupuestar",13250,"NO SE HACE",Entregada,NULL
+397,250,"2022-05-28 14:38:51","2022-06-02 16:07:58","Silla 7000 con aro cajero","Revisar y presupuestar",4600,"AVISAD X W APP
+AUTORIZADO 
+TERMINADO
+AVISADO",Entregada,NULL
+398,325,"2022-05-31 15:43:56","2022-05-31 15:44:07","Silla cromada respaldo blanco, asiento rojo",Cilindro,0,"Se hizo en el momento y no se tomaron  datos.",Entregada,NULL
+399,326,"2022-05-31 18:55:14","2022-06-10 14:35:21","4  Sillas 8500, neumàticas con apoyabrazos","Cambiar cilindros, tapizado de 2 asientos, ruedas y revisar",32150,"PASE PRES. X W APP
+APROBADO
+TERMINADO 
+AVISADO",Entregada,NULL
+400,327,"2022-05-31 18:57:26","2022-06-10 17:47:36","Silla china tipo Rody c/apoyas, negra","Revisar y avisar",6600,"PASE PRESUP. X W APP
+Cilindro y ruedas",Entregada,NULL
+401,328,"2022-06-01 13:59:30","2022-06-02 17:47:09","Sillon gerencial Negro con apoyas","Revisar y presupuestar",600,"suplem. respaldo",Entregada,NULL
+402,329,"2022-06-01 15:42:56","2022-06-10 16:17:40","Sillon gerencial Negro","Revisar y presupuestar . tapizado tambien",3900,"Reatapizar apoyas y trasero respaldo
+TERMINADO
+AVISADO",Entregada,NULL
+403,330,"2022-06-01 17:24:46","2022-06-06 17:51:12","3 Sillònes gerenciales medianos, c/casco","cambiar cilindros y reparar 1 apoya ( tornillo cortado )",15480,"AUTORIZADO 
+TERMINADO 
+AVISADO",Entregada,NULL
+404,50,"2022-06-02 19:43:11","2022-06-10 18:53:10","Banqueta blanca alta giratoria",reparar,800,"TERMINADO
+AVISADO",Entregada,NULL
+405,331,"2022-06-04 13:30:32","2022-06-11 16:03:28","gammer rojo/negro","Estrella mediana",4000,"Faja en asiento $ 800.- estrella $ 3200.-  total $ 4000.-
+AVISADO X W APP
+TERMINADO
+AVISADO",Entregada,NULL
+406,332,"2022-06-04 14:59:25","2022-06-06 19:28:16","Sillòn gerencial negro","Cambiar cilindro y basculante ( c/Parker)",10570,"AUTORIZADO 
+TERMINADO 
+AVISADO",Entregada,5000
+407,333,"2022-06-04 15:45:07","2022-10-20 13:11:05","Silla NV-5 negra c/apoyas.","Revisar y presupuestar",13700,"1 apoyabrazos, chapòn , cilindro y retapizar asiento.
+Pasa entre 26 y 27 de sep. a dejar seña.
+/CUANDO ESTE TERMINADO MANDAR UN MENSAJE DE TEXTO/AVISADO POR MEN. DE TEXTO",Entregada,5000
+408,334,"2022-06-04 16:10:01","2022-06-06 17:54:28","Sillòn C chico negro","Estrella chica",2750,"AUTORIZADO 
+TERMINADO 
+AVISADO",Entregada,NULL
+409,335,"2022-06-06 13:48:02","2022-06-10 19:00:14","Silla operativa, negra, mesh, con apoyas","Revisar y presupuestar",8700,"Cilindro, ruedas, 3 tornillos y rellenar asiento
+ENVIE PRES. X W APP
+TERMINADO
+AVISADO",Entregada,NULL
+411,336,"2022-06-06 15:03:00","2022-06-14 17:28:06","Rody alta cajera.","Sacar el aro y revisar",800,"TERMINADO
+AVISADO",Entregada,NULL
+412,337,"2022-06-06 16:54:39","2022-06-09 17:10:09","Asiento gamer verde y negro","Rellenar asiento",1800,"AVISADO X W APP",Entregada,NULL
+413,247,"2022-06-06 17:04:32","2022-07-22 17:12:19","2 Silla Candy operative negra - silla India Vison","Revisar y presupuestar",13650,"TERMINADO 
+AVISADO / PAGADO",Entregada,NULL
+414,338,"2022-06-07 17:30:57","2022-06-11 13:53:08","Silla India negra","Revisar cilindro",800,"Colocar bolillero / rulemàn , arandelas y cierre.
+AVISADO",Entregada,NULL
+415,339,"2022-06-08 14:23:32","2022-07-07 14:01:35","Silla Turin Basic negra","Arreglar asiento",0,"TERMINADO 
+AVISADO 2 veces",Entregada,NULL
+416,340,"2022-06-08 15:10:45","2022-06-24 14:12:12","Sillon gerencial negr mesh con apoyas","Revisar y presupuestar",0,"NO TIENE ARREGLO
+AVISADO X W APP",Entregada,NULL
+417,342,"2022-06-09 16:34:39","2022-06-14 17:54:09","Silla mesh cromada c/apoyas negros","Revisar y avisar",7100,"Cilindro y revisar
+AVISADO X  W APP",Entregada,NULL
+418,341,"2022-06-09 17:03:45","2022-07-01 18:08:46","7  Sillones c/casco y apoyabrazos, tapizados en tela negra","Revisar y avisar",55500,"PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+419,343,"2022-06-09 17:37:18","2022-06-25 14:50:03","Silla 7010 negra c/apoyas","Revisar y avisar",4300,"ENVIE W APP
+TERMINADO 
+AVISADO",Entregada,NULL
+420,344,"2022-06-09 17:48:56","2022-07-18 18:46:20","5 Rody alta, 7 tipo Tyson (2 sin apoyas), 1 "7010 " c/apoyas, 1 tipo "7010" c/apoyas, 2 sillas U marrones sin apoyas, 2 gerenciales c/apoyas, 1 sillòn C mediano c/apoyas.","Revisar y presupuestar",93290,"Hacer sillas  2 / 3 / 8 / 9 / 14 / 15 / 16 / 17 / 18 / 19
+Depositaron seña de $ 46645 / AVISADO X W APP",Entregada,46645
+421,345,"2022-06-10 18:06:51","2022-06-13 14:07:50","Silòn gamer naranja/negro","Cambiar cilindro",4900,"PAGADO
+TERMINADO
+AVISADO",Entregada,NULL
+422,292,"2022-06-11 16:17:54","2022-06-11 16:53:24","Silla tipo Rody color tiza","Ajustar apoyabrazos",300,AVISADA,Entregada,NULL
+423,346,"2022-06-13 13:16:35","2022-06-16 18:42:58","Tipo "c" Alto","Retapizar completo Y rellenar asiento",5300,"TERMINADO 
+AVISADO",Entregada,3000
+424,338,"2022-06-14 15:15:39","2022-07-01 17:55:04","Sillon gerencial chico/bajo con casco negro","Revisar y presupuestar",4000,"Chapòn y 2 ruedas
+AVISÈ X W APP
+TERMINADO
+AVISADO",Entregada,NULL
+425,347,"2022-06-14 15:56:44","2022-06-28 18:30:57","Sillòn gerencial Mesh cromado","Revisar y avisar",5600,"Arreglo respaldo màs base cromada $ 5600.-",Entregada,NULL
+426,313,"2022-06-14 16:06:22","2022-06-21 13:18:43","Silla china sin apoyas","Revisar y presupuestar",2000,"Cambiar respaldo
+AVISADA",Entregada,NULL
+427,185,"2022-06-15 18:38:32","2022-07-05 16:12:31","3 Sillas tapizado azul","Revisar y presupuestar",22900,"Tapizar Ecocuero negro / ENTREGADAS 
+Pasè presupuesto x mail a Luis Tessore, por las 2 sillas y 1 màs para retapizar /FACTURA ENVIADA",Entregada,NULL
+428,36,"2022-06-15 18:41:11","2022-07-14 13:16:33","Silla tipo Rody negra c/apoyas","Revisar y presupuestar",8600,"Retapizar asiento y cambiar contacto c/soldadura
+Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+429,348,"2022-06-16 14:39:47","2022-06-21 13:26:07",Bascualnte,cambiar,5800,"TERMINADO 
+AVISADO",Entregada,1000
+430,349,"2022-06-16 14:41:18","2022-07-01 13:55:55","Sillon Aluminio Alto negro","Revisar inclinacion, revisar y presupuestar",6200,"Cambiar basculante con adaptaciòn.
+
+TERMINADO 
+AVISADO",Entregada,NULL
+431,350,"2022-06-17 15:05:36","2022-06-30 17:56:10","Sillòn gerencial negro","Revisar y presupuestar",14200,"Enviè pres. x w app
+TERMINADO / DEBEMOS $ 800.-
+AVISADO",Entregada,NULL
+432,348,"2022-06-21 13:26:27","2022-06-23 17:11:10","Sillon gerencial Negro",Armar,0,"TERMINADO
+AVISADO",Entregada,NULL
+433,351,"2022-06-21 15:06:17","2022-06-21 19:06:19","Silla china chica negra","cambiar estrella",3200,"TERMINADO
+AVISADO",Entregada,2000
+434,352,"2022-06-21 15:08:46","2022-06-21 18:29:10","Sillon c chico","Cambio de cilindro y soldar chapòn",5700,"TERMINADO
+AVISADO",Entregada,3000
+435,353,"2022-06-21 20:02:00","2022-06-30 16:20:47","Sillo gerencial Negro","cilindro y revisar",8800,"Cilindro, soldar basculante,tornillo, retap. apoyas y rellenar asiento.
+PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+436,344,"2022-06-22 13:50:18","2022-07-22 18:21:08","1 Rody alta negra","Revisar y presupuestar/ cilindro",0,NULL,Entregada,NULL
+437,354,"2022-06-22 18:38:16","2022-06-23 14:48:48","Sillòn Mesh c/cabezal","Estrella grande y ruedas",5100,"PAGADO
+RETIRA FLETERO RAUL RADICI
+
+TERMINADO 
+AVISADO",Entregada,NULL
+438,355,"2022-06-22 19:48:59","2022-06-23 17:11:46","Sillòn C chico negro","Colocar chapòn c/manija",3150,"TERMINADO 
+AVISADO",Entregada,1000
+439,356,"2022-06-23 13:05:26","2022-06-25 16:30:01","Sillon mesh negro","cilindro y revisar",5700,"Cilindro y suplementar estrella
+PAGADO
+TERMINADO 
+AVISADO",Entregada,3000
+440,357,"2022-06-23 15:40:51","2022-07-14 16:17:25","1 sillon c chico negro y 2 sillas rody aalta con riñonera azul sin apoyas","Revisar y presupuestar",27700,"AUTORIZADO
+AVISADO x w app",Entregada,NULL
+441,50,"2022-06-23 16:56:06","2022-08-22 16:34:02","Sillòn Mesh cromado","Revisar y presupuestar / Ver tapizado respaldo, parte cuerina  $ 11.100.- + $ 3500.-",14600,"Presupuestado x w app / devolver $ 3500.-
+Sumè $ 3500.- de interno nuevo / Para la pròxima ojo... no reconociò lo del interno !
+Devolvì $ 2900.- que fuè lo que me reclamò.
+TERMINADO 
+AVISADO",Entregada,NULL
+442,343,"2022-06-25 14:50:37","2022-07-02 15:36:49","Silla cromada c/cuero rojo","Cambiar chapòn c/adaptaciòn",3500,"Cambiar chapòn c/adaptaciòn 
+$ 3500.-  APROBADO
+TERMINADO
+AVISADO
+PRESUPUESTADO X W APP",Entregada,NULL
+443,358,"2022-06-27 16:12:04","2022-07-01 18:08:19","Sillòn gamer negro","Revisar y presupuestar",5300,"Cilindro y fuelle telescòpico
+TERMINADO 
+AVISADO",Entregada,NULL
+444,359,"2022-06-30 18:36:56","2022-07-01 16:25:01","Sillòn Mesh c/ap/reg. y bASE CROM.","Cambio de cilindro",5100,"Avisado x w app",Entregada,NULL
+445,66,"2022-07-01 15:10:12","2022-07-01 15:13:07","3 Sillas 8500 trineo","Retapizado en Ecocuero negro",15300,NULL,Entregada,NULL
+446,359,"2022-07-01 16:35:25","2022-07-05 14:21:40","Sillòn Mesh cromado",CILINDRO,5100,"TERMINADO 
+AVISADO",Entregada,NULL
+447,360,"2022-07-01 16:58:50","2022-07-08 17:41:35","Silla china negra",Cilindro,5000,"AVISADO X W APP
+PAGADO",Entregada,NULL
+448,7,"2022-07-01 17:13:03","2022-07-20 13:28:32","Sillòn gerencial negro","Cambiar cilindro",5100,"Oreden de compra nº 294 enviada el 12/07/22
+TERMINADO / PAGADO 20/07/22
+AVISADO",Entregada,NULL
+449,361,"2022-07-01 19:16:09","2022-07-06 16:46:02","Sillòn gerencial negro, base metàlica negra","Revisar basculante y ver ajuste cilindro en chapòn",2100,"Cambiar resorte y suplem. cilindro
+PASE PRES. X W APP
+
+TERMINADO 
+AVISADO",Entregada,NULL
+450,362,"2022-07-04 14:16:50","2022-07-04 18:34:36","Silla tipo Candy c/apoyacabeza y estrella cromada","Cambio de cilindro",5500,"PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+451,363,"2022-07-04 17:50:13","2022-07-04 18:45:00","Base basculante negra","Cambiar cilindro",5200,"AVISADO X W APP
+TERMINADO 
+AVISADO",Entregada,2000
+452,185,"2022-07-05 15:49:29","2022-09-05 14:12:12","2 Silla con apoyas regulables en tela azul","Revisar y presupuestar",0,"Enviè pres. x mail
+FACTURA ENVIADA",Entregada,NULL
+453,125,"2022-07-07 16:57:37","2022-07-07 16:57:44","Base neum. cromada con Asyncro","Cambio de cilindro y 4 tornillos",5700,NULL,Entregada,NULL
+454,364,"2022-07-08 14:08:53","2022-07-18 18:30:39","Silla Rody negra, c/apoyas y Ovalina / Silla tipo Turìn c/apoyacabezas y base cromada","Revisar y presupuestar",17000,"ENVIÈ PRES. X W APP  / PAGADO
+TERMINADO / FACTURA ENVIADA X W APP
+AVISADO",Entregada,NULL
+455,365,"2022-07-08 17:36:21","2022-07-11 19:11:30","Silla Mesh c/cabezal y apoyas reg.","Suplementar estrella",1100,"TERMINADO 
+AVISADO",Entregada,NULL
+456,366,"2022-07-08 19:07:42","2022-07-11 16:37:39","Base neum. chica","Estrella chica",2750,"TERMINADO 
+AVISADO",Entregada,1000
+457,367,"2022-07-13 17:04:03","2022-07-13 19:12:44","Base neumatica","Estrella mediana",3800,NULL,Entregada,2000
+458,36,"2022-07-14 16:28:12","2022-08-22 18:49:09","Silla Rody c/riñonera, negra, c/apoyas metàlicos","Revisar y presupuestar",9700,"PASE PRES. X W APP
+TERMINADO
+AVISADO",Entregada,NULL
+459,35,"2022-07-15 15:22:40","2022-08-05 14:48:40","Gerencial negro chico c/apoyas cromados / Walter","Ajustar apoyas, rellenar asiento,cotizar tapizado completo y revisar.",9050,"Presupuesto enviado a Alfonso Anglada x mail.
+AUTORIZADO  factura enviada a pagos@moscuzza.net / FALTA PAGO",Entregada,NULL
+460,368,"2022-07-15 19:22:49","2022-07-25 14:02:59","Sillòn Mesh cromado","Revisar y presupuestar",9250,"Ruedas, Cilindro y rellenar asiento
+AVISADO",Entregada,NULL
+461,369,"2022-07-18 16:36:12","2022-07-25 18:02:20","Sillòn gerencial negro c/apoyas tapizados","Cotizar retapizado completo c/relleno idem apoyas en Pana Rosa Dior ò Jackson Ash",9250,"Retapizado completo y relleno: en Jackson Ash $ 6500.- / en Pana Jaguar Rosa Dior $ 7300.- / Ruedas (opcional ) $ 1750.- / Inclinaciòn $ 200.-
+AVISADA",Entregada,3500
+462,370,"2022-07-18 18:29:27","2022-08-01 19:47:07","Sillòn gerencial negro tipo Trento, cromado","Revisar y presupuestar",7750,"Basculante y 5 ruedas. AUTORIZADO
+AVISADA/ dice que quedò màs bajo, le ofrecì cambiar el cilindro por peq. diferencia.",Entregada,NULL
+463,371,"2022-07-19 15:14:32","2022-08-04 18:48:26","1  Silla 7010 giratoria negra, sin brazos  /  1  Silla tipo Tyson neumàtica, asiento azul, respaldo negro, sin brazos","Revisar y presupuestar",6600,"PASE PRES. X W APP
+AVISADA",Entregada,NULL
+464,280,"2022-07-19 16:19:42","2022-07-20 13:25:10","Sillòn C bajo","cambiar chapòn",2800,"TERMINADO 
+AVISADO",Entregada,NULL
+465,372,"2022-07-20 13:40:56","2022-07-20 15:44:24","Silla Inyectada en alta densidad negra c/cromado","Revisar y presupuestar ( chapòn )",3500,"PRESUP. X W APP
+AUTORIZADO / TERMINADO Y AVISADO",Entregada,NULL
+466,373,"2022-07-20 17:07:50","2022-07-22 13:47:18","Sillon gerencial Negro","cambiar estrella mediana",3200,30-71157298-4,Entregada,NULL
+467,87,"2022-07-20 18:26:06","2022-10-31 18:44:01","2 Sillones Aluminio alto y 1 bajo","Revisar y presupuestar",0,"Enviè pres. x mail",Entregada,NULL
+468,373,"2022-07-21 14:04:14","2022-07-22 13:43:33","Sillon gerencial Negro","Cambio de cilindro",5500,NULL,Entregada,NULL
+469,165,"2022-07-21 15:50:21","2022-08-05 15:53:46","Sillòn multicasco negro","Revisar y presupuestar",3750,"Retapizar en Ecocuero negro asiento c/casco y rellenar, Reparaciòn respaldo:colocar 4 bulones cabeza tanque y 2 Parkers.
+PASE PRES. X W APP PABLO / AVISADO",Entregada,NULL
+470,375,"2022-07-22 14:04:07","2022-08-01 15:16:45","Banqueta neumàtica cromada y plàstico blanco","Fabricar chapòn, asiento redondo y tapizar en Ecocuero negro",4800,AVISADO,Entregada,NULL
+472,374,"2022-07-22 14:33:23","2022-07-23 14:37:51","Silla tipo NV-5 negra","Cambio de cilindro",5000,"Contado 5000, en 3 y 6 cuotas 5750
+AVISADO",Entregada,NULL
+473,377,"2022-07-22 15:07:46","2022-07-23 14:54:04","Silla Red roja y negra","Cambiar chapòn c/Parker",3800,AVISADA,Entregada,500
+474,378,"2022-07-22 18:35:06","2022-07-25 14:06:43","Sillòn gamer verde","Cambio de cilindro",5500,"PAGADO
+AVISADA",Entregada,NULL
+475,321,"2022-07-22 20:03:54","2022-08-09 15:37:00","Sillòn cromado","Revisar y presupuestar",13300,"Cilindro, basculante y adaptar.
+Pasè pres. x w app / AVISADO.
+
+
+
+La trajo de vuelta porque se baja (Suplementar cilindro.)
+AVISADO",Entregada,NULL
+476,379,"2022-07-23 16:13:53","2022-07-23 16:42:43","Sillon gerencial Verde Musgo","Cambio de cilindro",5500,NULL,Entregada,NULL
+477,380,"2022-07-25 16:54:37","2022-07-28 14:54:12","Banqueta neum.","Armar base completa c/chapòn cuadrado y estrella chica",11950,"TERMINADO 
+AVISADO",Entregada,2000
+478,381,"2022-07-26 18:25:16","2022-08-04 17:40:23","Sillon gerencial Negro","cambiar estrella mediana y 1 rueda us.",3200,"Sin factura
+1 Rueda us. $ 180.-
+TERMINADO
+AVISADO",Entregada,NULL
+479,382,"2022-07-27 13:19:12","2022-08-01 19:02:55","Sillon negro alta densidad","Revisar y presupuestar",1800,"Consultar poly tapizado o parche
+AVISADA X W APP",Entregada,NULL
+480,383,"2022-07-28 13:30:28","2022-08-01 13:45:17","X2 Sillas tipo nv-5 negras con apoyas","Cilindro y revisar",11800,"Se bajan.
+Cambiar cilindros",Entregada,NULL
+481,384,"2022-07-28 15:53:25","2022-07-28 19:01:22","Sillòn C chico negro","Cambiar basculante",8000,PAGADO,Entregada,NULL
+482,385,"2022-07-28 15:59:28","2022-08-04 18:48:10","Silla gris tipo NV-5 basculante
+PAGADO","Cilindro y retapizado en tela Jackson Azul Ocean",12100,"Saldo $ 11.000.-
+AVISADO",Entregada,1100
+483,386,"2022-07-29 15:52:04","2022-08-23 15:53:35","Sillon gerencial Negro / cromado","Revisar y presupuestar / ver inclinaciòn !!",8400,"Cilindro, inclinaciòn, retapizar 1/2 casco
+AVISADO X W APP
+TERMINADO 
+AVISADO",Entregada,NULL
+484,387,"2022-07-30 13:38:19","2022-08-26 13:50:29","Sillòn gamer Dakot","Cambiar basculante y revisar asiento",0,"SIN CARGO",Entregada,NULL
+485,370,"2022-08-01 16:54:21","2022-08-04 18:49:05","Sillòn gerencial negro tipo Trento, cromado","Cambio de cilindro",2000,"dice que quedò màs bajo, le ofrecì cambiar el cilindro por peq. diferencia.",Entregada,NULL
+486,388,"2022-08-01 17:20:19","2022-08-02 16:11:35","Sillòn yipo C chico negro","Cambio de cilindro y estrella chica",9300,"TERMINADO
+AVISADO",Entregada,NULL
+487,389,"2022-08-02 14:48:57","2022-08-09 15:27:30","Sillon gerencial Negro","Cambio de cilindro y ruedas",0,"Comprò sillòn usado a $ 45.000.- / Pagò u$s 200.- a $ 280.- /  Saldo $ 8600.- ( por el arreglo del sillòn que trajo $19.800.- )
+AVISADA",Entregada,NULL
+488,343,"2022-08-02 16:06:54","2022-08-25 16:30:49","Silla cromada negra china","Revisar y presupuestar",5300,"Soldar oreja y cambiar chapòn.
+PRESUP. X W APP
+TERMINADO 
+AVISADO",Entregada,NULL
+489,390,"2022-08-04 14:40:35","2022-09-26 14:54:25","2 Silla Rody alta negra, c/apoyas y 1 tipo 7010 c/apoyas, giratoria","Revisar y presupuestar",18100,"Enviè pres. x mail
+pagado",Entregada,NULL
+490,380,"2022-08-04 17:46:06","2022-08-18 15:46:45","Silla china chica negra","Revisar y hacer",9500,"Cilindro, ver de dar vuelta el tapizado, relleno asiento, friselina resp., ruedas.
+presup. x w app
+TERMINADO 
+AVISADO",Entregada,1000
+491,391,"2022-08-04 18:45:02","2022-08-12 17:50:11","Silla china respaldo alto","Revisar y presupuestar",6100,"Estrella chica y rellenar completo
+PRES. X W APP
+TERMINADO 
+AVISADO",Entregada,NULL
+492,35,"2022-08-06 16:38:06","2022-08-24 17:19:41","Sillon gerencial Negro y cromado","Revisar y presupuestar",10250,"Basculante y ruedas
+Mandè pres. x mail",Entregada,NULL
+493,392,"2022-08-11 13:27:37","2022-08-22 19:20:57","Rody negra c/apoyas","Contacto c/soldadura",6600,"TERMINADO
+AVISADO POR TEL. / Factura enviada x mail",Entregada,NULL
+494,66,"2022-08-11 14:29:41","2022-08-18 15:47:09","Silla Cajera Rody","Colocar estrella cromada, ruedas y pintar aro",10800,"FACTURA ENVIADA 11/08/22",Entregada,NULL
+495,330,"2022-08-11 15:17:46","2022-08-24 17:19:58","1 Silla " Diva " y 1 silla cajera" Tyson " c/ovalina","Silla Diva: cilindro  / Silla cajera revisar y presupuestar",16800,NULL,Entregada,NULL
+496,104,"2022-08-12 19:14:48","2022-08-29 18:14:55","3  Silla Rody negra c/apoyas / 2  Silla tipo  " 7010 " rojas / 1 Sillòn gerencial negro","Ver cuaderno",46.000,"Factura enviada x w app",Entregada,NULL
+497,393,"2022-08-16 18:22:17","2022-08-18 15:47:31","Sillòn Gamer rosa y blanco",CILINDRO,5800,"TERMINADO 
+AVISADO",Entregada,3000
+498,394,"2022-08-16 19:28:09","2022-08-26 17:05:46","Sillon Gammer desarmado, Blanco y negro",Revisar,12800,"Ver cuaderno
+Presup. x w app / AVISADO",Entregada,NULL
+499,395,"2022-08-17 18:38:51","2022-08-30 15:40:33","Sillòn gerencial negro c/casco y almohadòn","Revisar y presupuestar, ver faja en casco y ruedas",5800,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+500,148,"2022-08-18 15:07:41","2022-11-14 18:39:04","Sillon gerencial Negro c/apoyab. cromados tipo trento","Revisar y presupuestar",9800,"Cilindro y tornillo cortado
+Presup. x w app",Entregada,3500
+501,396,"2022-08-18 17:42:09","2022-08-22 18:51:08","Sillòn gerencial Beige con almohadones","colocar base neum. completa c/basculante",20700,"Averiguar x retapizado",Entregada,10000
+502,397,"2022-08-19 15:59:23","2022-10-17 15:09:28","Silla 7010 fija estructura alta en tela negra","Cotizar retapizado en Jackson gris oscuro y retocar pintura",5900,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+503,398,"2022-08-19 19:43:11","2022-09-29 17:05:59","Sillon gerencial Gris","Revisar y presupuestar- Tapizado tambien",0,"No vale la pena reparar.
+Se utilizo aro y estrella para armar cajera. (El resto lo dejo)",Entregada,NULL
+504,36,"2022-08-22 18:50:33","2022-09-26 16:14:18","Silla Rody negra, c/apoyas metàlicos","Revisar y presupuestar",15200,"TERMINADO
+Avisada",Entregada,NULL
+505,66,"2022-08-23 19:33:06","2022-08-30 17:51:55","Silla cajera negra c/apoyas","Contacto y aro cajero nuevo",11500,NULL,Entregada,NULL
+506,399,"2022-08-24 15:17:43","2022-08-30 15:41:01","Silla tipo Rody tapizado azul","Cambio de cilindro. Revisar",5900,"TERMINADO 
+AVISADO",Entregada,NULL
+507,400,"2022-08-24 17:51:54","2022-09-22 16:14:49","Sillon gerencial Negro","Revisar y presupuestar",14750,"Cilindro, basculante, ruedas y parche.
+Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+508,401,"2022-08-25 14:55:41","2022-09-01 16:22:28","Silla tipo Rody / respaldo oval negra","Revisar y presupuestar",8600,"Contacto, tornillo y rellenar asiento
+Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+509,402,"2022-08-25 18:54:39","2022-10-31 18:43:24","Silla Red negra c/base cromada",Revisar,0,"No tiene arreglo
+Avisado x w app
+Se llevo la otra, esta la dejo.",Entregada,NULL
+510,303,"2022-08-26 15:44:07","2022-09-05 14:58:18","Silla Simet cromada ceniza","Revisar y presupuestar",800,NULL,Entregada,NULL
+511,403,"2022-08-26 19:05:55","2022-08-30 17:52:28","Silla  " Alma " cuerotex cemento","Colocar apoyabrazos salido",0,"TERMINADO 
+AVISADO",Entregada,NULL
+512,404,"2022-08-26 19:27:29","2022-09-03 15:31:05","Sillòn Red cromado","Revisar y presupuestar",12350,"Pres. x w app",Entregada,NULL
+513,405,"2022-08-27 16:43:15","2023-12-07 15:03:57","Sillòn Mesh cromado","Revisar y presupuestar / cotizar retap. de asiento en Talampaya negro/ relleno en ALTA DENSIDAD de 50 mm. de espesor y ruedas",6950,"Pasè pres. x w app
+AVISADO / FACTURADO / PAGADO",Entregada,NULL
+514,406,"2022-08-29 14:00:20","2022-09-09 15:06:12","Silla 7010begra nbeumatica","Cambio de cilindro",10050,"PASÈ PRES. X W APP
+Enviè factura x mail",Entregada,NULL
+515,407,"2022-08-29 15:32:38","2022-09-07 15:31:34","Sillon gerencial Negro","Colocar estrella/revisar. Pasar presupuesto",14850,"Avisado x w app
+PAGADO",Entregada,NULL
+516,185,"2022-08-29 16:48:25","2022-09-05 14:12:05","Silla neumàtica y basc. tapizada en tela azul",CILINDRO,5900,"Enviè pres. x mail",Entregada,NULL
+517,408,"2022-08-29 19:50:35","2022-09-05 13:41:48","Sillòn gerencial negro c/almohadones","Revisar y presupuestar",21550,"Pasè pres. x w app
+AVISADO",Entregada,NULL
+518,409,"2022-08-30 16:36:39","2022-09-14 18:22:43","Sillòn chico c/cascos gris/negro","Revisar y presupuestar",3500,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+519,104,"2022-08-30 16:56:04","2022-09-29 17:04:31","Sillòn Gamer Rojo y Negro","Revisar y presupuestar",7500,Avisado,Entregada,NULL
+520,410,"2022-08-30 18:09:25","2022-09-05 18:29:56","Base neumatica","Chapon y revisar",3800,"Chapòn 
+AVISADO",Entregada,NULL
+521,411,"2022-08-31 14:14:13","2022-09-16 18:44:07","Silla azul sin apoyas","revisar. Cilindro. Tapizado en pana lavable rosa claro. Pasar presupuesto. tAPIZADO SIN LA TELA",5900,"Pasè pres. x w app
+Poli: $2800, 1,2mts de tela necesarios.",Entregada,NULL
+522,412,"2022-08-31 16:18:42","2022-10-21 16:33:30","Silla Italia 3","Revisar y presupuestar",6800,"Colocar basculante Asyncro u.
+Presup. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+523,413,"2022-08-31 16:19:24","2022-10-18 17:13:52","2 Sillas tipo tyson , con apoyabrazos, asules","Revisar y presupuestar",0,"SIN ARREGLO
+NO SE HICIERON",Entregada,NULL
+524,264,"2022-08-31 18:59:15","2022-09-14 19:57:30","Sillon gerencial Negro","Revisar y presupuestar",4500,"Pasè pres. x w app
+Avisado",Entregada,NULL
+525,414,"2022-09-02 14:39:22","2022-09-19 17:28:43","Sillòn Mesh cromado","Revisar y presupuestar",8600,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+526,415,"2022-09-03 14:40:35","2022-09-07 13:54:03","Sillòn gerencial chino gris",Estrella,4000,"TERMINADO 
+AVISADO",Entregada,2000
+528,418,"2022-09-06 14:19:26","2022-09-10 16:17:52","Silla Candy","Cambio de cilindro",5900,"TERMINADO 
+AVISADO",Entregada,5900
+529,419,"2022-09-07 14:52:29","2022-09-07 14:52:59","Basculante c/Cilindro",Cilindro,5700,"TERMINADO 
+AVISADO",Entregada,NULL
+530,420,"2022-09-07 15:06:28","2023-09-08 18:25:12","Sillòn gerencial negro","Revisar y presupuestar",14250,"Cilindro, chapòn y ruedas.
+No puedo comunicarme !! / LLAMARON Y PASÈ PRESUP. 20/09/22 / 1 llamada el 06/01/23
+PASA A STOCK PROPIO","No se hace",NULL
+531,151,"2022-09-07 18:48:23","2022-09-16 19:24:01","Sillon gerencial Negro","Revisar y presupuestar",7070,"1 rueda y basculante
+TERMINADO 
+AVISADO",Entregada,NULL
+532,421,"2022-09-07 18:53:03","2022-09-21 15:36:07","Sillon gerencial Negro gris","Revisar y presupuestar",2600,"Soldar basculante
+Pasè pres. x w app",Entregada,NULL
+533,422,"2022-09-07 19:12:36","2022-10-18 17:13:05","1- Silla tipo NV5 negra, con apoyas.   2.- Silla 7010 neumatica negra c/apoyas  3.- Silla NV5 Negra, con apoyas  4.- Silla 7010 naranja s/apoyas fija  5.-  Silla NV5 negra con 1 apoyabrazos. 6.- Silla 7010 fija naranja S7apoyas.  7.- Silla 7010 naranja fija s/apoyas.  8.- Silla Aluminium alta con apoyas. 9.- Silla cocina color crudo","Revisar y presupuestar",61280,"Pasè pres. x mail
+Pagaron $ 32.040.- hice recibo. Hago factura al final para que me retengan. 
+Saldo $ 15.565,95.-",Entregada,NULL
+534,423,"2022-09-08 16:26:54","2022-09-09 15:51:00","Base cromada","Cambio de cilindro",5900,"TERMINADO 
+AVISADO",Entregada,5900
+535,408,"2022-09-09 13:49:33","2022-09-26 13:41:17","Sillon gerencial Negro sin cilindro y sin base","Colocacion de base completa",18870,"TERMINADO 
+AVISADO",Entregada,NULL
+536,424,"2022-09-09 14:45:03","2022-09-10 16:32:42","Sillòn Mesh cromado","Cambio de cilindro",5900,"TERMINADO 
+AVISADO",Entregada,2000
+537,425,"2022-09-09 17:42:58","2022-09-15 17:06:37","2 sillas 7010 fijas tapizadas - 1 silla alma negra","Revisar y presupuestar",9400,"1) Cilindro, apoyabrazos / 2) fijar tapa resp. / 3) fijar tapa resp.
+Enviè pres. x w app
+
+TERMINADO 
+AVISADO",Entregada,NULL
+538,426,"2022-09-09 19:11:05","2022-09-29 14:30:28","Silla 7010 sin brazos, giratoria , verde","Cambio de cilindro",8400,"Cilindro, rellenar asiento, perilla chapòn y enderezar respaldo.
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+539,427,"2022-09-09 19:19:53","2022-09-16 18:43:34","Base cromada","Cambio de cilindro y estrella mediana",9920,"TERMINADO 
+AVISADO",Entregada,6000
+540,428,"2022-09-09 19:26:22","2022-10-17 19:28:49","Sillon gerencial Negro alto estrella cromada","Revisar y presupuestar",12600,"Cilindro y basculante c/2 tornillos Parker.
+Presup. x w app / Entregado a Jorvic
+TERMINADO
+AVISADO",Entregada,NULL
+541,429,"2022-09-10 15:46:31","2022-09-15 18:25:04","Base basculante negra","Cambio de cilindro y ruedas",7900,Avisado,Entregada,5000
+542,430,"2022-09-10 16:06:13","2022-09-17 15:19:08","Base basculante negra","Cambio de cilindro",5900,"TERMINADO 
+AVISADO",Entregada,1000
+543,413,"2022-09-12 15:39:34","2022-10-18 17:14:02","5 sillas tipo Rody 1 7010","Revisar y presupuestar",5900,"Reparar una ( cambio de cilindro ), el resto las vuelve a traer en Enero",Entregada,NULL
+544,43,"2022-09-12 15:59:55","2023-09-08 18:25:53","DEL 12/09/22 : Estrella mediana $ 3390.- / Cilindro neumàtico $ 5.300.- / Ruedas $ 450.- / Contacto permanente $ 6000.- / Chapòn $ 2900.- / Respaldo completo $ 5840.- / Equipo giratorio $ 2180.- / Par de apoyabrazos Golf $ 2700.- /","Revisar y presupuestar",0,"Debe 6200",Entregada,NULL
+545,431,"2022-09-12 19:47:03","2022-09-26 14:53:06","2 Sillas operativas negras base cromada sin apoyas","Revisar y presupuestar",8600,"1) Cilindro
+2) Abrir  tapizado, 4 insertos.
+
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+546,101,"2022-09-13 14:01:37","2022-09-29 17:28:51","1-Sillon gerencial Negro con apoyas, 1-Silla tipo Rody negra sin apoyas","Revisar y presupuestar y tambien tapizado",16350,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+547,249,"2022-09-14 15:06:48","2022-10-03 17:03:31","Sillòn gerencial negro / gris","Revisar y presupuestar",4300,"Abrir, cerrar y parchar tapizado / soldar insertos ( 2 )
+Presupuestado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+548,69,"2022-09-14 16:08:52","2022-12-15 15:53:56","Silla  " 7010 " tiza c/poyas y Silla tipo  " Rody " c/apoyas","Revisar y presupuestar",16000,"1) cambiar estructura c/chapòn y 2) cilindro
+Presupuestado x w app
+TERMINADO 
+AVISADO",Entregada,10000
+549,11,"2022-09-16 16:29:03","2022-09-23 13:20:30","Silla Candy operative",Reparar,6700,AVISADO,Entregada,NULL
+550,432,"2022-09-17 13:58:10","2022-10-21 15:09:58","2 Sillas Rody bajas negras ( 1 en Ecocuero otra en tela)","Revisar y presupuestar",40600,NULL,Entregada,NULL
+551,104,"2022-09-19 17:38:10","2022-10-28 18:51:27","2 sillas 7010 fijas tapizadas - 1 silla c/casco tipo U roja","Revisar y presupuestar",18200,"pagado / debe enviar certificados y le queda a cuenta Ganancias",Entregada,NULL
+552,433,"2022-09-21 14:18:33","2022-09-22 14:22:37","Silla Candy operative c/cabezal","Cambiar estrella",4000,AVISADO,Entregada,2000
+553,434,"2022-09-22 14:37:18","2022-10-31 18:49:00","Silla operativa  Mesh cromado","Revisar y presupuestar",0,"No se le hizo nada, se la llevaron.",Entregada,NULL
+554,435,"2022-09-22 18:21:07","2022-10-06 17:15:11","Silla china negra, tipo Tyson","Revisar y presupuestar",6200,"Tapizar en Jackson 10 ò 7 y colocar bulòn en respaldo
+AVISDA X W APP",Entregada,NULL
+555,436,"2022-09-23 14:17:04","2022-10-31 18:45:25","Sillòn gerencial marròn claro / Cromado tipo Trento",.,0,"Retapizado $ 8500.- en Cuerotex  08 Stone / Grey / Visòn / Sand
+Revisar x si tiene algo màs",Entregada,2000
+556,34,"2022-09-23 16:33:56","2022-09-27 16:34:00","Estrella plàstica c/ruedas","Estrella nueva y lubricar",4400,"TERMINADO 
+AVISADO",Entregada,NULL
+557,437,"2022-09-23 18:17:21","2022-09-28 15:06:48","Sillòn beige y cromado","Colocar 5 ruedas Alma",3250,"PAGADO
+AVISADO",Entregada,NULL
+558,398,"2022-09-23 18:41:54","2022-10-04 16:11:58","Silla Rody alta c/riñonera ,  NEGRA","Ajustar y revisar",5900,Cilindro,Entregada,NULL
+559,438,"2022-09-23 19:27:23","2022-11-14 18:40:22","Silla negra c/apoyab. regulables","Retapizado y revisar",0,TERMINADO,Entregada,3000
+560,439,"2022-09-28 14:04:10","2022-10-05 18:46:36","Silla tipo Rody c/apoyabrazos curvos","Revisar y presupuestar",3700,"Chapòn c/perilla
+Pasè pres. x w app",Entregada,NULL
+561,431,"2022-09-28 15:07:38","2022-10-18 17:14:52","Silla monocasco negra","Cambio de cilindro",5900,"TERMINADO 
+AVISADO",Entregada,NULL
+562,402,"2022-09-29 16:09:04","2022-10-31 16:40:45","Silla Rody baja negra c/apoyas","Revisar y colocar cilindro de la anterior",14500,"Pasè pres. x w app
+TERMINADO
+AVISADO",Entregada,NULL
+563,440,"2022-09-29 17:48:11","2022-09-29 17:48:30","Silla tipo Alma c/apoyab. reg.","cambiar estrella mediana",4100,NULL,Entregada,NULL
+564,441,"2022-09-29 18:37:31","2022-10-12 19:44:28","Silla tipo red negra, c/apoyab. con cromado.","Revisar cilindro",5900,"Rellenar asiento, retap. parte superior respaldo y cambiar cilindro
+Pasè pres. x w app
+HACER SOLO CILINDRO
+TERMINADO 
+AVISADO",Entregada,NULL
+565,125,"2022-10-03 14:46:13","2022-11-23 16:27:50","5 sillas.  2 mesh gerencial, 1 gerencial tipo trento, 2 tipo ergo . Todas con apoyabrazos.","Revisar y presupuestar",50850,"Enviè pres. x mail / AUTORIZADO
+Enviè factura x mail",Entregada,NULL
+566,442,"2022-10-03 15:42:48","2022-10-14 15:50:54","Silla China med. negra c/apoyas","Cambiar estrella y retapizado en Ecocuero negro",9200,"Trae rueda faltante
+TERMINADO 
+AVISADO",Entregada,2000
+567,372,"2022-10-05 13:48:07","2022-10-21 15:53:19","Silla Fija Naranja","Revisar y presupuestar",2100,NULL,Entregada,NULL
+568,401,"2022-10-05 14:27:41","2022-10-27 13:59:14","Sillòn gerencial bajo c/casco color mostaza","Revisar y presupuestar",7400,"BASCULANTE, FRISELINA ASIENTO Y 1 RUEDA
+AVISADO",Entregada,NULL
+569,411,"2022-10-05 15:42:26","2022-10-28 17:59:07","Base neum. basculante","Revisar y presupuestar",9900,"Cilindro y Estrella mediana
+TERMINADO / Retirò base, faltan retenciones y pago.
+AVISADO",Entregada,NULL
+570,224,"2022-10-05 17:53:38","2022-10-14 17:53:40","Silla tipo 8500 neumàtica negra , c/apoyas","Cambio de cilindro",5900,"Terminado
+Avisado x w app",Entregada,2000
+571,443,"2022-10-06 17:11:44","2022-10-22 15:21:20","Silla 7010 neum. s/brazos","Retapizar en Talampaya blanco 067 / cambiar interno",7700,Avisada,Entregada,1000
+572,435,"2022-10-06 17:18:58","2022-11-01 19:42:20","2  Silla china negra con apoyas","cilindro y estrella",9280,"Hacer la nº2  Cilindro y estrella
+AVISADA",Entregada,NULL
+573,444,"2022-10-11 15:07:19","2022-11-01 15:35:47","Silla 7010 neum. Gris con puntos c/brazos","Cilindro, suplementar estrella y rellenar",9700,"Avisar !!",Entregada,NULL
+574,445,"2022-10-11 15:10:10","2022-10-28 13:48:18","Silla Alma Roja c/cromado, estructura negra","Revisar y presupuestar",5300,"Se cambiò cilindro y se eliminò ruido
+AVISADO",Entregada,NULL
+575,294,"2022-10-11 16:47:00","2022-10-28 13:48:46","Silla tipo India cajera, sin brazos","Rellenar y retap. asiento, pintada al aro, cilindro y 2 ruedas",10800,"pagado 12/10/22",Entregada,NULL
+576,446,"2022-10-13 17:33:03","2022-11-14 18:21:14","Sillòn gerencial cromado negro, c/apoyab. reg.","Revisar respaldo, y retap. asiento parcial y apoyacabezas, cilindro",15000,"Soldar respaldo, cilindro, retap. asiento y cabezal
+Autorizado",Entregada,NULL
+577,447,"2022-10-15 14:20:51","2022-10-18 16:14:32","Silla china roja c/respaldo negro y apoyas",Cilindro,5900,NULL,Entregada,NULL
+578,156,"2022-10-15 15:24:36","2022-10-26 19:38:04","Sillon gerencial Negro",Cilindro,5900,"TERMINADO 
+AVISADO",Entregada,2000
+579,448,"2022-10-17 18:30:11","2022-11-18 16:53:09","Sillòn gerencial negro c/almohadones",a,3800,"Revisar y presupuestar
+TERMINADO 
+AVISADO",Entregada,NULL
+580,184,"2022-10-17 18:35:07","2022-10-31 16:06:44","Tandem de 3 puestos  7010 en tela marròn claro","Retapizar en Jackson Gris oscuro nº 10 Graphite",18000,"Precio con fletes, sin factura",Entregada,NULL
+581,449,"2022-10-18 19:01:31","2022-10-28 13:47:35","Silla U en tela marròn claro","Colocar base completa neumàtica, con estrella chica",14000,"Hacer factura M / 30-57861867-4
+AVISADO / PAGADO, traen retenciones cundo retiran.",Entregada,NULL
+582,450,"2022-10-21 13:12:30","2022-10-28 13:19:15","Sillòn gerencial cromado","revisar y presupuestar",7300,"Colocar basculante c/2 parker",Entregada,NULL
+583,451,"2022-10-21 16:45:16","2022-11-25 19:40:32","2 Sillòn gerencial negro, 2 Sillas fijas estructura baja, 1 sillòn gerencial c/casco negro, 1 sillòn gerencial bajo en tela negra y 1 silla 7010
+Traìdas entre el 21 y el 28 de Octubre 2022","Revisar y presupuestar",49950,"Enviè pres. x w app
+PAGADO Y RETENCIONES ENVIADAS / Entregar en cuanto estè listo, FLETE PAGADO.
+TERMINADO 
+AVISADO",Entregada,NULL
+584,452,"2022-10-22 15:32:41","2022-11-15 15:51:22","Silla cromada y Ecocuero c/apoyas","cambiar chapòn c/adaptaciòn",3900,"TERMINADO 
+AVISADO",Entregada,NULL
+585,453,"2022-10-24 13:14:14","2022-10-31 15:18:26","Gerencial mono casco negro","Revisar y presupuestar",8600,"Cilindro, ruedas y tornillo.
+AUTORIZADO / Avisado para retirar x w app",Entregada,NULL
+586,454,"2022-10-25 14:33:20","2022-10-28 14:21:11","Silla tipo china sin apoyabrazos negra","Cambio de cilindro",5900,AVISADA,Entregada,800
+587,455,"2022-10-25 15:56:58","2022-11-17 20:32:46","Silla gerencial pequeña, negro","Cambiar chapon y colocar insertos, tapizado asiento ecosuero negro",7200,"TERMINADO
+AVISADO",Entregada,2000
+589,456,"2022-10-27 19:28:01","2022-11-14 20:34:57","Silla Rody alt s/brazos en tela negra","Cambio de cilindro",6200,"30-50006577-6
+TERMINADO 
+AVISADO",Entregada,NULL
+590,457,"2022-10-28 13:53:51","2022-11-29 17:58:53","Sillon gerencial Negro","Revisar y presupuestar",16000,"TERMINADO 
+AVISADO",Entregada,NULL
+591,458,"2022-10-28 15:52:15","2022-11-18 16:52:47","2 SILLAS TIPO TYSON , CROMADAS, VERDES,","Revisar y presupuestar",38600,"Retapizado completo en Talampaya Negro, cilindro y contacto permanente",Entregada,NULL
+593,459,"2022-10-28 17:00:11","2022-11-19 17:07:23","Sillon gerencial negro cromado , respaldo red","Revisar y presupuestar",7200,"Interno de madera c/14 insertos y retapizar parte de arriba
+AVISADO",Entregada,NULL
+594,460,"2022-10-29 14:36:00","2022-11-01 15:48:18","Base neum. sillòn gamer","Cambiar estrella y 5 ruedas",6500,"TERMINADO 
+AVISADO",Entregada,1500
+595,330,"2022-10-29 15:44:41","2022-11-04 18:38:27","3 Sillòn c/casco chicos rojo","Base completa c/ equipo giratorio $ 9700.- c/u",29100,"Factura enviada x w app
+PAGADO",Entregada,NULL
+596,461,"2022-11-03 18:06:03","2022-11-25 19:24:10","2 Banquetas altas cromadas chinas","Fijar altura en màximo",4200,"Retira semana del 22/11/22",Entregada,NULL
+597,94,"2022-11-03 18:35:14","2022-11-29 18:48:26","4 pares de apoyabrazos de sillòn gerencial","Retapizar en Ecocuero negro",7200,"Avisado x w app Rodrigo
+Enviè factura a Rita x mail / PAGADO",Entregada,NULL
+598,330,"2022-11-03 19:04:27","2022-11-24 18:04:02","4 sillòn c/casco chico rojo","Base completa c/ equipo giratorio $ 9700.- c/u",38800,AVISADO,Entregada,NULL
+599,462,"2022-11-04 14:24:30","2022-11-16 19:08:07","Sillon gerencial Negro","Revisar y presupuestar",19650,"Base completa basculante
+Avisado x w app",Entregada,NULL
+600,463,"2022-11-07 16:00:12","2022-11-14 17:24:18","Sillòn Aluminio bajo","Revisar y avisar",14000,"Ver cilindro, y soldar basculante y travesaño
+AUTORIZADO / AVISADO",Entregada,NULL
+601,464,"2022-11-07 20:56:38","2022-11-22 19:07:46","Sillòn Aluminio bajo","Cambio de cilindro",6200,"Avisado x w app",Entregada,4000
+602,465,"2022-11-08 15:22:38","2022-11-12 15:27:35","Silla tipo India negra","Ver respaldo",1100,AVISADO,Entregada,NULL
+603,445,"2022-11-08 18:34:32","2022-11-15 18:08:19","Silla Alma Roja c/cromado, estructura negra","Cambiar respaldo",12000,"Terminado, factura enviada x w app",Entregada,NULL
+604,467,"2022-11-08 18:46:35","2022-11-10 20:38:18","Sillòn gerencial negro c/inclinaciòn neumàtica","Revisar y presupuestar",7400,"Avisado x w app",Entregada,3000
+605,468,"2022-11-10 16:58:52","2022-11-15 16:15:46","Silla tipo Tyson con apoyabrazos","Revisar y hacer",10800,"Chapòn y contacto",Entregada,NULL
+606,469,"2022-11-10 18:17:10","2022-11-12 14:14:21","Base basculante negra","Colocar basculante",7000,"30-71063426-9
+Factura B / PAGADO Y AVISADO",Entregada,NULL
+607,132,"2022-11-10 19:40:07","2022-12-13 18:14:18","Sillòn bajo en Altamira azul","colocar cilindro, chapòn c/manija y madera asiento.",12400,"Avisado x w app
+PRECIO SIN IVA
+Avisado x w app",Entregada,NULL
+608,470,"2022-11-11 16:22:22","2022-11-18 16:53:35","Silla Rody baja en tela Azul",Reparar,9800,"Cilindro y estrella
+AVISADA X W APP",Entregada,NULL
+609,471,"2022-11-11 18:05:00","2022-12-21 20:40:49","Silla Rody baja en tela negra","Revisar y presupuestar, retapizado tambièn.",8400,"Interno de madera, retapizado completo c/relleno
+Avisada x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+610,472,"2022-11-14 15:37:46","2022-12-01 18:28:05","2  Sillas  " Candy " ( comunes )","Revisar y presupuestar",16600,"Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+611,473,"2022-11-14 17:12:40","2022-11-15 18:08:45","Silla Alma Gris con Azul y estrella cromada","Revisar respaldo ò cambiar",2500,"Avisado x w app",Entregada,NULL
+612,475,"2022-11-14 20:49:55","2022-11-16 20:56:46","Base basculante c/Asyncro ( crique )","Cambiar estrella grande",4600,"Avisada x w app",Entregada,NULL
+613,452,"2022-11-15 15:54:29","2022-11-28 20:28:49","3 sillas negras cromadas neumaticas","Revisar y presupuestar",19200,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+614,476,"2022-11-15 16:24:44","2022-11-16 18:53:11","Silla china chica gris","Estrella chica y ruedas",6000,"30714539627
+TERMINADO 
+AVISADO",Entregada,NULL
+615,477,"2022-11-16 16:22:47","2022-11-17 20:01:17","Silla Candy Operative cajera","Revisar y presupuestar",3900,"FALTA PAGO",Entregada,NULL
+616,36,"2022-11-17 19:43:31","2022-12-22 18:23:09","Silla Rody alta con apoy. metàlicos","Ver contacto, y tapizado asiento",11100,"TERMINADO 
+AVISADO",Entregada,NULL
+617,27,"2022-11-17 20:37:35","2022-12-01 17:27:50","Sillon gerencial Blanco","Retapizar en Talampaya Negro",8500,"TERMINADO 
+AVISADO",Entregada,2000
+618,185,"2022-11-18 16:37:13","2022-12-13 15:54:57","Silla azul c/red","cilindro y presupuestar",6450,"ENVIE PRES. X MAIL
+TERMINADO / Pagò $ 4917,46 ver retenciones
+AVISADO",Entregada,NULL
+619,478,"2022-11-18 17:04:28","2022-11-24 20:51:45","Sillòn gerencial rojo c/casco","Revisar y hacer",7450,"Enviè pres. x w app",Entregada,NULL
+620,479,"2022-11-19 15:05:13","2022-12-12 15:13:08","Sillon gerencial Negro c/puntos amarillos y una igual pero bajo","Revisar y presupuestar",17400,"Cilindros  en los dos e interno de madera en 1.
+Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+621,480,"2022-11-19 16:34:54","2022-11-22 19:36:37","Sillòn C chico negro","Cambiar estrella",4290,"TERMINADO 
+AVISADO",Entregada,NULL
+622,481,"2022-11-22 20:15:27","2022-12-14 15:46:43","Sillon Gammer negro y rosa","Revisar y presupuestar",0,"Cilindro 
+TERMINADO 
+AVISADO",Entregada,NULL
+623,125,"2022-11-23 15:54:35","2022-11-30 18:44:52","Silla tipo rody",Revisar,8400,"cilindro y rellenar asiento",Entregada,NULL
+624,482,"2022-11-23 17:01:11","2022-12-02 20:08:07","Silla china gris sin apoyabrazos","retapizar en tela gris 6260.-y arreglar respaldo (ver precio). Jackson 10 o similar. Tela",6260,"TERMINADO 
+AVISADO",Entregada,3000
+625,213,"2022-11-23 19:43:13","2022-12-16 15:34:41","Silla Candy negra","Revisar y presupuestar",7600,"germand@congeladosartico.com . Enviar presupuesto
+Enviè pres. x mail / Avisè x w app a German x factura M y la enviè.",Entregada,NULL
+626,483,"2022-11-25 15:42:13","2022-12-01 18:29:22","Silla Palstica Roja operativa","Cambio de cilindro y 1 rueda",6870,Avisado,Entregada,1000
+627,484,"2022-11-25 17:14:34","2022-12-07 19:48:36","Silla cajera negra sin apoyas","Cambio de cilindro",9700,"Cambio de cilindro y ver retapizado de asiento.
+$ 6500 + $ 3200
+TERMINADO 
+AVISADO",Entregada,NULL
+628,94,"2022-11-28 15:27:27","2022-12-12 15:16:22","2 pares de apoyabrazos de sillòn gerencial","Retapizar en Ecocuero negro",3600,NULL,Entregada,NULL
+630,485,"2022-11-28 16:14:00","2022-12-05 14:23:44","Silla op tipo rody ecocuero negro con apoyas","Revisar y presupuestar",6300,"Chapòn y ruedas
+No podemos retapizarlo
+AVISADO
+Avisado x w app",Entregada,NULL
+631,486,"2022-11-28 18:29:44","2022-12-21 15:33:14","Silla NV-5 NEGRA, SIN APOYAS","Revisar y presupuestar",17000,"Rellenar y retapizar asiento, cilindro y contacto
+Avisado x w app / PAGADO y retenciones enviadas
+TERMINADO
+AVISADO",Entregada,NULL
+632,487,"2022-11-28 19:29:21","2022-12-02 14:09:41","Silla 7000 negra c/apoyas","Cambio de cilindro ( largo )",9000,"TERMINADO 
+AVISADO",Entregada,2000
+633,488,"2022-11-29 16:07:19","2022-12-20 18:45:41","1 Silla tipo Rec gris con apoyas - 1 Silla tipo Red Roja con apoyas","Revisar y presupuestar",20060,"Avisada x w app
+TERMINADO / Factura enviada x w app
+AVISADO",Entregada,NULL
+634,152,"2022-11-29 16:40:51","2022-12-12 20:14:19","Sillòn gerencial negro trento cromado","Revisar y presupuestar",7500,"Basculante y 2 parkers
+Avisè x w app
+TERMINADO
+AVISADO",Entregada,NULL
+635,489,"2022-11-29 21:11:04","2022-12-14 20:47:37","Silla tipo 7010 c/apoyas","Revisar y presupuestar",10250,"Tapizado completo, sacar tornillo cortado, 5 ruedas y 4 insertos.
+Avisado x w app",Entregada,NULL
+636,490,"2022-12-02 19:49:17","2022-12-10 16:45:55","Sillon gerencial Negro, sin basculante","Revisar y presupuestar",15700,"Basculante, cilindro, 2 parkers y lavar tapizado.
+Enviè w app CON FACTURA Y DATOS BANCARIOS / CONSUMIDOR FINAL / PAGADO",Entregada,NULL
+637,491,"2022-12-03 17:53:27","2022-12-15 18:43:00","Sillòn Aluminio alto","Revisar y presupuestar",9850,"Ruedas, soldar estructura y cerrar tapizado
+AVISADO X W APP
+TERMINADO 
+AVISADO",Entregada,NULL
+638,492,"2022-12-06 14:32:01","2022-12-22 14:54:08","Sillon gerencial Negro DESARMADO","Revisar y presupuestar",7700,"chapòn, cilindro, rellenar completo, parche en asiento y 4 insertos.
+Avisado.Envìo factura y mandan retenciones ( 21/12/22). /  $ 6360.- /Cobrè el importe menos el IVA, faltan retenciones",Entregada,NULL
+639,493,"2022-12-12 20:22:57","2022-12-14 19:11:23","Silla cajera negra con apoyas","Bajar 14 cmm o sacar el aro cajero y que quede 14 cm menos",1200,"Sacar el aro
+TERMINADO 
+AVISADO",Entregada,NULL
+640,494,"2022-12-13 14:14:22","2022-12-14 17:27:00","Tipo Candy negra","Chapon y revisar",4800,"Chapòn y 4 Parker
+AVISADO",Entregada,NULL
+641,495,"2022-12-15 15:58:51","2022-12-20 18:45:16","Base neumática  / basculante","Intercambiar cilindro",1500,"PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+643,497,"2022-12-15 18:26:16","2023-01-18 17:00:08","Sillon gerencial Negro y cromado","Revisar y presupuestar - Ver tapizado",16700,"Presup. x w app/ Retenciones enviadas
+ / ENVIE FACTURA X W APP / PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+644,498,"2022-12-16 17:42:18","2022-12-16 17:42:23","Base basculante negra c/estrella rota","Colocar estrella mediana",4800,PAGADO,Entregada,NULL
+645,488,"2022-12-20 18:47:12","2023-01-06 14:48:14","1- Silla tipo red gris c/apoyas. 2- 8500 negra. 3- 8500 negra","revisar y presupuestar",34690,"Ver cuaderno.
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+646,499,"2022-12-20 18:51:03","2023-01-07 16:30:24","Silla tipo Alma /brazo fijo, negra","Ver estrella y presup",9630,"Colocar estrella mediana e interno c/10 insertos
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+647,500,"2022-12-22 18:40:16","2022-12-27 14:36:07","Silla Alma negra","Colocar estrella",700,"Cobrar diferencia.
+TERMINADO 
+AVISADO",Entregada,NULL
+648,501,"2022-12-26 15:46:27","2023-01-10 16:47:18","4  Candy Operative nuevas","Cambio de cilindro / Sin cargo",0,"Avisar cuando estàn
+TERMINADO 
+AVISADO",Entregada,NULL
+649,502,"2022-12-26 16:34:36","2023-01-05 15:51:22","Silla tipo Rody negra","Colocar chapòn c/U",4700,"La trajo el 29//07/22
+Despuès viajò y se olvidò.",Entregada,NULL
+650,74,"2022-12-27 15:53:17","2022-12-27 15:56:22","Sillòn gerencial Trento ( sin base ) cemento y base basculante de otra silla","Reparar apoyabrazo sillòn y cilindro en base",10900,"Abrir y cerrar tapizado p/rebarar anclaje insertos apoyabrazos izq.
+Cambiar cilindro a base",Entregada,NULL
+651,503,"2022-12-27 16:54:42","2022-12-28 16:47:07","Silla tipo 7000 amarilla neumàtica sin apoyas","Fijar asiento",1100,Avisado,Entregada,NULL
+652,504,"2022-12-28 17:47:41","2023-01-23 18:44:19","Silla s/respaldo cromada basculante","Revisar y cambiar cilindro",7600,"Avisado x w app",Entregada,3000
+653,505,"2022-12-29 14:45:53","2023-01-13 17:17:12","Silla tipo Tyson negra, s/apoyas","Cambio de cilindro",7100,"TERMINADO 
+AVISADO",Entregada,2000
+654,155,"2022-12-29 17:58:18","2023-01-02 16:27:59","Silla tipo Rody color mostaza","cambiar cilindro",7100,"TERMINADO 
+AVISADO",Entregada,NULL
+655,507,"2022-12-29 18:43:56","2023-01-11 18:23:27","Silla  Biro alta","Cambiar chapòn y revisar/ se baja cilindro",11880,"Chapòn, 1 inserto, cilindro, perilla chapòn.
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+656,508,"2023-01-02 14:57:19","2023-01-14 14:44:34","Silla Biro alta negra","Tapizar asiento en Jackson negro y armado de Sillòn Red que ya se llevò",4500,"TERMINADO 
+AVISADO",Entregada,2000
+657,509,"2023-01-02 15:43:16","2023-01-04 15:35:33","Sillon gerencial Negro ( tipo Imperia bajo )","Revisar cilindro",9800,"Cilindro y ruedas
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+658,486,"2023-01-02 16:27:30","2023-01-10 16:44:03","Silla NV 5 negra sin apoyas y silla 7010 s/ap. tapiuzada en Altamira","NV5 VER RELLENO CON BULTO Y revisar 7010 chapòn y cilindro",0,"nv-5: acomodar relleno s/c.
+7010: no tiene arreglo.
+TERMINADO 
+AVISADO",Entregada,NULL
+659,510,"2023-01-02 18:27:49","2023-01-06 18:51:26","Silla china negra chica","ver respaldo",0,NULL,Entregada,NULL
+660,511,"2023-01-03 19:31:30","2023-01-10 16:46:29","Silla Rody baja s/apoyas","Chapón, cilindro, contacto y 2 ruedas",20160,"Pasè pres. x w app
+AVISADO",Entregada,2000
+661,512,"2023-01-04 19:44:09","2023-01-12 19:49:07","2 Sillas 7010 azules","Retapizar y rellenar. ecocuero tiza",13000,NULL,Entregada,NULL
+662,513,"2023-01-05 16:12:18","2023-01-18 15:02:48","Silla Alma est. negra","Revisar respaldo y retapizado con Mesh, presupuestar y avisar",4300,"Avisado x w app",Entregada,NULL
+663,514,"2023-01-05 19:06:19","2023-01-12 16:40:44","Silla Rody Baja negra sin apoyas","Retapizado completo",7000,"TERMINADO 
+AVISADO",Entregada,5000
+664,515,"2023-01-06 14:50:39","2023-01-06 16:56:41","Tipo trento morado","estrella y ruedas, revisar",7000,"avisado x w app",Entregada,NULL
+665,516,"2023-01-10 17:04:27","2023-01-21 17:24:56","Sillon gerencial Negro, con apoyab. metàlicos","Cambiar 5 ruedas y reparar apoyabrazos ( tornillos cortados )",5250,"TERMINADO 
+AVISADO",Entregada,NULL
+666,479,"2023-01-12 15:10:51","2023-01-17 16:45:32","Sillon gerencial Negro c/puntos amarillos","Revisar y presupuestar",15100,"Cilindro, basculante y 4 parkers
+TERMINADO 
+AVISADO",Entregada,NULL
+667,512,"2023-01-12 19:49:42","2023-01-20 19:27:14","2 Sillas 7010 azules","retapizado y relleno",13000,NULL,Entregada,NULL
+668,517,"2023-01-13 14:46:22","2023-02-02 14:20:36","gerencial alto negro y sillòn gerencial mediano c/casco rojo","Revisar y presupuestar",3100,"Avisado x w app
+Sin factur $ 3100.- Se arreglò sòlo la roja",Entregada,NULL
+669,66,"2023-01-13 14:48:24","2023-01-24 18:03:42","Sillon gerencial Blanco","Cotizar retapizado en Talampaya Negro, estrella cromada grande y ruedas c/banda de siliconas Candy.",19550,"Aceptado el presupuesto
+TERMINADO . Pagò  $ 18.782.55.-
+AVISADO",Entregada,NULL
+670,518,"2023-01-13 20:00:23","2023-01-14 16:06:42","Silla cajera negra con aro","cambio de estrella",5200,"TERMINADO 
+AVISADO",Entregada,2000
+671,518,"2023-01-14 15:25:09","2023-01-26 18:39:35","Butaca negra baja","Retapizar asiento ( 3500.-) y ruedas c/rosca.",7900,"TERMINADO 
+AVISADO",Entregada,NULL
+673,478,"2023-01-17 16:47:44","2023-02-16 20:00:43","Silla tipo Rody c/apoyas en tela Marathòn azulino","Revisar y presupuestar",21900,"Enviè pres. x w app",Entregada,NULL
+674,497,"2023-01-18 17:05:40","2023-02-11 16:15:28","Sillòn chico negro, con casco y 1 apoyabrazos Golf","Cotizar retapizado y revisar",21750,"Enviè pres. x w app
+AUTORIZADO / ENviè factura x w app",Entregada,NULL
+675,519,"2023-01-18 18:47:31","2023-01-24 18:49:03","Sillón gamer Aero Cool negro","Cambiar estrella",4800,"PAGADO
+AVISADO X W APP",Entregada,NULL
+676,520,"2023-01-19 20:07:48","2023-02-02 19:51:33","Sillon gerencial Negro","Revisar y presupuestar",4200,"AUTORIZADO
+TERMINADO  / SIN FACTURA $ 4000.-
+AVISADO",Entregada,NULL
+677,521,"2023-01-20 15:10:21","2023-01-20 15:10:38","Silla tipo Tyson negra, c/apoyas regulables","Rellenar asiento, 5 ruedas, fijar respaldo c/bulòn y tuerca.",0,"SIN CARGO",Entregada,NULL
+678,522,"2023-01-20 15:56:25","2023-01-26 15:15:52","Sillòn Aluminio Alto","Cambio de cilindro",10800,"Avisado x w app
+Facturado B",Entregada,NULL
+679,523,"2023-01-20 18:20:39","2023-01-24 18:25:17","Gerencial negro","1 rueda, fijar cilindro altura maxima",2400,"Presupuestè por w app
+Avisè x w app",Entregada,NULL
+680,524,"2023-01-20 20:41:29","2023-01-23 20:07:26","Silla operativa negra, con apoyas, cromada. Cambiar estrella...","Estrella cromada, cilindro y ruedas",19150,"TERMINADO 
+AVISADO",Entregada,NULL
+681,525,"2023-01-21 16:52:13","2023-02-09 15:53:18","Silla Candy vieja gris","Cotizar retapizado en Jackson negro y mesh negro ( aprox. $ 10.000.-)",9600,"Avisada x w app",Entregada,NULL
+682,526,"2023-01-23 14:18:14","2023-01-27 20:12:22","Gerencial negro base y apoyas cromados","Basculante y revisar",8200,"Presupuestè x w app  $ 8200.- 
+AVISADO",Entregada,NULL
+683,527,"2023-01-25 17:29:24","2023-02-11 16:15:55","2  Silla fija 7010, amarillas","Fijar carcaza respaldo",2000,"TERMINADO 
+AVISADO",Entregada,NULL
+684,528,"2023-01-25 17:32:38","2023-01-25 20:16:01","Silla  Alma blanca","Cambio de cilindro",0,"Sin cargo / comprada en Junio 2022
+AVISADO",Entregada,NULL
+685,529,"2023-01-25 20:13:39","2024-07-24 17:22:53","Sillon gerencial Negro c/casco","Retapizar asiento y parches en casco ( 2 )",6000,"Avisada x w app",Entregada,NULL
+686,530,"2023-01-30 19:15:35","2023-02-25 17:30:47","Sillon gammer color rosa","Revisar y presupuestar. cilindro y estrella",11350,"cilindro, 1 rueda.
+Avisada x w app / PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+687,531,"2023-01-30 19:49:30","2023-02-08 17:56:55","Silla cromada c/cuero negro y apoyabrazos","Revisar y presupuestar",6800,"Agregar travesaño y soldar
+Avisada x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+688,532,"2023-01-30 20:56:06","2023-02-07 18:08:45","2 bases neumaticas","Revisar y presupuestar",9800,"cambiar 1 estrella y 2 juegos de ruedas
+VER RETENCIONES",Entregada,NULL
+689,282,"2023-01-31 16:27:26","2023-02-02 17:59:35","Silla red c/base cromada","Colocar cilindro cromado corto",5000,"TERMINADO 
+AVISADO",Entregada,1000
+690,66,"2023-01-31 20:09:29","2023-03-03 16:03:56","Silla cajera sin apoyas","Revisar y presupuestar",24000,"Chapòn, rellenar y retapizar , suplementar c/arandelas, cilindro, retocar aro y 4 ruedas siliconas Alma.
+TERMINADO / Enviè factura  a Bernardo.
+AVISADO",Entregada,NULL
+691,185,"2023-02-02 15:42:25","2023-03-13 13:56:55","3  Silla azul / Mesh negro con apoyas regulables","Revisar y presupuestar",34000,"Avisado y factura enviada x mail",Entregada,NULL
+692,533,"2023-02-06 19:45:01","2023-02-09 19:55:17","Gamer Negro / Rojo.","Cambiar chapòn y atornillar cuando traiga asiento",4500,"TERMINADO 
+AVISADO",Entregada,2000
+693,122,"2023-02-07 14:43:52","2023-03-06 16:12:46","2 Sillas( negras)  8500 neum., c/apoy. y 1 Rody alta c/apoy. y contacto ( celeste)","Revisar y presupuestar",58700,"Presupuestar tapizado en Ecocuero, excepto Rody en Jackson
+PAGADO",Entregada,NULL
+694,247,"2023-02-07 20:24:40","2023-08-03 19:38:13","Silla Candy Operative","Cambiar ruedas",2750,"Enviè factura y avisè que està lista
+PAGADO",Entregada,NULL
+696,110,"2023-02-09 15:13:01","2023-02-09 16:36:58","Sillòn  "u"","revisar y presupuestar",3000,"Cambio de 5 ruedas y suplementar c/arandelas
+AVISADO",Entregada,NULL
+697,535,"2023-02-09 17:42:52","2023-02-14 16:01:42","Silla tipo Alma negro cromado","Revisar y presupuestar",0,NULL,Entregada,NULL
+698,536,"2023-02-09 18:17:17","2023-02-10 20:10:43","Sillòn gamer turquesa y negro","Revisar estrella",5100,"PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+699,152,"2023-02-09 19:05:23","2023-03-06 16:01:21","Sillòn gerencial negro mediano","Retapizar asiento y fabricar interno de madera c/4 insertos",8900,"TERMINADO 
+AVISADO",Entregada,NULL
+700,537,"2023-02-09 19:38:13","2023-02-10 18:44:40","Estrella rota c/4 ruedas","Cambiar estrella y ruedas",7850,NULL,Entregada,NULL
+701,538,"2023-02-11 14:55:50","2023-03-22 14:43:02","1 Sillòn  " U " verde y 1 sillòn rojo mediano c/3 cascos negros","Cotizar retapizado en Ecocuero y revisar",26000,"Retapizado en Jackson negro
+TERMINADO . Entregada. PAGADO
+AVISADO",Entregada,NULL
+702,539,"2023-02-11 14:58:27","2023-03-03 16:05:29","1 Sillà tipo Ergo en puntino bordò y 1 " 7010 " giratoria","Cotizar retapizado y revisar",44700,"Ver cuaderno para detalle
+TERMINADO 
+AVISADO",Entregada,NULL
+703,504,"2023-02-13 20:12:53","2023-03-13 17:00:28","Sillón gerencial negro y cromado grande","Cotizar retapizado en Ecocuero Talampaya 6169/ 6167 y revisar. PAGADO TODO.",12150,"Retapizado $ 9400.- y 5 ruedas $ 2.750.-. PAGADA TODO.
+TERMINADO 
+AVISADO",Entregada,3000
+704,540,"2023-02-13 20:37:01","2023-02-25 17:31:25","Sillon Gammer Azul, cambiar estrella (la trajo)","Cambiar estrella, la trajo",1000,NULL,Entregada,1000
+705,541,"2023-02-14 17:25:24","2023-03-22 15:29:55","2 Sillas 7010 operativas, negras","Revisar y presupuestar",22650,"Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+706,40,"2023-02-16 16:50:22","2023-03-06 16:13:06","silla candy","Revisar y presupuestar",0,NULL,Entregada,NULL
+707,542,"2023-02-16 18:50:00","2023-03-22 14:12:13","2 apoyabrazos","rellenar y tapizar. ecocuero negro",3300,"AVISADA POR WAP",Entregada,NULL
+708,543,"2023-02-17 15:48:35","2023-03-16 18:44:15","3  sillas op. Bordo","Tapizar y armar. PAGADO TOTAL",21000,"Tapizar en tela Jackson Grafito (10)
+TERMINADO . PAGADO TOTAL
+AVISADO",Entregada,5000
+709,545,"2023-02-17 19:58:16","2023-03-20 15:43:41","Sillon Gerencial color verde","Tapizado completo en ecocuero negro",8000,NULL,Entregada,2000
+710,384,"2023-02-22 15:47:32","2023-03-01 14:17:28","Sillòn U negro","Colocar base completa neumàtica",22600,"TERMINADO 
+AVISADO",Entregada,NULL
+711,303,"2023-02-22 16:24:45","2023-03-02 20:05:12","1 Silla Rody baja y 1 silla gris con apoyas","Revisar y presupuestar",49800,"Presupuestè x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+712,143,"2023-02-22 17:25:24","2023-03-16 18:44:38","silla cajera, negra, sin apoyas, con aro","Revisar y presupuestar",6400,"tiene partido asiento",Entregada,NULL
+713,548,"2023-02-23 17:39:34","2023-03-02 16:24:14","Sillón gerencial negro y cromado","Revisar respaldo ( enganche )",2500,Avisado,Entregada,NULL
+714,547,"2023-02-23 17:48:31","2023-03-07 14:38:28","6 Sillones trineo y 5 sillones cubic","Retapizado completo",0,"Retapizado trineo $ 8.000.- / Cubic $ 27.800.- Presupuestado x w app y aceptado / Van a traer otra tanda igual, pagaron el 50%",Entregada,NULL
+715,549,"2023-02-23 18:05:52","2023-02-27 18:26:34","Silla Cromada blanca y negra, c/apoy.","Revisar estrella",3600,"Armar la estrella con la parte superior, suplementando.
+Avisada",Entregada,NULL
+716,550,"2023-02-23 18:17:36","2023-03-27 19:54:24","Sillón gerencial negro","Revisar y presupuestar / no retapizado. Ajuste 23.250.-",22150,"Envié pres. x w app",Entregada,NULL
+717,551,"2023-02-24 15:41:20","2023-09-08 18:26:45","Sillón gamer  " Good Game " negro","Revisar y presupuestar",0,"Muy dañada estructura...
+No se puede arreglar
+PASA A STOCK PROPIO","No se hace",NULL
+718,481,"2023-02-24 19:15:57","2023-02-28 19:27:16","Base basculante c/ruedas rosa","Cambiar estrella",4800,"TERMINADO 
+AVISADO",Entregada,2800
+719,552,"2023-02-25 16:26:34","2023-03-01 18:01:22","Silla inyectada en goma, color azul sin base","Colocar base completa neumàtica, con chapòn comùn",23000,"TERMINADO 
+AVISADO",Entregada,5000
+720,553,"2023-02-25 16:50:56","2023-03-22 18:58:58","Sillòn gerencial verde y 2 sillas 7010 verde fijas","Retapizado completo en Ecocuero y negro colocar 8 regatones $ 400.-",21400,"Trae ruedas de goma para colocarle
+TERMINADO . PAGADA
+AVISADO",Entregada,5000
+721,554,"2023-02-25 17:49:40","2023-04-04 14:12:51","Sillòn gerencial negro","Cilindro y ver retapizado asiento y parche ò completo",18300,"cilindro $ 10800.- / Retap. asiento $ 5000.-
+REVISE X TAPIZADO Y SERÌAN $ 7500.- EN VEZ DE $ 5000.- PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+722,555,"2023-02-27 15:32:31","2023-03-01 16:47:01","Sillòn Aluminio Alto","Cambiar chapòn y ver ruedas/",9450,"TERMINADO 
+AVISADO",Entregada,NULL
+723,556,"2023-02-27 18:21:45","2023-06-28 17:30:09","Silla Tyson c/ovalina , en tela negra
+PAGARON 3 MESES DESPUÈS !!!","Revisar y presupuestar",17800,"2 bulones c/tuerca - 1 rueda - cilindro - rellenar completo. VISADO POR TELEFONO",Entregada,NULL
+724,557,"2023-02-27 19:32:15","2023-03-20 19:48:03","Sillon gerencial negro,","Tapizar. (revisar por las dudas",9000,"Tapizar en Ecocuero 6537
+TERMINADO 
+AVISADO",Entregada,9000
+725,558,"2023-03-01 15:00:18","2023-03-09 14:34:54","Gerencial gris monocasco negro","revisar y presupuestar / base completa y 4 insertos , menos 2 ruedas",28780,"Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,10000
+726,559,"2023-03-01 15:47:52","2023-03-30 13:08:39","Silla Rody alta c/brazos, en Ecocuero negro","Revisar y presupuestar",2500,"Fijar respaldo c/ 1 bulón, suplementar asiento c/ 4 arandelas",Entregada,NULL
+727,477,"2023-03-01 16:07:12","2023-03-08 20:38:58","Silla Candy Operative cajera","Ver chapón y reforzar ó cambiar",5100,"Avisado. PAGADA",Entregada,NULL
+728,560,"2023-03-01 16:11:31","2023-03-17 13:47:43","Base neumática c/chapón roto","Cambiar chapón y 1 rueda",6000,"Avisado x w app
+TERMINADO
+AVISADO",Entregada,NULL
+729,561,"2023-03-01 16:55:38","2023-03-02 15:41:06","Base basculante c/estrella rota y 3 ruedas","Cambiar estrella",4800,"TERMINADO 
+AVISADO",Entregada,2000
+730,552,"2023-03-01 18:03:05","2023-03-13 17:49:03","Silla inyectada en goma color naranja. en partes, completa","Cilindro y revisar",11800,"TERMINADO
+AVISADO",Entregada,NULL
+731,512,"2023-03-01 18:12:35","2023-03-14 13:25:35","Silla tipo rody azul sin apoyas","Retapizar color de las anteriores. Revisar toda.",7000,"7000 tapizado",Entregada,NULL
+732,562,"2023-03-01 19:02:00","2023-03-08 18:36:42","Silla Alma Negra","Revisar y presupuestar respaldo",2500,Avisado,Entregada,NULL
+733,563,"2023-03-01 20:03:54","2023-03-08 15:55:16","Silla Rody Premium","Fijar respaldo",2500,NULL,Entregada,NULL
+734,303,"2023-03-02 20:05:38","2023-04-20 13:28:43","Sillon gerencial negro cromado","Revisar y presupuestar",30000,"Avisada x w app",Entregada,NULL
+735,564,"2023-03-03 18:55:01","2023-03-07 14:33:28","Sillon gerencial negro,","Cambiar estrella, la trajo",5500,"TERMINADO 
+AVISADO",Entregada,500
+736,565,"2023-03-06 14:15:49","2023-03-23 14:50:55","Gerencial negro monocasco","Retapizar asiento, parche en el casco",5600,"TERMINADO 
+AVISADO
+Mandar factura "a": ccian (cuil): 30713407409",Entregada,NULL
+737,566,"2023-03-06 17:12:01","2023-03-06 17:47:11","Base neumàtica cober","Cambiar cilindro",10800,NULL,Entregada,10000
+738,547,"2023-03-07 14:39:26","2023-03-30 13:08:20","6 Sillones trineo y 5 sillones cubic","Tapizado completo en ecocuero negro",0,"Pagaron 187.000",Entregada,NULL
+739,567,"2023-03-07 14:54:55","2023-03-14 13:26:02","Banqueta gris","Dejar fija",3500,"TERMINADO 
+AVISADO",Entregada,NULL
+740,568,"2023-03-07 20:35:36","2023-03-10 20:38:02","Base Cromada","Revisar tope ruedas",500,NULL,Entregada,NULL
+741,569,"2023-03-09 20:58:16","2023-03-23 19:25:20","Silla tipo Rody, verde, sin apoyabrazos","Cambiar el cilindro neumatico. Tambien revisarr y avisar si hay algo mas. + 5 RUEDAS 4500",17300,NULL,Entregada,4000
+742,383,"2023-03-10 15:19:12","2023-03-20 14:29:30","1 Silla nv5, negra con apoyas","cambio de cilindro",13000,"30-99906599-6    B o C exento.   Hotelmdp.adm@issn.gov.ar
+
+TERMINADO 
+AVISADO",Entregada,NULL
+743,570,"2023-03-14 14:00:15","2023-04-25 13:24:26","Sillon gerencial negro, base cromada, con apoyas","Revisar y hacer",17300,"TERMINADO 
+AVISADO",Entregada,NULL
+744,571,"2023-03-14 14:59:19","2023-05-05 15:42:18","Sillon gerencial negro,","Interno (10 insertos), retapizar y rellenar asiento",14750,"Otro telefono 2261442382. FACTURA ENVIADA POR WAP. PAGADA POR TRANSFERENCIA
+TERMINADO 
+AVISADO",Entregada,NULL
+745,572,"2023-03-14 19:28:21","2023-03-31 14:42:25","Silla respaldo y asiento recto, negra, sin apoyas, con estrella plateada","Si se puede ratapizar , hacerlo en blanco",29590,"Retapizado y relleno completo 12300. Cilindro  12740. Ruedas 5   4.550. Presupuesto pasado por wap","No se hace",NULL
+746,66,"2023-03-15 15:46:50","2023-05-16 16:19:39","Silla cajera sin apoyas","Tapizar y armar. Y aro y ruedas de alma",16100,"FACTURA ENVIADA POR MAIL 17/03/23. PAGADO 28/03/23",Entregada,NULL
+747,573,"2023-03-16 15:30:09","2023-04-05 18:40:11","1-Silla tipo Turin basic , tapizado blanco c/estruc negra, con apoyas. 2.- Silla tipo V5, negra, solo la parte de arriba y cilindro","Revisar y presupuestar",19500,"1.- ESTRELLA MEDIANA $ 5.520.- RUEDAS 4.550.-
+2.- BASCULANTE $ 9.420.-
+AVISADO
+
+factura enviad por wap
+
+AVISADO POR WAP DEL PRESUPUESTO. Factura enviada por wap",Entregada,NULL
+748,66,"2023-03-17 16:30:35","2023-05-16 16:20:23","Silla cajera sin apoyas","Cambiar estrella por cromada. Ruedas siliconadas",18000,"FACTURA ENVIADA POR MAIL 17/03/23. PAGADA 28-03-23 (34.100)",Entregada,NULL
+749,574,"2023-03-17 17:27:46","2023-04-04 14:20:25","Silla china, negra, sin apoyabrazos","Revisar y presupuestar",20100,"Chapon. Interno con 4 insertos. Tapizado completo.
+NO SE HIZO, LA DEJO",Entregada,NULL
+750,568,"2023-03-17 18:41:44","2023-03-22 18:57:46","Base Cromada","Ajustar ruedas",0,NULL,Entregada,NULL
+751,575,"2023-03-20 13:21:06","2023-03-23 19:35:37","Sillon gammer color uva, desarmado","Cambiar el basculante",11600,NULL,Entregada,6000
+752,577,"2023-03-20 14:36:37","2023-04-05 13:27:39","Sillon gerencial negro, respaldo red. desarmada. con apoyas","Revisar y presupuestar",10500,"basculante y armado. LLame al 4892744 (de donde el llamo) y mande wap al nro. que dejo
+TERMINADO Y AVISADO",Entregada,NULL
+753,538,"2023-03-20 15:23:37","2023-05-10 14:35:50","2 sillones rojo mediano c/3 cascos negros, 1 silla U roja y 1 sillon gerencial negro con apoyas","Tapizado completo en jackson negro",50500,"Retapizado completo en Jackson negro
+TERMINADO
+AVISADO",Entregada,NULL
+755,578,"2023-03-20 18:20:40","2023-03-30 19:54:09","Tipo rody baja beige c/ apoyas","Cilindro y revisar",12800,"avisado por wap",Entregada,NULL
+756,576,"2023-03-21 15:24:19","2023-04-21 16:16:56","Sillon gerencial negro,","Tapizado completo en ecocuero negro",13.000,"Para cuando vuelva Poli",Entregada,NULL
+757,541,"2023-03-21 19:58:16","2023-06-21 17:33:33","1. Silla tipo Rody con apoyas negra. 2. Silla tipo Rody sin apoyas negra. 3. Silla tipo 7010 giratoria con apoyas","Revisar y presupuestar",28900,"AVISADO
+FACTURA ENVIADA / PAGADO",Entregada,NULL
+758,579,"2023-03-22 15:04:37","2023-03-22 18:57:27","Sillon tipo Red One, negro con apoyas.","Cilindro y revisar",12900,NULL,Entregada,NULL
+759,575,"2023-03-27 14:57:14","2023-04-24 17:56:10","Sillon gammer color uva, desarmado","Revisar basculante de nuevo",0,"Basculante y refuerzo soldado ( $ 2000.- )",Entregada,NULL
+760,580,"2023-03-27 14:59:08","2023-06-07 18:14:50","Sillon gammer , negro y blanco","Revisar y presupuestar",16000,"Avisada x w app 06/06/23",Entregada,NULL
+761,581,"2023-03-27 18:36:33","2023-04-19 19:34:39","Sillon Aluminio Alto cormado","Revisar y presupuestar",12300,"Cilindro y ruedas
+TERMINADO 
+AVISADO",Entregada,6000
+763,559,"2023-03-27 18:37:38","2023-04-24 13:24:02","Silla Rody Alta  con apoyas","Revisar y presupuestar",0,"Pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+764,582,"2023-03-27 19:02:49","2023-04-04 19:49:11","Silla operativa negra, sin apoyas , estrella cromada","Revisar y presupuestar. El tapizado lo hacen cuando vuelva Poli",4800,"Presup. x w app.
+Chapòn $ 4800.-  /  Retap. asiento $ 5000.-
+AVISADO",Entregada,NULL
+765,66,"2023-03-28 19:14:26","2023-04-25 16:20:11","Silla Red Azul, sin apoyas.","Revisar y presupuestar. Retapizar respaldo ojo clavitos",12500,"TERMINADO 
+AVISADO / Factura enviada",Entregada,NULL
+766,583,"2023-03-29 18:17:03","2023-09-08 18:27:54","Sillon gerencial negro, con apoyas, estrella cromada","Revisar y presupuestar",0,"PASA A STOK PROPIO","No se hace",NULL
+767,584,"2023-03-29 19:21:42","2023-04-24 17:56:31","Silla Alma negra, asiento vison","Revisar movimiento respaldo, suplementar apoyas c/arandelas",0,"TERMINADO 
+AVISADO",Entregada,NULL
+768,585,"2023-03-30 16:45:53","2023-04-11 16:41:03","Silla tipo red one, negra con apoyas","Revisar y presupuestar",10400,"Estrella cromada
+Respaldo roto, no tiene arreglo. / Pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+769,587,"2023-03-31 15:43:58","2023-04-20 13:28:26","2 Sillas tipo Rody, con apoyas, tapizadas en ecocuero rojo","Revisar y presupuestar. Tapizado en ecocuero negro",24900,"Retapizado completo en Ecocuero negro, 1 estrella mediana y suplem. apoyab.
+TERMINADO 
+AVISADO",Entregada,NULL
+770,281,"2023-03-31 19:17:57","2023-04-18 17:41:40","Silla tipo  " Tyson " en tela negra","Revisar y presupuestar",8800,"Avisar a Fernando Vignolo  2235814754
+ENVIE W APP CON PRESUP.
+TERMINADO 
+AVISADO",Entregada,NULL
+771,588,"2023-03-31 19:24:08","2023-04-06 16:41:04","Sillón gerencial negro","Revisar y presupuestar ( con retapizado )",14200,"Basculante, ruedas
+El retap. lo hace màs adelante. Avisada x w app",Entregada,NULL
+772,589,"2023-04-01 15:52:14","2023-04-06 15:12:31","Silla Candy Operative","5 ruedas nuevas",4400,"PAGADO
+AVISADO",Entregada,NULL
+773,406,"2023-04-03 15:38:02","2023-05-30 14:52:06","2 Sillon gerencial negro","Revisar y presupuestar",40100,"PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+774,590,"2023-04-04 13:49:02","2023-04-11 15:09:57","Sillon gerencial negro,","Revisar y presupuestar",14300,"Llevò 2 ruedas ( falta pago ) Incluìdo en el precio total.
+ENVIE PRES. X W APP / FACTURA HECHA
+TERMINADO 
+AVISADO",Entregada,NULL
+775,297,"2023-04-04 15:08:32","2023-04-04 15:08:59","Silla  " Rody baja cajera " s/apoyas","Interno de madera nuestro, 4 insertos, rellenar y retapizar asiento",16100,PAGADO,Entregada,NULL
+776,591,"2023-04-04 19:33:31","2023-04-05 19:36:37","Sillón gamer Corsair negro",Cilindro,12000,"TERMINADO 
+AVISADO",Entregada,6000
+777,477,"2023-04-05 18:43:23","2023-05-16 14:24:00","2 sillas 8500 c/apoy. fijas tap. en Ecocuero marròn","Revisar y presupuestar",12200,"Pasè pres. x w app
+Interno respaldo nuevo y retapizado respaldo en Talampaya 5728 / Avisado x W app / PAGADO
+Factura enviada",Entregada,NULL
+778,573,"2023-04-10 17:40:25","2023-04-24 17:55:28","Silla Alma blanca con base negra y asiento azul","Cambiar cilindro",12000,"Avisado x w app",Entregada,NULL
+779,590,"2023-04-11 15:11:18","2023-06-21 17:32:25","Sillon mono-casco negro","Revisar y presupuestar",17200,"chapòn, cilindro y 2 parkers.
+Enviè pres. x w app /  AVISADO Y PAGADO / FACTURA ENVIADA
+TERMINADO 
+AVISADO",Entregada,NULL
+780,592,"2023-04-12 16:11:19","2023-05-06 15:07:57","rody baja azul marino s/apoyas","Retapizado, perilla chapón y revisar cilindro",22300,"Retapizado mas oscuro que haya
+Retapizado completo, cilindro y perilla / PAGADO",Entregada,NULL
+781,593,"2023-04-12 18:31:22","2023-09-08 18:28:41","Silla china negra","Revisar y presupuestar",0,"Pasé pres. x w app
+$ 26.700.- ó $ 31.500.- ( tapizando asiento ó completo )
+PASA A STOCK PROPIO","No se hace",NULL
+782,594,"2023-04-13 18:43:02","2023-05-09 16:05:15","Sillòn gamer celeste y negro","Revisar y presupuestar",8500,"Avisé x w app
+Abrir tapizado y soldar
+TERMINADO 
+AVISADO",Entregada,NULL
+783,595,"2023-04-14 19:39:09","2023-04-17 18:27:25","Silla Alma Gris / Pana Azul","Reparar respaldo",3000,"Avisado x w app",Entregada,NULL
+784,596,"2023-04-15 14:20:25","2023-05-04 14:54:29","Silla tipo Rody baja con apoyas, negra","Revisar y presupuestar ( cilindro ) No Tapizado",17390,"Chapòn y cilindro
+TERMINADO 
+AVISADO",Entregada,NULL
+785,597,"2023-04-17 14:11:24","2023-05-08 13:06:59","Silla tipo 7010 roja, neumatica .","Revisar y presupuestar",6000,"Relleno en el asiento de alta densidad. Tapizado 6172 si es que no se puede mantener el mismo tapizado
+Presupuesté relleno en alta densidad solamente y suplementar. Avisada",Entregada,NULL
+786,185,"2023-04-18 14:57:12","2023-06-22 16:44:10","6 Silla azul c/resp. red y apoyas","Revisar y presupuestar",41800,"TAPIZAR EN ECOCUERO AZUL PARECIDO",Entregada,NULL
+787,598,"2023-04-18 19:07:35","2023-05-11 17:59:32","1 Silla Rody alta con apoyas, 2 Silla 7010 giratorias tapizadas en tela Azul Francia y 1 silla cajera tipo Tyson neum. c/ovalina y sin apoyas en Ecocuero negro","Ver retapizado  ( color )",32800,"Retapizar jackson azul (ocean) y la cajera en Ecocuero negro",Entregada,NULL
+788,497,"2023-04-20 16:51:20","2023-05-09 16:26:34","Banqueta neum. negra","Tapizado completo en ecocuero negro",12000,"factura enviada x w app",Entregada,NULL
+789,510,"2023-04-21 13:57:28","2024-08-24 15:34:44","1.-Sillon gerencial , respaldo red, apoyas, estrella cromada, 2.- Silla china, sin apoyas, respaldo con dibujos bco y negra","Revisar y presupuestar",31500,"Pasè pres. x w app / Basculante  $ 40.000.-",Terminada,NULL
+790,303,"2023-04-21 18:59:21","2023-05-17 13:11:51","Silla cromada c/respaldo de madera en Ecocuero tiza","Revisar y presupuestar",24600,"Enviè pres. x w app
+Retapizado en Ecocuero Talampaya 268 y hacer madera asiento",Entregada,NULL
+791,330,"2023-04-22 16:06:29","2023-05-24 17:28:53","Silla cajera " Diva " sin apoyas en Ecocuero negro","Cilindro y revisar",12500,"Factura enviada a Waldo",Entregada,NULL
+792,599,"2023-04-24 18:20:30","2023-05-24 17:29:15","5 Silla 7010 fija","Tapizado completo en Jackson 01  Toffee",48000,NULL,Entregada,NULL
+793,600,"2023-04-24 19:02:43","2023-06-06 18:40:03","2 Sillones C Red cromados","Cambiar cilindro. Ruedas. Cilindro y tornillo",32700,"Pasé pres. x w app
+PAGADO
+TERMINADO 
+AVISADO",Entregada,NULL
+794,601,"2023-04-25 16:14:44","2023-05-11 17:57:36","Silla tipo India negra, sin apoyas","Revisar y presupuestar",10900,"estrella med. , Retapizar respaldo Mesh y cilindro opcional
+Presupuestado x w app. Hacer todo menos cilindro. PAGADO POR TRANSFERENCIA
+TERMINADO 
+AVISADO. PAGADO POR TRANSFERENCIA",Entregada,NULL
+795,602,"2023-04-25 16:17:01","2023-05-04 14:41:58","1.- Silla Candy nueva (compro semana pasada)   2.- Silla tipo Rody","Revisar y presupuestar",5800,"Ya se llevaron la candy.
+Interno Rody madera c/10 insertos. / Presup. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+796,66,"2023-04-25 16:20:55","2023-05-16 16:00:15","Silla tipo India, sin apoyas, asiento gris","Revisar y presupuestar. Tapizar",31700,"Terminada. Factura enviada 16/05 por mail",Entregada,NULL
+797,603,"2023-04-26 14:27:05","2023-06-21 17:33:50","Sillon gerencial negro","Revisar y presupuestar- tapizado",16500,"Abrir respaldo, soldar insertos y colocar c/bulòn y tuerca, retapizar respaldo  
+$ 16500.-",Entregada,9000
+798,599,"2023-04-26 14:44:03","2023-05-15 17:15:49","2.- Sillas 7010 sin apoyas (revisar y retapizar)  2.- Silla tipo NV5 s/apoyas solo revisar no tapizado","Revisar y presupuestar. retapizar",40300,"Retapizado en Jackson 01 Toffee
+Enviè pres. x w app",Entregada,NULL
+799,604,"2023-04-26 18:54:58","2023-04-27 17:58:28","Silla " Candy "","Cambiar lateral y suplem.",7600,"PAGADO
+TERMINADO 
+AVISADO",Entregada,7000
+800,605,"2023-04-27 16:41:29","2023-05-05 18:49:40","1 Sillón C red, cromado y 1 silla Ergo c/apoy.","Revisar y presupuestar",12700,"Sillón C, basculante roto y silla Ergo se baja
+Enviè pres. x w app",Entregada,NULL
+801,504,"2023-04-28 13:16:53","2023-05-06 15:44:47","Sillon respaldo alto ecocuero negro/cromado c/apoyas","retapizado completo",16000,"Retapizado Jackson grafito
+Pasé pres. x w app. AVISADA",Entregada,2000
+802,606,"2023-04-28 13:24:13","2023-05-02 13:45:33","Silla tipo candy Verde fosforescente","estrella chica",5300,"TERMINADO 
+AVISADO",Entregada,NULL
+803,318,"2023-05-02 19:26:53","2023-05-04 15:41:33","Gamer negro y rojo","Colocar estrella cromada",13900,"PAGADO VISA 3 CUOTAS
+TERMINADO 
+AVISADO",Entregada,NULL
+804,607,"2023-05-04 16:00:08","2023-05-19 16:18:12","Respaldo Rody alta violeta","Colocar contacto permanente",12000,"PAGADO
+TERMINADO
+AVISADO",Entregada,NULL
+805,608,"2023-05-04 16:24:27","2023-05-04 19:28:51","Silla  7010 neum., c/apoyas en tela Negra","Cambiar cilindro",13700,"Avisado x w app",Entregada,3000
+806,552,"2023-05-05 19:41:58","2023-05-09 14:31:12","Silla inyectada en goma color naranja.","Ya se le cambiò el cilindro, se mueve. Revisar",0,"Avisado x w app",Entregada,NULL
+807,608,"2023-05-06 13:46:55","2023-05-06 15:44:22","Sillòn Mesh alto cromado","Revisar y presupuestar",5750,"Cambiar ruedas
+Avisado",Entregada,NULL
+808,130,"2023-05-08 14:12:18","2023-05-18 15:19:49","Silla tipo Candy c/base cromada y apoyas","Cilindro y revisar",15000,"Cilindro $ 15.000.-
+AVISADO. Factura enviada por wap 16/05",Entregada,NULL
+809,609,"2023-05-08 16:32:13","2023-06-21 17:31:58","Silla Rody alta gris c/apoyas","Revisar y presupuestar / cilindro",20370,"Cilindro y 5 ruedas
+TERMINADO 
+AVISADO",Entregada,NULL
+810,610,"2023-05-11 18:00:34","2023-05-16 15:12:07","Sillón Aluminio alto","Cambiar cilindro y basculante",24400,"Saldo $ 19.400.-",Entregada,5000
+811,611,"2023-05-12 15:24:46","2023-05-18 18:32:07","Silla Ergo negra","Revisar y presupuestar",20900,"Se baja el cilindro cuando se sienta.
+Pasè pres. x w app",Entregada,NULL
+812,612,"2023-05-12 15:56:20","2023-05-24 17:27:09","Silla neum. 7010 c/apoyas","Cambiar cilindro",14800,"TERMINADO 
+AVISADO",Entregada,2000
+813,592,"2023-05-12 16:21:55","2023-05-30 15:00:38","Silla Rody baja azul marino  s/apoyas","Cilindro, retapizado comp. y rellenar asiento",25800,"Pasé pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+814,143,"2023-05-12 16:50:00","2023-07-13 16:35:50","Silla cajera Rody alta c/riñonera, negra y sin apoyas","Revisar y presupuestar, ver Ecocuero bueno.",34300,"Pasè pres. x w app
+Autorizada
+TERMINADO
+AVISASO",Entregada,NULL
+815,613,"2023-05-12 16:52:00","2023-06-03 14:37:51","Silla  " 8500 " neumàtica, c/apoyas, en Econegro","Revisar y presupuestar",8500,"Pres. x w app
+Chapòn , soldara estruc. y cortar carcaza
+TERMINADO 
+AVISADO",Entregada,NULL
+816,614,"2023-05-12 18:06:23","2023-05-31 13:13:41","Sillón gerencial negro, cromado con almohadòn entero","Ver apoyabrazos y retapizado almohadòn",16000,"Retapizado almohadòn largo (asiento y respaldo), sacar tornillo cortado del casco y colocar nuevo.
+Enviè pres. x w app.
+TERMINADO 
+AVISADO",Entregada,NULL
+817,605,"2023-05-13 14:33:01","2023-05-22 18:42:59","2 Sillones aluminio alto","Revisar y presupuestar",21600,"AVISADO POR W APP",Entregada,NULL
+818,615,"2023-05-15 15:30:28","2023-06-10 15:58:19","Silla tipo gammer, negra, carrefour","Revisar y presupuestar",8000,"Rellenar asiento y hacer madera nueva
+TERMINADO 
+AVISADO",Entregada,NULL
+819,66,"2023-05-16 15:00:54","2023-07-19 17:39:00","Silla tipo india, sin apoyas, azul","Rellenar, retapizar asiento. Ruedas alma.",13700,"TERMINADO 
+AVISADO",Entregada,NULL
+820,616,"2023-05-16 18:47:38","2023-05-18 19:26:36","Sillón Mesh alto cromado","Cambiar cilindro y ruedas",0,NULL,Entregada,NULL
+821,617,"2023-05-18 13:23:28","2023-05-20 14:17:40","Gamer Negro / Camuflado c/apoyas","Estrella mediana y revisar",6500,"Estrella mediana.
+TERMINADO 
+AVISADO",Entregada,NULL
+822,618,"2023-05-18 14:01:30","2023-05-18 15:50:09","gerencial bajo negro / cromado","Estrella mediana y revisar",6500,"Pagado
+TERMINADO 
+AVISADO",Entregada,NULL
+823,619,"2023-05-18 14:16:39","2023-06-21 17:34:06","Rody alta Naranja","Interno de madera y revisar",18500,Avisado,Entregada,NULL
+824,130,"2023-05-18 15:20:29","2023-05-23 17:54:05","Silla tipo Candy c/base cromada y apoyas","Revisar y presupuestar",14870,"cambio de cilindro",Entregada,NULL
+825,620,"2023-05-20 14:05:25","2023-05-24 17:26:53","Silla  7010 neum., c/apoyas en Econegro","Cambiar estrella",5850,NULL,Entregada,NULL
+826,605,"2023-05-22 18:56:19","2023-06-10 15:06:22","2 Sillones aluminio alto","Revisar y presupuestar",40000,"Reparaciòn de estructuras ( fabricaciòn y cambio de 1 barra x sillòn ) y 1 basculante
+Avisado",Entregada,NULL
+827,621,"2023-05-23 14:32:59","2023-05-30 14:51:37","2  Sillones gerenciales cromados, en Ecocuero crema","Revisar y presupuestar",37670,"1) Basculante + 2 tornillos   2) Basculante + cilindro + 4 tornillos
+Enviè pres. x w app. AVISADO",Entregada,NULL
+828,130,"2023-05-23 17:56:03","2023-07-06 16:30:14","Silla tipo Candy c/base cromada y apoyas","Revisar y presupuestar",15000,"cilindro.
+TERMINADO 
+AVISADO",Entregada,NULL
+829,185,"2023-05-24 17:30:59","2023-07-24 13:18:59","3 sillas neumaticas azules c/respaldo mesh, 3 sillas fijas estructura trineo azules.","Revisar y presupuestar",31100,"TAPIZAR EN ECOCUERO AZUL PARECIDO
+FACTURA ENVIADA",Entregada,NULL
+830,623,"2023-05-24 18:07:37","2023-05-24 19:34:40","Sillòn C mesh alto c/base cromada","Cambiar basculante y colocar insertos necesarios",13000,Avisado,Entregada,2000
+831,261,"2023-05-29 14:48:15","2023-05-30 13:19:00","Silla Candy ( de antes )","Cambiar cilindro",15000,"CUIT  30709040398
+Manuel  2236974996 / AVISADO",Entregada,NULL
+833,625,"2023-05-30 13:58:22","2023-06-15 18:29:27","1 Sillòn gerencial negro y una Candy ( ant, )","Cilindro y revisar",23800,"Enviè pres. x w app
+Nos quedamos c/la Candy y hago descuento en la compra de tesoro",Entregada,NULL
+834,592,"2023-05-30 15:26:33","2023-07-15 15:04:32","Banqueta fija negra tapizada","Revisar y presupuestar",9800,"Fabricar asiento completo y pintar estructura",Entregada,NULL
+835,37,"2023-05-31 17:05:36","2023-06-21 17:35:26","Silla china marròn","Revisar y presupuestar",0,"2234560443
+Queda para repuestos, la silla",Entregada,NULL
+836,343,"2023-06-01 15:58:57","2023-06-22 15:44:12","Silla cromada negra china","Fijar altura c/caño y ver tapizado ( si se puede separar asiento y respaldo, mejor )",7500,Avisado,Entregada,NULL
+837,247,"2023-06-01 16:39:58","2023-09-08 18:42:26","Silla  " Candy Operative "","Revisar basculante",15000,"TERMINADO
+PAGADO",Entregada,NULL
+838,626,"2023-06-02 17:59:03","2023-06-15 17:13:04","Sillón gerencial gris ( tela )","revisar y presupuestar",35200,"Rellenar y tapizar asiento, cambiar cilindro y basculante.
+Avisado x w app",Entregada,NULL
+839,480,"2023-06-06 19:33:34","2023-06-21 17:34:50","Sillòn C chico negro","Armar y colocar ruedas que trajo",0,NULL,Entregada,NULL
+840,35,"2023-06-07 13:54:35","2023-07-19 17:39:38","2 sillas operaticas color crudo en tela c/apoyas. 1 Silla tipo Ergo . 1 Silla tipo red one cromada desarmada","Revisar y presupuestar. Tapizados todos en ecocuero negro. Ver tema respaldo de la desarmada",45100,"FACTURA ENVIADA A ALFONSO",Entregada,NULL
+841,627,"2023-06-09 19:44:51","2023-06-15 17:01:24","Bastidor c/tela mesh, respaldo","Retapizar en Mesh gris perla",6000,NULL,Entregada,1000
+842,605,"2023-06-10 15:16:12","2023-07-11 13:54:34","3  Sillones Aluminio alto","Revisar y presupuestar",44000,"Avisado y fact. enviada x w app. RETIRADAS NO PAGADAS",Entregada,NULL
+843,27,"2023-06-14 17:09:31","2023-06-27 15:45:25","Sillon gerencial negro,","Revisar y presupuestar neumàtico",16400,"Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+844,629,"2023-06-14 17:28:46","2023-07-19 17:39:56","5 Banqueta cromada, neumàtica color ceniza","Revisar cilindro y cotizar retapizado",105000,"Tapizar en Talampaya 067 y soldar bases",Entregada,38000
+845,634,"2023-06-14 19:37:41","2023-06-21 17:35:06","Silla Alma color cemento","Revisar respaldo ( no traba )",0,"AVISADA
+SIN CARGO / Se ajustò tuerca de Asyncro",Entregada,NULL
+846,636,"2023-06-15 15:00:50","2023-07-12 14:20:31","Silla TYSON C/APOYAS Y OVALINA, EN TELA AZUL  ( repaldo roto )","Revisar y presupuestar",7000,"TERMINADO 
+AVISADO",Entregada,NULL
+847,637,"2023-06-15 15:04:50","2023-07-01 13:46:17","Silla neumàtica plàstica , casco rojo y base cromada","Cortar y soldar chapòn nuevo",7600,"TERMINADO 
+AVISADO",Entregada,NULL
+848,635,"2023-06-15 19:00:12","2023-06-27 18:18:54","Sillon gerencial negro,","Cilindro y perilla chapòn",16900,PAGADO,Entregada,NULL
+849,621,"2023-06-21 16:00:13","2023-06-27 18:18:24","Gerencial alto blanco / cromado","2 insertos",0,"Lo trajeron de vuelta se salieron los parkers.
+Se colocaron insertos.
+Sin Cargo.",Entregada,NULL
+850,638,"2023-06-21 18:24:11","2023-07-03 17:40:01","Sillon gerencial negro","Revisar y presupuestar ( rellenar )",5700,"30-55908892-3
+TERMINADO eNVIÈ FACTURA X W APP
+AVISADO",Entregada,NULL
+851,152,"2023-06-21 19:50:31","2023-06-22 13:47:31","Sillòn fijo cromado","Pegar tapizado",0,"TERMINADO 
+AVISADO",Entregada,NULL
+852,152,"2023-06-22 13:48:19","2023-07-19 17:38:05","Tipo trento cromado","Estrella cromada",0,"TERMINADO
+AVISADO",Entregada,NULL
+853,639,"2023-06-23 14:37:33","2023-06-27 18:22:09","Silla tipo Rody alta, tapizada en tela negra, ccon apoyas","Cambiar cilindro",16350,"TERMINADO 
+AVISADO",Entregada,3000
+854,640,"2023-06-23 14:47:56","2023-06-23 19:38:02","Silla operativa","Cambiar cilindro",16357,"TERMINADO 
+AVISADO",Entregada,NULL
+855,641,"2023-06-23 15:21:21","2023-06-28 13:44:38","Silla tipo 7010, con topes, sin ruedas, azul oscura con apyabrazos","Cambiar cilindro",16350,AVISADO,Entregada,2000
+856,642,"2023-06-23 19:07:52","2023-06-29 18:53:07","Silla Candy","Revisar cilindro",16300,"Cambiar cilindro
+Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+857,106,"2023-06-23 19:23:55","2023-07-03 16:57:42","4  Silla Candy base cromada","Revisar y presupuestar",28350,"pasè pres. x w app
+TERMINADO / VER FACTURA
+AVISADO",Entregada,NULL
+858,643,"2023-06-26 13:49:33","2023-07-01 13:55:39","Gamer negro / azul","Estrella pasada y revisar",7150,"Colocar estrella mediana
+Avisado x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+859,644,"2023-06-27 17:53:46","2023-06-28 14:34:29","2  Silla  " Candy antigua "","Revisar y presupuestar",32000,"Pasé pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+860,645,"2023-06-27 19:06:52","2023-06-28 19:01:30","Base neum., basc. gamer c/estrella rota","Cambiar estrella",7200,"PAGADO
+avisado",Entregada,NULL
+861,646,"2023-06-28 16:44:35","2023-07-11 17:36:33","Sillon gerencial negro,","Cambiar cilindro - Reviso",16360,"TERMINADO 
+AVISADO",Entregada,NULL
+863,647,"2023-06-28 18:13:33","2023-06-30 17:26:58","Base neumàtica cober","Cambiar estrella plàstica mediana",7000,"TERMINADO 
+AVISADO",Entregada,NULL
+865,649,"2023-06-29 16:56:55","2023-07-04 15:26:31","Silla tipo red one negra, con  apoyas","Cambiar cilindro. Revisar",16350,"TERMINADO 
+AVISADO",Entregada,10000
+866,650,"2023-06-30 19:41:07","2023-07-11 13:59:27","Sillon gerencial negro y cromado Mesh","Revisar y presupuestar",29800,"$ 35.800.- / $ 29.800.- ( con ò sin cambio de ruedas )
+Pasè pre. x w app / HACER SIN RUEDAS
+TERMINADO
+AVISADO",Entregada,NULL
+867,387,"2023-06-30 19:54:20","2023-07-01 13:45:59","Sillòn gamer Dakot negro y azul","Colocar 6 insertos",0,"SIN CARGO
+AVISADA",Entregada,NULL
+868,651,"2023-07-01 13:54:39","2023-07-19 17:40:16","2  Bases neumàticas","ver ruedas y chapòn",12360,NULL,Entregada,NULL
+869,590,"2023-07-01 14:17:08","2023-07-10 14:00:17","Silla tipo Rody baja c/apoyas","Revisar y presupuestar ( chequear x las dudas, cilindro )",8500,"Pasè pres. x w app",Entregada,NULL
+870,3,"2023-07-01 14:26:26","2023-07-05 15:14:54","Silla ergonòmica negra / red negra c/basculante y apoyas.","Cucurucho, CILINDRO, ESTRELLA y revisar y armar",24450,AVISADO,Entregada,NULL
+871,128,"2023-07-01 15:53:10","2023-07-19 17:37:43","Sillòn C chico negro","Retapizar respaldo en Talampaya 393",9600,PAGADA,Entregada,NULL
+872,638,"2023-07-03 17:41:26","2023-07-19 17:37:13","Sillón gerencial negro","Ver con Poli tapizado ò franja asiento.",4000,"Dejò $ 300.- a cuenta.
+SALDO $ 700.- / AVISADA",Entregada,NULL
+873,652,"2023-07-03 19:04:03","2023-07-26 17:49:06","Sillon gerencial negro y cromado","Revisar y presupuestar ( cotizar retap. )",38500,"Presup. x w app",Entregada,NULL
+874,653,"2023-07-05 16:59:37","2023-07-17 15:36:00","Silla India cromada en color hueso","Revisar y cotizar retapizado completo ( ver movimiento de respaldo )",13000,"TERMINADO 
+AVISADO",Entregada,NULL
+875,66,"2023-07-05 19:37:35","2023-07-18 18:01:38","Silla India","Reparar respaldo y cambiar ruedas",10000,"Hasta acà, facturas enviadas y pagadas !!",Entregada,NULL
+876,654,"2023-07-06 15:07:24","2023-07-28 17:12:09","Sillon gerencial negro, sinrelleno","Revisar y presupuestar. y ver sino compra",24500,"TERMINADO
+AVISADO",Entregada,NULL
+877,655,"2023-07-06 17:11:41","2023-07-19 14:07:04","2 Silla Biro baja s/apoyas en color Ceniza","Revisar y presupuestar",35500,"Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+878,656,"2023-07-07 16:13:01","2023-07-27 16:48:56","Silla  " 7010 " neum., c/apoyas, en Ecocuero negro","Revisar y presupuestar",15000,"Estructura nueva, retap. y rellenar asiento
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+879,657,"2023-07-07 17:36:20","2023-07-08 16:28:58","Base neumàtica basculante","Cambiar cilindro",17000,"27-17741599-0   Garcìa Gabriela Estela",Entregada,NULL
+880,658,"2023-07-08 13:43:37","2023-07-12 18:38:53","Silla tipo Rody ALTA AZUL, con apoyas y cober","Cambiar cilindro",0,NULL,Entregada,NULL
+881,659,"2023-07-08 14:01:00","2023-07-12 19:57:31","3 bases cromadas de banqueta","fijar en altura màx.",15000,NULL,Entregada,5000
+882,637,"2023-07-08 14:03:45","2023-08-05 13:56:21","Silla cajera " 7010 " sin apoyabrazos en Eco negro","Cambiar chapòn",8200,NULL,Entregada,NULL
+883,660,"2023-07-10 16:42:27","2023-07-17 15:53:36","Sillon Gammer , color rojo","Revisar y presupuestar",18000,"Cilindro y tornillo c /ajuste.
+TERMINADO 
+AVISADO",Entregada,NULL
+884,613,"2023-07-10 18:52:50","2023-08-01 18:20:22","Silla " 8500 " neumàtica, c/apoyas, en Econegro","Soldar chapòn y sacar apoyabrazos",0,"TERMINADO
+AVISADO",Entregada,NULL
+885,657,"2023-07-10 19:35:24","2023-07-11 15:30:39","Base neumàtica basculante","Cambio de cilindro",17000,"TERMINADO 
+AVISADO",Entregada,NULL
+886,649,"2023-07-11 14:33:23","2023-07-13 19:19:31","silla respaldo alto mesh",cilindro,0,"TERMINADO 
+AVISADO",Entregada,NULL
+887,661,"2023-07-11 15:24:40","2023-07-21 16:23:50","1 Sillòn C chico y 1 silla cromada roja ( cuero ) c/apoyas","Revisar y presupuestar",15800,"AVISADO X W APP",Entregada,NULL
+888,614,"2023-07-13 13:34:43","2023-08-08 13:21:04","Gerencail bajo negro cromado","retapizar completo y revisar",21000,"Avisado x w app",Entregada,NULL
+889,662,"2023-07-13 17:03:46","2023-07-29 15:38:01","Sillòn Mesh alto cromado","Hacer interno asientoc/insertos",6500,NULL,Entregada,2000
+890,663,"2023-07-13 18:40:42","2023-08-01 17:26:46","Silla Rody en pana naranja, sin apoyas","Revisar y presupuestar",9100,"Si no anda el cilindro, dejar fijo.
+TERMINADO / AVISADO Y FACTURA ENVIADA. PAGADO",Entregada,NULL
+891,605,"2023-07-13 18:49:19","2023-07-28 17:42:45","Sillon gerencial negro,","Revisar y presupuestar",13850,"Avisado x w app",Entregada,NULL
+892,66,"2023-07-13 19:46:30","2023-07-28 13:51:58","Silla cajera sin apoyas","Ruedas Alma, retapizar asiento y pintar aro",19400,"AVISADO
+Factura enviada a Bernardo 24/07/23",Entregada,NULL
+894,664,"2023-07-14 18:21:51","2023-07-19 17:37:21","2 bases neumaticas","Armar una con las 2",3000,"Avisado x w app",Entregada,NULL
+895,231,"2023-07-15 14:52:33","2023-09-14 15:37:31",Candy,"Revisar y presupuestar",17900,"Cambiar basculante
+Avisado x w app. Avisado nuevamente y precio actualizado 08/09
+TERMINADO 
+AVISADO",Entregada,NULL
+896,185,"2023-07-17 18:13:34","2023-07-24 13:19:17","1 Silla Azul/respaldo Mesh fija y 1 Silla Azul respaldo Mesh neumàtica","Revisar y presupuestar",12500,"FACTURA ENVIADA",Entregada,NULL
+897,581,"2023-07-19 16:24:33","2023-07-26 17:15:45","Sillón Aluminio alto","Revisar inclinación",14000,"Colocar estrella cromada ( $ 14.000.- ) 
+TERMINADO 
+AVISADO 
+Pasè pres. x w app. Cromada y guardar la otra",Entregada,NULL
+898,665,"2023-07-19 16:49:40","2023-08-25 15:35:13","Sillón Aluminio bajo blanco","Revisar y presupuestar",38000,"Cilindro, estrella cromada y ruedas. No la Hace",Entregada,NULL
+899,37,"2023-07-19 17:14:57","2023-07-26 17:16:49","Silla U",Retapizar,12000,Avisada,Entregada,NULL
+900,666,"2023-07-19 18:03:25","2023-07-21 19:31:51","Sillòn gamer blanco y negro","Cilindro y revisar",17000,"Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+901,667,"2023-07-21 16:14:30","2023-07-26 15:07:36","Silla India, color negro, cromado, con apoyabrazos","Revisar y presupuestar",3700,"Suplementar y colocar arandelas, ruleman y taco de goma.
+Pres. x w app / AVISADA X W APP",Entregada,NULL
+902,668,"2023-07-21 19:26:03","2023-07-22 16:13:59","Base neumàtica basculante","Cambiar basculante",13400,"AVISADO X W APP",Entregada,5000
+903,669,"2023-07-22 14:29:14","2023-07-24 13:18:09","Sillòn C chico negro","Cambiar cilindro",17000,"Avisada x w app",Entregada,NULL
+904,670,"2023-07-22 14:55:27","2023-07-24 15:28:42","Silla 7010 neum. sin apoyas/negra","Cambiar estructura con chapòn",14000,"TERMINADO 
+AVISADO",Entregada,NULL
+905,671,"2023-07-24 14:49:46","2023-07-26 17:16:06","Silla tipo Rody ( Diva ) color Verde musgo con apoyas","Revisar cilindro pasado",0,"No se puede arreglar",Entregada,NULL
+906,672,"2023-07-25 18:23:58","2023-07-29 16:31:48","Silla tipo Ergo roja","Retapizar en Jackson Gris Graphite ( 10 ) y revisar alojamiento rueda faltante",16300,"Retap. $ 15.000.- , rueda $ 1300.-",Entregada,8000
+907,673,"2023-07-25 19:46:46","2023-08-02 19:00:16","Silla tipo Rody baja negra","Tapizado completo en ecocuero negro y cilindro",32000,"TERMINADO 
+AVISADO",Entregada,7000
+908,674,"2023-07-27 18:20:11","2023-07-28 19:51:40","1Sillòn Mesh alto cromado y uno bajo cromado","Revisar y presupuestar",27800,"Cambiar en los dos el basculante y colocar 4 tornillos
+Presup. x w app",Entregada,NULL
+909,675,"2023-07-27 19:05:39","2023-07-31 17:49:39","1 Sillòn antiguo roble y pana dorada y 2 sillòn verde musgo basc.","Cambiar cilindro en los 3 y ruedas en verdes ( nuevas ò usadas )",0,"$ 68.200.- ò $ 60.300.-
+Pasè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+910,66,"2023-07-28 14:50:02","2023-09-08 18:17:33","Silla cajera sin apoyas","aro nuevo. ruedas alma. soldar T de contacto",23500,"FACTURA HECHA Y ENVIADA POR MAIL 09/08/23
+Hasta acà facturas pagadas.",Entregada,NULL
+911,676,"2023-07-28 15:21:01","2023-10-31 16:06:48","2 Silla Rody alta Ceniza c/ap. y una silla estructura met. gris tap Ceniza","Revisar y presupuestar",114100,"Primer aviso 29/09/23
+Avisè nuevamente 28/10/23",Entregada,60000
+912,646,"2023-07-29 14:46:58","2023-08-15 14:31:12","Silla Rody alta negra c/apoyas.","Revisar y presupuestar",8200,"Colocar chapòn c/U
+Pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+913,119,"2023-07-31 18:15:20","2023-08-09 16:23:47","base neum. sin chapòn.","Cambiar cilindro",17000,"TERMINADO 
+AVISADO",Entregada,NULL
+914,677,"2023-08-01 16:31:43","2023-09-08 18:46:55","Alma Blanca","Cambiar cilindro",0,"TERMINADO 
+AVISADO",Entregada,NULL
+915,679,"2023-08-02 15:38:24","2023-08-14 19:54:00","Silla Eco blanca , cromada","Revisar y presupuestar",25700,"Cambiar cilindro y chapon
+Avisado x w app",Entregada,8000
+916,680,"2023-08-02 18:55:11","2023-09-01 14:18:27","1 Silla Candy negra - 2 Sillones gerenciales negros c/apoyabrazos","Revisar y presupuestar",64800,"1. Gerencial negro: 28.300   2.- gerencial negro   $ 30.000.-   3.- candy : $  6500",Entregada,NULL
+917,681,"2023-08-02 19:14:36","2023-08-03 17:21:09","Sillon tipo gerencial, negro , con apoyabrazos","Cilindro y revisar",18000,"TERMINADO 
+AVISADO",Entregada,3000
+918,682,"2023-08-02 19:29:30","2023-09-08 18:47:32","Sillon gerencial negro, con apoyabrazos","Revisar y presupuestar. Tapizado en ecocuero negro",37740,"retapizado completo , basculante, 5 ruedas
+Ver si contesta x cilindro, agegar $ 18.000.-",Entregada,NULL
+919,511,"2023-08-03 14:11:31","2023-09-08 18:47:56","Rody baja negra s/apoyas","Chapón comun",7700,"Avisado el 09/08/23",Entregada,NULL
+920,247,"2023-08-03 19:39:11","2024-01-11 18:15:10","2 Sillas Candy, 1 Silla cajera 7000 sin apoyas brazos","Revisar y presupuestar",124000,"Pasado pres. x w app
+Ulises ( en el celu dice Cristian ) PAGADO",Entregada,NULL
+921,683,"2023-08-04 14:45:05","2023-08-16 16:53:25","Silla Rody negra con apoyas","Cambiar cilindro - Reviso",22000,"Cilindro
+Pasè pres. x w app / AVISADO",Entregada,NULL
+922,684,"2023-08-04 15:33:11","2023-09-08 18:48:17","Sillon gerencial negro,","Revisar y presupuestar",23500,"Cilindro
+Presup. x w a pp / AVISADO",Entregada,NULL
+924,687,"2023-08-04 19:19:59","2023-08-10 16:43:21","Base silla operativa","Colocar chapon nuevo  (ver tema tornillos)",8300,"TERMINADO 
+AVISADO",Entregada,1000
+925,688,"2023-08-07 16:26:32","2023-08-23 18:16:42","Sillon Aluminio Alto cromado, con apoyas","Cilindro y revisar",31500,"Cilindro y ruedas",Entregada,NULL
+926,689,"2023-08-08 19:27:00","2023-08-10 19:33:32","Estrella cromada","Soldar una pata. Reforzar las demas",0,"NO SE PUEDE REPARA",Entregada,NULL
+927,66,"2023-08-09 19:05:59","2024-03-15 13:52:07","Silla cajera sin apoyas. Con parte del rspaldo suelto.","Revisar y presupuestar",0,"NO TIENE ARREGLO. AVISADO BERNARDO.
+La dejo.",Entregada,NULL
+928,638,"2023-08-10 16:19:28","2023-09-08 18:48:46","1 Silla semigerencial negra con apoyas   .   1 Sillla tipo 7010 negras","Revisar y presupuestar",23500,"Enviè pres. x w app / fact. enviada
+Cambiar cilindro a sillòn. La otra silla se tira...",Entregada,NULL
+929,690,"2023-08-11 14:29:45","2023-08-22 16:08:40","Sillon gerencial negro,","Revisar y presupuestar",23500,"Cambiar cilindro
+Enviè pres. x w app / AVISADO",Entregada,NULL
+930,691,"2023-08-11 15:27:08","2023-09-08 18:49:14","Sillon Gammer negro Aero Cool","Revisar y presupuestar. Estrella",18400,"Estrella mediana y ruedas nuevas 
+Enviè pres. x w app",Entregada,NULL
+932,692,"2023-08-11 18:09:32","2023-09-12 17:20:24","Silla tipo rody sin apoyas negra","Revisar y presupuestar. presupuestar tb tapizado",27000,"Retapizado completo $ 19.000.-  y ruedas nuevas $ 8000.-. AVISE ULTIMA VEZ 8/9 . NO CONTESTA NI ATIENDE",Entregada,NULL
+933,685,"2023-08-12 15:42:55","2023-10-04 19:38:03","Sillla 7010 azul equipo giratorio","Revisar y presupuestar",16000,"Soldar equipo giratorio nuevo. Opcional ruedas nuevas ò reacondicionadas.
+$ 12.000.- ò $ 20.000.- ò $ 16.000.-  Presup. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+934,693,"2023-08-12 16:47:23","2023-08-25 14:46:31","Silla tipo red one negra c/apoyas regulabes","Ver cilindro pasado",10500,"Colocar estrella mediana
+Pasè pres. x w app",Entregada,NULL
+935,694,"2023-08-14 16:01:56","2023-08-30 17:04:40","Sillòn gamer rojo y negro","Revisar y presupuestar",16000,"Retap. almohadòn asiento, ajuste general y sacar tornillo cortado
+AVISADO",Entregada,NULL
+936,646,"2023-08-15 14:31:52","2023-09-08 18:50:00","Silla tipo Rody ALTA NEGRA, CON apoyas","Revisar y presupuestar",33500,"cilindro, interno asiento c/friselina e insertos y tornillo
+Pasè pres. x w app. PAGADA",Entregada,NULL
+937,353,"2023-08-15 16:00:15","2023-09-08 18:38:11","Silla Biro alta negra tela","Revisar y presupuestar",31200,"Cilindro y chapòn
+VIENE A RETIRAR","No se hace",NULL
+938,695,"2023-08-15 18:59:07","2023-09-25 19:44:56","Sillon gerencial negro, cromado","Revisar y presupuestar",36400,"cambio de cilindro $ 27.000.- - retapizar apoyabrazos  $ 9.400.-
+PAGADO",Entregada,NULL
+939,697,"2023-08-16 16:14:48","2023-08-17 15:12:48","Silla tipo gerencial pequeña, negra","Revisar y presupuestar. Cambiar cilindro",23500,"Avisado x w app",Entregada,10000
+940,698,"2023-08-19 14:31:01","2023-09-25 19:47:06","Sillòn C chico negro","Cambiar chapòn",14000,"Presupuestar relleno asiento
+Chapòn $ 9.200.- / repar. tap. asiento $ 7.000.- / Relleno asiento $ 3000.- / Pres. x w app
+TERMINADO
+AVISADO",Entregada,5000
+941,185,"2023-08-19 15:36:15","2023-09-08 18:52:19","2  Sillas tipo Ergo en tela Marathòn negra, con apoyabrazos","Revisar y presupuestar",26500,"1) Cilindro y 2) asiento torcido hacia la derecha...( es lo que dice )
+Enviè pres. x w app./AVISADO, FACTURA ENVIADA",Entregada,NULL
+942,699,"2023-08-19 16:43:58","2023-08-29 17:55:26","Sillòn Trento negro","Cambiar basculante y cilindro, c/insertos",36000,"AVISADO X W APP",Entregada,6000
+943,696,"2023-08-25 15:18:33","2023-09-08 18:54:27","asiento negro","Tapizado completo en ecocuero negro",8000,AVISADO,Entregada,NULL
+944,700,"2023-08-25 19:06:38","2023-10-24 16:50:12","1 silla tipo Ergo, 2 respaldos inyectados y tapizados, 1 cajera inyectada y tapizada sin estrella y una base de cajera c/2 ruedas y el chapòn roto.","Revisar y presupuestar",74000,"460-8032 / trajo Marcelo Olariaga
+Enviè pres. x w app",Entregada,NULL
+945,701,"2023-08-28 14:56:36","2023-09-01 18:31:57","Silla tipo Rody c/ap. metàlicos negra","Revisar y presupuestar",20500,"Contacto c/soldadura y perilla de chapòn.
+Enviè pres. x w app / AVISADA",Entregada,NULL
+946,702,"2023-08-28 16:12:45","2023-09-20 14:22:34","Sillón gerencial negro","Revisar y presupuestar c/retapizado completo",42800,"Basculante y retap. completo
+Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+947,125,"2023-08-28 18:26:05","2023-09-07 14:50:01","Silla  " Turìn Basic " blanca","Revisar y presupuestar",0,"NO TIENE ARREGLO","No se hace",NULL
+948,703,"2023-08-29 16:56:18","2023-09-12 14:42:22","7 Sillas chinas negras chicas, con apoyas.","Revisar y presupuestar",140800,"Reparaciòn parte mecànica: $ 121.800.-
+Retapizado 1 silla en tela Jackson negra: $ 19.000.-. TRANSFERIDO 138.472.-, FALTA RETENCION",Entregada,NULL
+949,704,"2023-08-29 17:47:51","2023-09-01 18:31:06","Sillon gerencial negro mediano","Cambiar cilindro y ajustar",23500,NULL,Entregada,3000
+950,705,"2023-09-01 15:02:51","2024-02-06 18:23:54","Sillon gamer turquesa y negro","Revisar y presupuestar. Destartalada",13600,"Avisado x w app.
+Se soldò respaldo ( abrir y cerrar tapizado) y suplementò c/arandelas chapòn.",Entregada,NULL
+951,706,"2023-09-01 16:28:32","2023-09-21 16:27:27","3 sillas operativas- 1 tipo Tokio. 2 tipo red one. Cromadas y con apoyabrazos","Revisar y presupuestar",37660,"Cambiar basculantes en ambas sillas, 4 parkers, candy no tiene nada
+PAGADO",Entregada,NULL
+952,707,"2023-09-01 19:32:08","2023-10-04 19:38:30","1 silla tipo rody azul con apoyas . 1 silla tipo rody negra, con apoyas","Revisar y presupuestar",45000,"Rody negra: retapizado completo y ruedas   $  33000.- , Rody azul: chapon comun y 2 perillas plasticas $ 12000.-
+AVISADO",Entregada,NULL
+953,708,"2023-09-01 19:54:42","2024-01-06 15:32:12","Sillon gerencial negro, 2291454742","Revisar y presupuestar",11400,"Enviè pres. x w app
+TERMINADO
+AVISADO",Entregada,NULL
+954,709,"2023-09-04 15:53:14","2023-09-04 16:53:53","Sillon gerencial negro,","Cambiar estrella",10500,NULL,Entregada,10500
+955,711,"2023-09-05 15:16:28","2023-09-13 18:44:33","Sillon gerencial negro, cromado","Revisar y presupuestar",18800,"Baculante y 2 tornillos parker
+TERMINADO 
+AVISADO
+Hacer factura"A":
+Zacccanti Mauro Benito
+20-22753289-1",Entregada,NULL
+957,712,"2023-09-05 18:49:40","2024-01-06 15:32:40","1.- Estrella cromada (colocar ruedas )  2.- Silla tipo rody negra sin apoyas (revisar/tapizar) 3.- Sillon trento (revisar) 4.- Sillon gerencial negro (revisar arreglar tapizado o retapizar)","Revisar y presupuestar",0,"Enviè pres. x w app
+TERMINADO 
+AVISADO",Entregada,NULL
+958,713,"2023-09-06 15:56:37","2023-09-21 13:58:50","Sillon gerencial negro,","Cambiar estrella",17600,NULL,Entregada,4000
+959,646,"2023-09-06 19:14:28","2023-10-10 15:57:34","Tipo imperia alta negro","Tapizado y cilindro",52000,NULL,Entregada,NULL
+960,714,"2023-09-07 15:18:29","2023-10-09 17:25:12","4 Sillas Candy negras , 1 Silla Alma negra, estrella cromada, asiento vison, 1 Silla tipo Red color crema sin apoyabrazos","Revisar y presupuestar",19000,"Enviè pres. x w app
+AVISADO / PAGADO",Entregada,NULL
+962,715,"2023-09-07 15:39:38","2024-01-06 15:33:09","Sillon gerencial negro,","Colocar apoyabrazos, soldar costado y rearmar",6000,"Enviè pres. x w app
+AVISADO",Entregada,NULL
+963,716,"2023-09-08 15:46:07","2023-10-06 15:36:47","Sillon gammer negro y azul","Revisar y presupuestar. Cambar cilindro neumatico. Retapizar asiento y almohadita en azul. Lo mas parecido al otro",42000,"Enviè pres. x w app",Entregada,NULL
+964,717,"2023-09-11 14:30:29","2023-10-28 13:44:38","Silla 7010 neum. c/brazos en tela Azul","Revisar y presupuestar",20000,"Carlos
+2235234297 Ruth / Enviè factura x w app",Entregada,NULL
+965,703,"2023-09-12 14:47:17","2023-09-27 18:57:44","Sillon gerencial negro,","Revisar y presupuestar. Tapizado en ecocuero negro",18000,"Retapizar asiento y parte de apoyabrazos.
+Enviè pres. x w app/Avisado / factura enviada",Entregada,NULL
+966,66,"2023-09-12 16:02:31","2023-10-17 17:42:04","Silla cajera Rody alta, negra y sin apoyas","Revisar y presupuestar",11000,"Chapòn. FACTURA ENVIADA PAGADO",Entregada,NULL
+967,718,"2023-09-12 19:36:53","2023-10-09 14:05:48","Silla giratoria cromada sin apoyas, marròn claro","Revisar y presupuestar. Tapizado en ecocuero negro y ruedas",32000,"Retapizado completo y ruedas
+PAGADO",Entregada,NULL
+968,711,"2023-09-13 18:41:42","2023-09-27 15:07:43","Sillon gerencial negro, cromado","Revisar y presupuestar ( se baja )",32600,"Cilindro, 3 ruedas y 4 tornillos
+Pasè pres. x w app / AVISADO / FACTURA ENVIADA",Entregada,NULL
+969,719,"2023-09-14 14:12:20","2024-03-04 19:10:51","1- Sillon gerencial pequeño negro  2.- Silla tipo china rosa viejo sin apoyas   3.- Silla pequeña cromada color roja, con apoyas","Revisar y presupuestar. Presupuestar tambien tapizados",0,"Enviè pres. x w app. VER NUEVO QUE INCLUYE 3 SILLAS MÀS. LO PASE X W APP",Entregada,NULL
+970,720,"2023-09-14 14:47:36","2023-10-05 14:40:56","1.- Silla Alma Blanca  2.- Sillon gerencial negro cromado  3.- Sillon gerencial negro cromado","Revisar y presupuestar. Tambien ver tapizado apoyas",71800,"Enviè pres. x w app
+TERMINADO
+AVISADO",Entregada,NULL
+972,721,"2023-09-15 16:14:47","2023-09-19 14:09:00","Sillón gerencial negro grande","ruedas y basculante (se baja cuando bascula)",26600,"Ruedas, basculante y 4 insertos.
+Pasè pres. x w app / enviè factura / terminada y avisado",Entregada,NULL
+973,722,"2023-09-15 18:08:05","2024-01-06 15:33:34","Silla 7010 c/r. neum. y apoyabrazos",estrella,11000,NULL,Entregada,NULL
+974,66,"2023-09-18 15:55:26","2024-03-15 13:52:23","Silla India Zayl y negra","Ver ganchos en respaldo",0,NULL,Entregada,NULL
+975,104,"2023-09-19 16:25:10","2023-10-30 18:30:27","3 Silla  Candy Operative","Revisar y presupuestar",75000,"Cilindros c/descuento
+ENVIÈ PRES. X W APP /  AVISADO X W APP FACTURA ENVIADA",Entregada,NULL
+976,723,"2023-09-19 16:57:31","2023-10-06 15:47:08","Silla cajera Rody baja c/apoy. Golf negra","Revisar y presupuestar",33500,"Retapizado, ruedas, interno madera y pintar aro.
+Pres. x w app",Entregada,NULL
+977,724,"2023-09-20 18:20:07","2023-09-26 14:16:47","Silla tipo Ergo negra c/ap metàlicos","Cambiar estrella",12000,"Factura enviada.
+AVISADO",Entregada,NULL
+978,725,"2023-09-20 18:43:28","2023-09-21 18:05:07","Base basculante c/rueda rota","Revisar y presupuestar",8800,"Ruedas y mandarina
+Pasè pres. x w app / PAGADA",Entregada,NULL
+979,726,"2023-09-21 16:09:08","2023-10-18 13:52:55","Sillon gerencial negro,","Revisar y presupuestar tapizado asiento",30000,"Retapizar y rellenar asiento y cilindro.",Entregada,NULL
+980,727,"2023-09-22 14:45:38","2023-09-22 16:34:07","Silla Fresa blanca red","Cambiar cilindro",26000,"Avisad x w app",Entregada,NULL
+981,728,"2023-09-22 15:29:54","2023-10-03 15:47:47","Sillon gerencial negro,","Se presupuestò retapizado y almohadòn en alta densidad ( $ 40.400.- ). Ver  ruedas.",43400,"Aprobado c/ruedas usadas.
+TERMINADO . pagada. llevo armando 03/10/2023
+AVISADO",Entregada,NULL
+982,729,"2023-09-27 14:12:30","2023-09-28 19:18:48","1 Silla tipo Rody con apoyas  . ".- Sillon gerencial negro sin apoyabrazos","Revisar y presupuestar",55800,"TERMINADO 
+AVISADO / ENVIE FACTURA/PAGADO",Entregada,NULL
+983,684,"2023-09-27 17:12:37","2024-01-06 15:34:10","Silla Rody baja sin apoyas en Ecocuero marròn oscuro.","Revisar y presupuestar ( ver cilindro )",27300,"TERMINADO 
+AVISADO",Entregada,NULL
+984,730,"2023-09-28 14:28:54","2023-09-28 14:29:02","Sillon gerencial negro,","cambio ruedas",8000,NULL,Entregada,NULL
+985,719,"2023-09-29 13:31:33","2024-03-04 19:10:40","1-Silla roja cromada. 2- Silla rosa c/ ovalina s/ apoyas. 3.- Sillon sin apoyas, cromado, asiento rojo","Retapizar y revisar. PAGADO",248800,"No en negro. Presupuestar retapizado completo por la otra rosa que trajo antes.
+Pasè pres. x las 6 sillas x w app. Hacer todas menos la 6. PAGADO Se entregan 4 (quedan las 2 rojas) Trajo de nuevo el sillòn gris para ver el cilindro 26/12/23",Entregada,NULL
+986,684,"2023-09-29 15:36:00","2024-01-06 15:34:32","Silla cajera 7010 con apoyas marròn","Revisar y presupuestar",64600,"Para Nosotros","No se hace",NULL
+987,731,"2023-09-29 15:44:30","2023-10-20 14:54:55","Sillòn Gamer Daewoo  negro/verde","Revisar y presupuestar",800,"Avisada por w app",Entregada,NULL
+988,732,"2023-09-29 19:00:46","2024-01-06 15:34:59","1.-Sillon Gammer negro y blanco   2.- Sillon gerencial pequeño, estrella cromada","Revisar y presupuestar",47600,"Pasè pres. x w app
+TERMINADO PAGADO
+AVISADO",Entregada,NULL
+990,733,"2023-09-30 15:51:10","2023-11-02 15:11:00","Silla tipo Ergo cromada c/apoyas en Ecocuero negro","Revisar y presupuestar / retap. completo y madera asiento",18000,"Enviè pres. x w app",Entregada,NULL
+991,734,"2023-10-04 16:42:14","2023-10-13 14:05:08","Silla  " Tyson " amarilla y blanca  /  Silla  " 7010 " gris","Revisar y presupuestar",44500,NULL,Entregada,NULL
+992,735,"2023-10-05 18:15:00","2023-10-25 18:33:02","Sillon gerencial negro, cromado","Revisar inclinaciòn hacia lado izquierdo y hacia adelante, cotizar fabricaciòn de apoyas tapizados y parches en respaldo.",7800,Avisado,Entregada,NULL
+993,622,"2023-10-06 14:11:53","2023-11-21 19:44:43","2 Sillones Mesh alto y una Candy vieja gris","Revisar y presupuestar",56000,"Enviè pres. x w app
+TERMINADO / Factura enviada 01/11/23 / PAGADA
+AVISADO",Entregada,NULL
+994,66,"2023-10-09 13:31:25","2024-03-15 13:52:43","Silla cajera Rody sin apoyas","Revisar y presupuestar",17500,"FACTURA ENVIADA PAGADO",Entregada,NULL
+995,736,"2023-10-10 14:24:19","2023-10-24 19:22:08","Funda Respaldo",Rehacer,5000,AVISADO,Entregada,NULL
+996,66,"2023-10-10 16:45:42","2023-12-19 16:22:35","Silla cajera negra sin brazos y ovalina","Cilindro, perilla ovalina, ruedas y retapizado",54000,"Falta pago / factura enviada 16/11/23
+PAGADO",Entregada,NULL
+997,737,"2023-10-11 16:40:26","2024-01-06 15:35:35","Sillon gerencial bajo, negro","Revisar y presupuestar",23000,"Basculante y 2 insertos",Entregada,NULL
+998,190,"2023-10-11 18:24:28","2024-07-31 19:46:42","Sillòn Aluminio Alto","Colocar cilindro, basculante y 1 rueda",68000,"Enviè pres. x w app
+AVISADO / Malecòn Varese / enviè factura",Entregada,NULL
+999,739,"2023-10-11 18:27:47","2023-10-14 15:57:53","Silla china chica sin respaldo y sin ruedas. Con apoyas.","Cambiar chapòn",10600,NULL,Entregada,NULL
+1000,740,"2023-10-12 15:12:52","2023-10-18 19:08:44","Sillon gerencial negro,","Cambiar cilindro",27000,"TERMINADO 
+AVISADO PAGADO",Entregada,NULL
+1001,741,"2023-10-12 17:21:11","2024-01-06 15:40:23","2 sillas chinas negras s/apoyas","2 estrellas chicas y 1 rueda.",20500,NULL,Entregada,NULL
+1002,742,"2023-10-13 15:43:20","2023-11-24 15:42:00","Sillon U, marron","Revisar y presupuestar",19900,"Avisada x w app
+PAGO 1 MES DESPUES",Entregada,NULL
+1003,743,"2023-10-13 16:22:34","2023-10-14 14:45:26","Silla Rody alta negra c/apoyas.","Revisar y presupuestar",10600,"TERMINADO 
+AVISADO",Entregada,NULL
+1004,744,"2023-10-18 13:57:09","2023-10-18 17:39:31","Sillon gerencial negro,","Cambiar estrella y ruedas",27100,"PAGADO
+TERMINADO 
+AVISADO",Entregada,27100
+1005,745,"2023-10-18 15:40:07","2024-01-06 15:41:10","2 Silla 7010 , neum., c/apoyas negras","Colocar aro apoyapies y parche en asiento",31000,"PAGADO. Entregamos una . Paola RierA 20/10/23
+AVISADO",Entregada,NULL
+1006,739,"2023-10-18 17:13:17","2024-01-06 15:41:38","Silla china chica . Con apoyas.","Limar chapòn para que entre perilla",0,NULL,Entregada,NULL
+1007,268,"2023-10-18 18:23:43","2023-10-31 18:10:45","Silla 8500 Cuerotex arena c/apoyabrazos","Soldar respaldo c/refuerzo",5000,"Avisada x w app",Entregada,NULL
+1008,746,"2023-10-18 18:29:31","2023-10-28 16:47:40","Sillon gerencial negro,","Tapizado completo en ecocuero negro",28000,"Avisada x w app",Entregada,5000
+1009,747,"2023-10-18 18:34:30","2023-11-16 20:10:57","Silla Italia Azul Francia","Revisar y presupuestar retap. asiento",31500,AVISADA,Entregada,NULL
+1010,740,"2023-10-18 19:02:38","2024-01-05 17:22:36","Silla giratoria de planchuela roja y negra","Revisar y presupuestar retapizado",47600,"Enviè pres. x w app
+Tapizar en Jackson OCEAN",Entregada,NULL
+1011,66,"2023-10-19 15:06:38","2023-12-01 19:03:53","Silla India azul c/respaldo gris perla","Revisar y presupuestar",54000,"Enviè pres. x w app
+PAGADO",Entregada,NULL
+1012,143,"2023-10-19 17:55:09","2023-11-02 13:38:47","Tipo tyson negra cajera c/ ovalina s/apoyas","estrella mediana",13400,"Enviè pres. x w app
+Avisado y facturado x w app",Entregada,NULL
+1013,554,"2023-10-21 15:49:00","2023-11-25 16:46:49","Sillon gerencial negro Mesh, con apoyab.","Cambiar cilindro, ver apoyabrazos y retapizar asiento en Eco negro",39000,"Revisar y presup.
+Enviè pres. x w app / AVISADO",Entregada,NULL
+1014,749,"2023-10-21 16:01:04","2023-10-27 15:18:39","Silla Rody Premium c/apoyas","Cambiar cilindro",27000,NULL,Entregada,5000
+1015,519,"2023-10-24 15:18:18","2024-01-06 15:42:22","Sillòn gamer Equal negro y rojo","Revisar y presupuestar",22300,"Colocar estrella metàlica negra.
+Enviè pres. x w app",Entregada,NULL
+1016,750,"2023-10-24 18:05:08","2023-11-21 19:03:52","Silla cajera sin apoyas","Revisar y presupuestar / ver relleno asiento",28500,Avisado,Entregada,NULL
+1017,751,"2023-10-25 16:20:06","2023-11-14 14:51:26","Silla China negra","Revisar y presupuestar",28000,"PRESUP. FIJAR LA ALTURA y retapizar en Ecocuero negro
+Enviè pres. x w app / AVISADO",Entregada,NULL
+1019,735,"2023-10-25 18:36:33","2023-12-16 14:19:42","8 Silla tipo candy vieja c/base cromada desarmada","Revisar y presupuestar",106600,"Enviè pres. x w app
+AVISADO/enviè factura x w app / PAGADO / FALTAN RETENCIONES",Entregada,NULL
+1020,752,"2023-10-26 14:41:35","2024-06-10 14:41:02","Sillòn gerencial chico negro, c/apoyab.","Revisar y presupuestar cilindro, apoyabrazo (arreglo) y ver rueda faltante",0,"Tiene que retirar / Entregada 10/06/24","No se hace",NULL
+1021,753,"2023-10-27 14:14:43","2023-11-08 18:27:35","Sillon Operativo, cromado, negro","Revisar y presupuestar",36000,"Cambio cilindro y ruedas.
+Avisada/enviè factura x w app",Entregada,NULL
+1022,754,"2023-10-27 15:37:50","2023-10-28 14:32:57","Base neumàtica , basculante, cromada","cambiar cilindro",28000,"Avisado x w app",Entregada,NULL
+1023,450,"2023-10-27 18:58:55","2023-11-24 16:05:49","Silla " Candy vieja "","Reparar respaldo",10000,AVISADO,Entregada,NULL
+1024,755,"2023-10-30 14:59:58","2023-11-03 15:56:59","Silla tipo India cromada c/apoyas reg.","Revisar y presupuestar cilindro",36000,"administracion@erriquenz.com  CUIT 30-65490673-0
+Enviè pres. x w app y factura/PAGADO",Entregada,NULL
+1025,756,"2023-10-30 19:32:05","2023-10-31 19:47:35","Silla china chica c/apoyas","Cambiar estrella",11300,"TERMINADO 
+AVISADO",Entregada,NULL
+1026,757,"2023-10-30 19:54:02","2023-12-15 18:07:05","2 Silla Tulip blanca","Reparar c/ tornillo pasante",10000,"AVISADO X W APP 5/12 Y 15/12",Entregada,NULL
+1027,717,"2023-10-31 15:25:47","2023-11-10 19:52:22","Silla 7010 neum. c/brazos en tela Azul","cambiar cilindro",25000,"AVISADO Y FACTURADO X W APP
+PAGADO",Entregada,NULL
+1028,758,"2023-10-31 16:17:51","2023-12-05 20:19:39","2 bases neumaticas","Revisar y presupuestar",45800,"Enviè pres. x w app
+AVISADO",Entregada,NULL
+1029,759,"2023-10-31 17:41:55","2023-11-16 19:37:49","3  Silla tipo  " 7010 " c/apoyas","Revisar y presupuestar/ ver cilindros se bajan.",106300,"Enviè pres. x w app
+Enviè factura / PAGADO",Entregada,NULL
+1030,66,"2023-10-31 18:38:25","2023-12-01 19:05:30","Silla cajera sin apoyas " 7010 "","Revisar y presupuestar",61300,"Enviè pres. x w app / enviè factura  16/11/23, 
+AVISADO/ PAGADO",Entregada,NULL
+1031,760,"2023-10-31 18:45:41","2023-11-07 15:52:57","Sillòn gamer rojo y negro Iqual","Revisar y presupuestar",22300,"Colocar estrella metàlica negra
+AVISADO/PAGADO - Marcelo Aguirre retira",Entregada,NULL
+1032,761,"2023-11-02 16:33:01","2023-11-06 17:30:49","Silla NV 5  verde musgoc/apoyas","Cambiar ruedas y ajustar",9000,"Avisado x w app",Entregada,NULL

@@ -1,0 +1,653 @@
+created_at,job,price(usd),matched_keywords_job,combined_keywords
+2021-07-13 19:03:59,Estrella grande araña y ruedas,19.37,Araña,"ruedas, rueda, araña"
+2021-06-19 16:20:34,Cilindro y basculante,49.51,Basculante,basculante
+2021-07-01 15:52:10,"1 - Cilindro y ruedas  2- basculante, cilindro y ruedas",77.89,Basculante,"cilindro, basculante, ruedas, rueda"
+2021-07-02 14:29:00,"1- Cilindro, basculante y ruedas   2.- Cilindro, basculante y Ruedas   ..... Revisar por si hay algo mas",106.21,Basculante,"basculante, ruedas, rueda"
+2021-07-12 14:25:15,Reparar inserto apoyab. derecho y tornillo basculante,8.55,Basculante,basculante
+2021-07-12 16:38:04,"Sollas 1) y 3) fijar altura. Sillòn 2) Basculante, Retapizado, completo, fijar altura colocando carcaza y 1 rueda.",88.89,Basculante,rueda
+2021-08-12 17:22:13,"Ruedas, basculante y lubricar regulaciòn de altura",39.66,Basculante,basculante
+2021-09-20 15:04:10,Cambiar basculante,35.71,Basculante,basculante
+2021-09-27 14:51:20,Cambiar basculante y 1 rueda,31.87,Basculante,"basculante, rueda"
+2021-10-06 19:09:55,Cambiar basculante con parker y cilindro y cucurucho,41.86,Basculante,"cilindro, basculante"
+2021-11-08 20:43:38,"Chapòn basculante, cilindro y suplem. estrella",64.86,Basculante,"cilindro, basculante, estrella"
+2021-11-24 15:28:06,Revisar inclinaciòn/ cambiar basculante,37.16,Basculante,basculante
+2021-11-24 17:42:46,"Cilindro, ruedas y chapon basculante",73.65,Basculante,"basculante, ruedas, rueda"
+2021-12-06 15:42:34,Cambiar basculante y fijar,46.49,Basculante,basculante
+2021-12-09 19:28:49,Cambiar basculante,39.01,Basculante,basculante
+2022-01-05 19:24:06,"1 bulòn, basculante y 4 torn. Parker. Agreguè $ 300.- por colocar tacos de Grilòn.",30.86,Basculante,basculante
+2022-01-08 16:50:06,"Colocar estrella cromada, cilindro y basculante",71.29,Basculante,"cilindro, basculante, estrella"
+2022-03-10 15:17:57,Cambiar basculante,34.18,Basculante,basculante
+2022-03-25 16:08:22,Revisar cilindro y basculante,23.98,Basculante,"cilindro, basculante"
+2022-04-07 17:37:55,Cambiar basculante,22.9,Basculante,basculante
+2022-04-27 15:10:42,"Presupuestar basculante, retap. de laterales y revisar.",54.45,Basculante,basculante
+2022-05-19 19:11:59,Cambiar basculante y ruedas,36.67,Basculante,"basculante, ruedas, rueda"
+2022-06-04 14:59:25,Cambiar cilindro y basculante ( c/Parker),45.17,Basculante,"cilindro, basculante"
+2022-07-01 19:16:09,Revisar basculante y ver ajuste cilindro en chapòn,7.34,Basculante,"cilindro, basculante"
+2022-07-28 15:53:25,Cambiar basculante,27.97,Basculante,basculante
+2022-07-30 13:38:19,Cambiar basculante y revisar asiento,0.0,Basculante,basculante
+2022-08-18 17:42:09,colocar base neum. completa c/basculante,72.63,Basculante,basculante
+2022-11-10 18:17:10,Colocar basculante,33.49,Basculante,basculante
+2023-01-23 14:18:14,Basculante y revisar,21.64,Basculante,
+2023-03-20 13:21:06,Cambiar el basculante,29.9,Basculante,basculante
+2023-03-27 14:57:14,Revisar basculante de nuevo,0.0,Basculante,basculante
+2023-05-11 18:00:34,Cambiar cilindro y basculante,50.31,Basculante,"cilindro, basculante"
+2023-05-24 18:07:37,Cambiar basculante y colocar insertos necesarios,26.8,Basculante,basculante
+2023-06-01 16:39:58,Revisar basculante,30.67,Basculante,basculante
+2023-07-21 19:26:03,Cambiar basculante,24.59,Basculante,basculante
+2023-08-19 16:43:58,"Cambiar basculante y cilindro, c/insertos",49.66,Basculante,"cilindro, basculante"
+2023-09-15 16:14:47,ruedas y basculante (se baja cuando bascula),33.67,Basculante,"basculante, ruedas, rueda"
+2023-10-11 18:24:28,"Colocar cilindro, basculante y 1 rueda",69.74,Basculante,"cilindro, basculante, rueda"
+2021-07-10 15:36:48,"Retapizado, cilindro, canasto, y chapòn.",53.56,Canasto,"cilindro, canasto"
+2021-08-20 13:55:39,cambiar chapón con U- cambiar cilindro,34.56,Chapón,"cilindro, chapón"
+2021-08-28 16:40:50,cambiar chapon (comun)- poner 4 parker-  ver si hay que suplementar cilindro  al cambiar chapón,16.43,Chapón,"cilindro, chapón"
+2023-01-03 19:31:30,"Chapón, cilindro, contacto y 2 ruedas",53.19,Chapón,"cilindro, ruedas, rueda"
+2023-03-01 16:07:12,Ver chapón y reforzar ó cambiar,13.14,Chapón,chapón
+2023-03-01 16:11:31,Cambiar chapón y 1 rueda,15.46,Chapón,"chapón, rueda"
+2023-04-12 16:11:19,"Retapizado, perilla chapón y revisar cilindro",48.27,Chapón,"cilindro, chapón"
+2023-08-03 14:11:31,Chapón comun,10.62,Chapón,
+2021-06-17 17:14:28,"Retapizar asiento,ruedas, chapòn, colocar arandelas y cilindro",51.84,Cilindro,"cilindro, ruedas, rueda"
+2021-06-17 19:10:57,Cambiar cilindro y prolongaciòn.,22.09,Cilindro,cilindro
+2021-06-17 19:14:12,Cilindro,18.4,Cilindro,
+2021-06-19 16:20:34,Cilindro y basculante,49.51,Cilindro,basculante
+2021-06-22 14:37:25,Cilindro,19.02,Cilindro,
+2021-06-22 17:14:19,"Cilindro, ruedas y repar. en inserto apoyabrazos.",28.53,Cilindro,"ruedas, rueda"
+2021-06-22 19:13:03,cambiar cilindro,0.0,Cilindro,cilindro
+2021-06-22 19:46:56,Cambiar cilindro y revisar,19.02,Cilindro,cilindro
+2021-06-23 19:40:49,Cilindro y relleno,28.22,Cilindro,
+2021-06-26 14:06:13,cambiar cilindro,19.02,Cilindro,cilindro
+2021-06-26 15:55:53,Cilindro,19.02,Cilindro,
+2021-06-29 18:11:51,"1) Retapizado y cilindro  2) Retapizado, 2 tornillos y cilindro",76.69,Cilindro,cilindro
+2021-06-30 16:32:50,Cilindro,19.02,Cilindro,
+2021-07-01 15:52:10,"1 - Cilindro y ruedas  2- basculante, cilindro y ruedas",77.89,Cilindro,"cilindro, basculante, ruedas, rueda"
+2021-07-02 14:29:00,"1- Cilindro, basculante y ruedas   2.- Cilindro, basculante y Ruedas   ..... Revisar por si hay algo mas",106.21,Cilindro,"basculante, ruedas, rueda"
+2021-07-06 15:10:21,Cambio de cilindro,17.66,Cilindro,cilindro
+2021-07-07 15:28:59,Se cambiò cilindro y se suplementò c/aluminio en el chapòn.,21.65,Cilindro,cilindro
+2021-07-07 18:17:14,Retapizado y cilindro,43.3,Cilindro,cilindro
+2021-07-08 16:35:34,"1) cilindro y soldar 2) cilindro 3) cilindro, soldar y tornillo",62.68,Cilindro,"cilindro, soldar"
+2021-07-10 15:36:48,"Retapizado, cilindro, canasto, y chapòn.",53.56,Cilindro,"cilindro, canasto"
+2021-07-15 14:22:41,Cambio de cilindro,17.66,Cilindro,cilindro
+2021-07-15 15:11:41,"1) Cilindro e interno en madera 2)Interno completo  3) Tornillos, aceitar, limpiar",60.97,Cilindro,
+2021-07-16 14:29:34,Cilindro y bulòn en c. permanente,23.36,Cilindro,
+2021-07-19 16:45:47,"cilindro, retap.y rell. asiento y tornillos",31.34,Cilindro,cilindro
+2021-07-22 18:39:45,Revisar cilindro,0.0,Cilindro,cilindro
+2021-08-03 13:19:44,Cilindro,19.26,Cilindro,
+2021-08-03 14:14:27,Cilindro y revisar,19.26,Cilindro,
+2021-08-03 19:26:48,Cambio de cilindro,19.26,Cilindro,cilindro
+2021-08-04 14:17:56,Retapizar asiento-Cilindro-Cucurucho,46.18,Cilindro,
+2021-08-04 16:17:06,colocar cilindro corto,20.4,Cilindro,cilindro
+2021-08-04 18:20:03,Cilindro,19.26,Cilindro,
+2021-08-05 15:13:01,Cilindro y ruedas,27.03,Cilindro,"ruedas, rueda"
+2021-08-06 14:57:51,Cilindro,19.26,Cilindro,
+2021-08-07 15:30:55,"Revisar y cotizar cilindro, ruedas Portantino",57.22,Cilindro,"cilindro, ruedas, rueda"
+2021-08-09 17:11:09,Colocar cilindro largo,19.26,Cilindro,cilindro
+2021-08-09 18:14:08,Cilindro,19.26,Cilindro,
+2021-08-17 15:11:47,"cilindro, ruedas y retapizado",47.42,Cilindro,"cilindro, ruedas, rueda"
+2021-08-18 20:01:25,"Retapizado completo, 1 cilindro, 5 ruedas y tornillos.",70.25,Cilindro,"cilindro, ruedas, rueda"
+2021-08-19 15:54:06,Cambio de cilindro,19.26,Cilindro,cilindro
+2021-08-20 13:55:39,cambiar chapón con U- cambiar cilindro,34.56,Cilindro,"cilindro, chapón"
+2021-08-27 15:46:38,CILINDRO,19.26,Cilindro,
+2021-08-28 16:20:38,"Rellenar asiento, cilindro, suplementar apoyabrazos",31.16,Cilindro,cilindro
+2021-08-28 16:40:50,cambiar chapon (comun)- poner 4 parker-  ver si hay que suplementar cilindro  al cambiar chapón,16.43,Cilindro,"cilindro, chapón"
+2021-08-28 16:49:24,"En los 2 cilindro, interno de madera con insertos nuevos.",77.85,Cilindro,cilindro
+2021-08-30 15:12:56,"Poner botones en asiento, 5 ruedas, cilindro.",32.29,Cilindro,"cilindro, ruedas, rueda"
+2021-09-01 15:28:18,"Cilindro, suplem. , apoyabrazos y retapizar asiento",32.42,Cilindro,retapizar
+2021-09-01 15:49:02,"1) Retapizado completo, cilindro y ruedas  2) Retapizado completo, càscara respaldo y 1 tornillo.",70.33,Cilindro,"cilindro, ruedas, rueda"
+2021-09-15 17:05:05,Cambio de cilindro y chapòn. POner el cono,30.77,Cilindro,cilindro
+2021-09-17 14:42:42,Cilindro,20.6,Cilindro,
+2021-09-20 16:51:22,Cambiar el cilindro,20.55,Cilindro,cilindro
+2021-09-23 19:40:33,Cambiar cilindro,0.0,Cilindro,cilindro
+2021-09-27 15:08:28,Chapòn y cilindro,31.32,Cilindro,cilindro
+2021-10-04 14:54:39,CILINDRO,18.33,Cilindro,
+2021-10-06 19:09:55,Cambiar basculante con parker y cilindro y cucurucho,41.86,Cilindro,"cilindro, basculante"
+2021-10-07 14:02:00,"Soldar, suplementar cilindro y cambiar cilindro",31.37,Cilindro,cilindro
+2021-10-14 17:11:14,"Revisar y presupuestar: Retapizado completo, interno asiento, cilindro, retocar aro, ruedas y 2 tornillos.",53.68,Cilindro,"cilindro, ruedas, rueda"
+2021-10-18 16:11:38,Revisar cilindro y cambiar estrella. Pasè presup. x w app,37.65,Cilindro,"cilindro, estrella"
+2021-10-18 19:31:30,"Ruedas, cilindro, 2 tornillos y suplem. chapòn ( arandela)",27.4,Cilindro,cilindro
+2021-10-21 15:35:56,Estrella chica y cilindro,28.04,Cilindro,cilindro
+2021-10-26 15:53:47,Retapizado $ 6000.- MÀS CILINDRO $ 3700.-,47.55,Cilindro,
+2021-10-28 14:16:36,Revisar cilindro ($ 3700.-),0.0,Cilindro,cilindro
+2021-10-28 18:16:49,"Rellenar asiento, cilindro y ruedas",36.03,Cilindro,"cilindro, ruedas, rueda"
+2021-10-29 15:31:06,colocar cilindro nuevo  y armar,19.61,Cilindro,cilindro
+2021-11-03 14:07:43,Cambio de cilindro. PAGADO,25.27,Cilindro,cilindro
+2021-11-03 17:31:05,Revisar y presupuestar/se baja cilindro/ contacto,56.08,Cilindro,cilindro
+2021-11-04 17:12:52,TAPIZAR IGUAL ANTES / CILINDRO Y RUEDAS,49.66,Cilindro,
+2021-11-05 13:30:24,Cambiar chapòn c/colocaciòn de parker y revisar cilindro,62.16,Cilindro,cilindro
+2021-11-06 15:29:36,Cambiar cilindro y ruedas,36.15,Cilindro,"cilindro, ruedas, rueda"
+2021-11-08 20:43:38,"Chapòn basculante, cilindro y suplem. estrella",64.86,Cilindro,"cilindro, basculante, estrella"
+2021-11-13 16:38:42,"Cilindro, relleno de asiento, 1 inserto, 1 rueda us. y 2 tornillos",41.89,Cilindro,rueda
+2021-11-13 17:45:34,"Revisar y presupuestar: cilindro, chapòn, ruedas, rellenar asiento y respaldo, tornillo y suplem. apoyas",101.01,Cilindro,"cilindro, ruedas, rueda, rellenar"
+2021-11-19 17:42:52,Cilindro y contacto c/soldadura,52.03,Cilindro,
+2021-11-24 17:42:46,"Cilindro, ruedas y chapon basculante",73.65,Cilindro,"basculante, ruedas, rueda"
+2021-11-24 20:47:29,Cambiar cilindro,25.34,Cilindro,cilindro
+2021-11-25 17:07:38,Revisar cilindro y ver,59.8,Cilindro,cilindro
+2021-12-03 15:47:59,Hacer funda borde asiento c/refuerzo y poner taquito de goma dentro de cilindro,20.57,Cilindro,cilindro
+2021-12-14 18:10:07,Cambiar cilindro,26.6,Cilindro,cilindro
+2021-12-16 17:38:05,"1.- retapizar, contacto, tornillo, ruedas, cilindro.  2) estrella med., rellenar asiento, ruedas y 1 tornillo.",143.33,Cilindro,"cilindro, ruedas, rueda, estrella, rellenar, retapizar"
+2022-01-04 20:07:18,"Cambio de cilindro, chapòn y fijar base.",32.3,Cilindro,cilindro
+2022-01-05 16:24:05,"1) Cilindro, ruedas, retap. y rellenar asiento y 1 inserto 2) Cambiar estructura, ruedas, rellenar completo y cilindro",83.97,Cilindro,"cilindro, ruedas, rueda, rellenar"
+2022-01-06 14:49:54,"Interno madera c/insertos, tapizar y rellenar asiento, ruedas, cilindro y contacto.",64.35,Cilindro,"cilindro, ruedas, rueda, rellenar"
+2022-01-08 15:49:42,Cambiar cilindro y revisar,18.66,Cilindro,cilindro
+2022-01-08 16:03:52,Cambiar cilindro y perilla contacto perm.,22.49,Cilindro,cilindro
+2022-01-08 16:50:06,"Colocar estrella cromada, cilindro y basculante",71.29,Cilindro,"cilindro, basculante, estrella"
+2022-01-21 18:18:06,"Revisar y presupuestar: chapòn, cilindro, ruedas, enderezar aro, interno asiento de madera, retapizado asiento c/relleno.",67.94,Cilindro,"cilindro, ruedas, rueda"
+2022-01-25 14:14:47,Cilindro y revisar,0.0,Cilindro,
+2022-01-25 20:30:15,cilindro y retapizar asiento,30.14,Cilindro,"cilindro, retapizar"
+2022-01-26 17:42:51,Revisar cilindro y chapòn (soldar),31.58,Cilindro,"cilindro, soldar"
+2022-01-27 14:15:25,Cilindro y revisar,19.14,Cilindro,
+2022-02-03 16:22:40,cambiar cilindro,20.29,Cilindro,cilindro
+2022-02-04 16:46:25,"Revisar cilindro, ruedas y retapizado de asiento y respaldo",49.76,Cilindro,"cilindro, ruedas, rueda"
+2022-02-04 17:02:07,Cambiar cilindro y endrerezar apoyas,23.67,Cilindro,cilindro
+2022-02-11 18:36:40,"Teñir sillòn grande y rellenar asiento, cilindro y suplementar $ 3300.-  / $ 4100.- / $ 700.-  Total $ 8100.-",39.13,Cilindro,"cilindro, rellenar"
+2022-02-12 15:14:57,Cambiar cilindro de china a Sillòn / Retapizar sillòn,43.96,Cilindro,cilindro
+2022-02-18 18:33:25,Cambio de cilindro en los 2,39.61,Cilindro,cilindro
+2022-03-03 15:51:45,Cambiar cilindro y ( ruedas ),0.0,Cilindro,"cilindro, ruedas, rueda"
+2022-03-10 18:41:52,CILINDRO,23.01,Cilindro,
+2022-03-10 20:59:09,Cambio de cilindro,22.96,Cilindro,cilindro
+2022-03-11 17:28:50,Cilindro y 5 ruedas,31.63,Cilindro,"ruedas, rueda"
+2022-03-16 14:49:07,Cilindro,0.0,Cilindro,
+2022-03-16 16:03:53,Colocar cilindro largo,4.08,Cilindro,cilindro
+2022-03-21 13:54:04,"Revisar cilindro, perilla de palanca y suplem.",24.23,Cilindro,cilindro
+2022-03-22 17:15:39,Cambio de cilindro,22.96,Cilindro,cilindro
+2022-03-23 13:54:38,Cilindro y retap. asiento,39.29,Cilindro,
+2022-03-25 16:08:22,Revisar cilindro y basculante,23.98,Cilindro,"cilindro, basculante"
+2022-03-28 17:19:47,Revisar estrella c/cilindro pasado. Presupuestar,6.63,Cilindro,"cilindro, estrella"
+2022-03-30 17:34:27,Cilindro y revisar,23.98,Cilindro,
+2022-04-02 16:41:17,Cambio de cilindro,0.0,Cilindro,cilindro
+2022-04-08 16:13:35,Cilindro y rellenar asiento,38.17,Cilindro,rellenar
+2022-04-20 18:09:09,"Silla cromada, no tiene arreglo, silla Candy : fabricar interno $ 3800.- y cilindro $ 4700.- ( si se utiliza el cilindro de la otra, se ahorra èste importe)",21.37,Cilindro,"cilindro, silla"
+2022-04-20 18:39:52,"Cilindro, rellenar asiento y parches, fuelle telescòpico, 1 rueda",27.99,Cilindro,"rueda, rellenar"
+2022-04-21 19:19:40,Cambiar cilindro,0.0,Cilindro,cilindro
+2022-05-02 17:17:18,"cilindro, estrella y 1 rueda /",47.61,Cilindro,"cilindro, rueda, estrella"
+2022-05-03 14:18:08,"Cambiar cilindro, abrir tapizado y sacar tornillos cortados de insertos apoyabrazos, colocar 2 tornillos largos Allen.",30.1,Cilindro,cilindro
+2022-05-04 18:18:45,Cambio de cilindro y rellenar asiento,34.83,Cilindro,"cilindro, rellenar"
+2022-05-06 19:32:49,"Cilindro, rellenar asiento, enderezar estructura, perilla cilindro.",36.07,Cilindro,"cilindro, rellenar"
+2022-05-07 14:37:55,Cilindro,24.38,Cilindro,
+2022-05-11 14:50:16,"Cambiar cilindro y chapòn, fijar c/parker",39.3,Cilindro,cilindro
+2022-05-16 16:31:29,Cambio de cilindro,24.38,Cilindro,cilindro
+2022-05-16 19:45:42,cambiar cilindro 4.900.-. tapizado completo 5.500,51.74,Cilindro,cilindro
+2022-05-21 13:38:50,Cambio de cilindro,24.38,Cilindro,cilindro
+2022-05-23 18:06:35,Cambiar ruedas y cilindro a base cromada nueva,33.83,Cilindro,"cilindro, ruedas, rueda"
+2022-05-31 15:43:56,Cilindro,0.0,Cilindro,
+2022-06-04 14:59:25,Cambiar cilindro y basculante ( c/Parker),45.17,Cilindro,"cilindro, basculante"
+2022-06-07 17:30:57,Revisar cilindro,3.42,Cilindro,cilindro
+2022-06-10 18:06:51,Cambiar cilindro,20.94,Cilindro,cilindro
+2022-06-21 15:08:46,Cambio de cilindro y soldar chapòn,24.36,Cilindro,"cilindro, soldar"
+2022-06-21 20:02:00,cilindro y revisar,37.61,Cilindro,cilindro
+2022-06-22 13:50:18,Revisar y presupuestar/ cilindro,0.0,Cilindro,cilindro
+2022-06-23 13:05:26,cilindro y revisar,24.36,Cilindro,cilindro
+2022-06-30 18:36:56,Cambio de cilindro,21.79,Cilindro,cilindro
+2022-07-01 16:35:25,CILINDRO,17.83,Cilindro,
+2022-07-01 16:58:50,Cilindro,17.48,Cilindro,
+2022-07-01 17:13:03,Cambiar cilindro,17.83,Cilindro,cilindro
+2022-07-01 19:16:09,Revisar basculante y ver ajuste cilindro en chapòn,7.34,Cilindro,"cilindro, basculante"
+2022-07-04 14:16:50,Cambio de cilindro,19.23,Cilindro,cilindro
+2022-07-04 17:50:13,Cambiar cilindro,18.18,Cilindro,cilindro
+2022-07-07 16:57:37,Cambio de cilindro y 4 tornillos,19.93,Cilindro,cilindro
+2022-07-21 14:04:14,Cambio de cilindro,19.23,Cilindro,cilindro
+2022-07-22 14:33:23,Cambio de cilindro,17.48,Cilindro,cilindro
+2022-07-22 18:35:06,Cambio de cilindro,19.23,Cilindro,cilindro
+2022-07-23 16:13:53,Cambio de cilindro,19.23,Cilindro,cilindro
+2022-07-28 13:30:28,Cilindro y revisar,41.26,Cilindro,
+2022-07-28 15:59:28,Cilindro y retapizado en tela Jackson Azul Ocean,42.31,Cilindro,
+2022-08-01 16:54:21,Cambio de cilindro,7.02,Cilindro,cilindro
+2022-08-01 17:20:19,Cambio de cilindro y estrella chica,32.63,Cilindro,"cilindro, estrella"
+2022-08-02 14:48:57,Cambio de cilindro y ruedas,0.0,Cilindro,"cilindro, ruedas, rueda"
+2022-08-11 15:17:46,Silla Diva: cilindro  / Silla cajera revisar y presupuestar,58.95,Cilindro,cilindro
+2022-08-16 18:22:17,CILINDRO,20.35,Cilindro,
+2022-08-24 15:17:43,Cambio de cilindro. Revisar,20.7,Cilindro,cilindro
+2022-08-29 14:00:20,Cambio de cilindro,35.26,Cilindro,cilindro
+2022-08-29 16:48:25,CILINDRO,20.7,Cilindro,
+2022-08-31 14:14:13,revisar. Cilindro. Tapizado en pana lavable rosa claro. Pasar presupuesto. tAPIZADO SIN LA TELA,20.7,Cilindro,
+2022-09-06 14:19:26,Cambio de cilindro,20.77,Cilindro,cilindro
+2022-09-07 14:52:29,Cilindro,20.07,Cilindro,
+2022-09-08 16:26:54,Cambio de cilindro,20.77,Cilindro,cilindro
+2022-09-09 14:45:03,Cambio de cilindro,20.77,Cilindro,cilindro
+2022-09-09 19:11:05,Cambio de cilindro,29.58,Cilindro,cilindro
+2022-09-09 19:19:53,Cambio de cilindro y estrella mediana,34.93,Cilindro,"cilindro, estrella"
+2022-09-10 15:46:31,Cambio de cilindro y ruedas,27.82,Cilindro,"cilindro, ruedas, rueda"
+2022-09-10 16:06:13,Cambio de cilindro,20.77,Cilindro,cilindro
+2022-09-28 15:07:38,Cambio de cilindro,20.77,Cilindro,cilindro
+2022-09-29 16:09:04,Revisar y colocar cilindro de la anterior,51.06,Cilindro,cilindro
+2022-09-29 18:37:31,Revisar cilindro,20.77,Cilindro,cilindro
+2022-10-05 17:53:38,Cambio de cilindro,17.25,Cilindro,cilindro
+2022-10-06 17:18:58,cilindro y estrella,27.13,Cilindro,"cilindro, estrella"
+2022-10-11 15:07:19,"Cilindro, suplementar estrella y rellenar",28.36,Cilindro,"estrella, rellenar"
+2022-10-11 16:47:00,"Rellenar y retap. asiento, pintada al aro, cilindro y 2 ruedas",31.58,Cilindro,"cilindro, ruedas, rueda"
+2022-10-13 17:33:03,"Revisar respaldo, y retap. asiento parcial y apoyacabezas, cilindro",43.86,Cilindro,cilindro
+2022-10-15 14:20:51,Cilindro,17.25,Cilindro,
+2022-10-15 15:24:36,Cilindro,17.25,Cilindro,
+2022-10-25 14:33:20,Cambio de cilindro,17.25,Cilindro,cilindro
+2022-10-27 19:28:01,Cambio de cilindro,18.13,Cilindro,cilindro
+2022-11-07 20:56:38,Cambio de cilindro,29.67,Cilindro,cilindro
+2022-11-10 19:40:07,"colocar cilindro, chapòn c/manija y madera asiento.",59.33,Cilindro,cilindro
+2022-11-18 16:37:13,cilindro y presupuestar,30.86,Cilindro,cilindro
+2022-11-25 15:42:13,Cambio de cilindro y 1 rueda,32.87,Cilindro,"cilindro, rueda"
+2022-11-25 17:14:34,Cambio de cilindro,46.41,Cilindro,cilindro
+2022-11-28 19:29:21,Cambio de cilindro ( largo ),43.06,Cilindro,cilindro
+2022-12-15 15:58:51,Intercambiar cilindro,7.25,Cilindro,cilindro
+2022-12-26 15:46:27,Cambio de cilindro / Sin cargo,0.0,Cilindro,cilindro
+2022-12-27 15:53:17,Reparar apoyabrazo sillòn y cilindro en base,52.66,Cilindro,cilindro
+2022-12-28 17:47:41,Revisar y cambiar cilindro,36.71,Cilindro,cilindro
+2022-12-29 14:45:53,Cambio de cilindro,34.3,Cilindro,cilindro
+2022-12-29 17:58:18,cambiar cilindro,34.3,Cilindro,cilindro
+2022-12-29 18:43:56,Cambiar chapòn y revisar/ se baja cilindro,57.39,Cilindro,cilindro
+2023-01-02 15:43:16,Revisar cilindro,25.86,Cilindro,cilindro
+2023-01-02 16:27:30,NV5 VER RELLENO CON BULTO Y revisar 7010 chapòn y cilindro,0.0,Cilindro,cilindro
+2023-01-03 19:31:30,"Chapón, cilindro, contacto y 2 ruedas",53.19,Cilindro,"cilindro, ruedas, rueda"
+2023-01-20 15:56:25,Cambio de cilindro,28.5,Cilindro,cilindro
+2023-01-20 18:20:39,"1 rueda, fijar cilindro altura maxima",6.33,Cilindro,"cilindro, rueda"
+2023-01-20 20:41:29,"Estrella cromada, cilindro y ruedas",50.53,Cilindro,"cilindro, ruedas, rueda"
+2023-01-25 17:32:38,Cambio de cilindro,0.0,Cilindro,cilindro
+2023-01-30 19:15:35,Revisar y presupuestar. cilindro y estrella,29.95,Cilindro,"cilindro, estrella"
+2023-01-31 16:27:26,Colocar cilindro cromado corto,13.19,Cilindro,cilindro
+2023-02-25 17:49:40,Cilindro y ver retapizado asiento y parche ò completo,49.06,Cilindro,
+2023-03-01 18:03:05,Cilindro y revisar,30.41,Cilindro,
+2023-03-06 17:12:01,Cambiar cilindro,27.84,Cilindro,cilindro
+2023-03-09 20:58:16,Cambiar el cilindro neumatico. Tambien revisarr y avisar si hay algo mas. + 5 RUEDAS 4500,44.59,Cilindro,cilindro
+2023-03-10 15:19:12,cambio de cilindro,33.51,Cilindro,cilindro
+2023-03-20 18:20:40,Cilindro y revisar,32.99,Cilindro,
+2023-03-22 15:04:37,Cilindro y revisar,33.25,Cilindro,
+2023-04-04 19:33:31,Cilindro,25.97,Cilindro,
+2023-04-10 17:40:25,Cambiar cilindro,25.97,Cilindro,cilindro
+2023-04-12 16:11:19,"Retapizado, perilla chapón y revisar cilindro",48.27,Cilindro,"cilindro, chapón"
+2023-04-15 14:20:25,Revisar y presupuestar ( cilindro ) No Tapizado,37.64,Cilindro,cilindro
+2023-04-22 16:06:29,Cilindro y revisar,27.06,Cilindro,
+2023-04-24 19:02:43,Cambiar cilindro. Ruedas. Cilindro y tornillo,70.78,Cilindro,cilindro
+2023-05-04 16:24:27,Cambiar cilindro,28.25,Cilindro,cilindro
+2023-05-05 19:41:58,"Ya se le cambiò el cilindro, se mueve. Revisar",0.0,Cilindro,cilindro
+2023-05-08 14:12:18,Cilindro y revisar,30.93,Cilindro,
+2023-05-08 16:32:13,Revisar y presupuestar / cilindro,42.0,Cilindro,cilindro
+2023-05-11 18:00:34,Cambiar cilindro y basculante,50.31,Cilindro,"cilindro, basculante"
+2023-05-12 15:56:20,Cambiar cilindro,30.52,Cilindro,cilindro
+2023-05-12 16:21:55,"Cilindro, retapizado comp. y rellenar asiento",53.2,Cilindro,rellenar
+2023-05-16 18:47:38,Cambiar cilindro y ruedas,0.0,Cilindro,"cilindro, ruedas, rueda"
+2023-05-29 14:48:15,Cambiar cilindro,30.93,Cilindro,cilindro
+2023-05-30 13:58:22,Cilindro y revisar,49.07,Cilindro,
+2023-06-14 17:28:46,Revisar cilindro y cotizar retapizado,214.72,Cilindro,cilindro
+2023-06-15 19:00:12,Cilindro y perilla chapòn,34.56,Cilindro,
+2023-06-23 14:37:33,Cambiar cilindro,33.44,Cilindro,cilindro
+2023-06-23 14:47:56,Cambiar cilindro,33.45,Cilindro,cilindro
+2023-06-23 15:21:21,Cambiar cilindro,33.44,Cilindro,cilindro
+2023-06-23 19:07:52,Revisar cilindro,33.33,Cilindro,cilindro
+2023-06-28 16:44:35,Cambiar cilindro - Reviso,33.46,Cilindro,cilindro
+2023-06-29 16:56:55,Cambiar cilindro. Revisar,33.44,Cilindro,cilindro
+2023-07-01 14:17:08,"Revisar y presupuestar ( chequear x las dudas, cilindro )",15.6,Cilindro,cilindro
+2023-07-01 14:26:26,"Cucurucho, CILINDRO, ESTRELLA y revisar y armar",44.86,Cilindro,
+2023-07-07 17:36:20,Cambiar cilindro,31.19,Cilindro,cilindro
+2023-07-08 13:43:37,Cambiar cilindro,0.0,Cilindro,cilindro
+2023-07-10 19:35:24,Cambio de cilindro,31.19,Cilindro,cilindro
+2023-07-11 14:33:23,cilindro,0.0,Cilindro,cilindro
+2023-07-19 18:03:25,Cilindro y revisar,31.19,Cilindro,
+2023-07-22 14:29:14,Cambiar cilindro,31.19,Cilindro,cilindro
+2023-07-24 14:49:46,Revisar cilindro pasado,0.0,Cilindro,cilindro
+2023-07-25 19:46:46,Tapizado completo en ecocuero negro y cilindro,58.72,Cilindro,cilindro
+2023-07-27 19:05:39,Cambiar cilindro en los 3 y ruedas en verdes ( nuevas ò usadas ),0.0,Cilindro,"cilindro, ruedas, rueda"
+2023-07-31 18:15:20,Cambiar cilindro,31.19,Cilindro,cilindro
+2023-08-01 16:31:43,Cambiar cilindro,0.0,Cilindro,cilindro
+2023-08-02 19:14:36,Cilindro y revisar,24.83,Cilindro,
+2023-08-04 14:45:05,Cambiar cilindro - Reviso,30.34,Cilindro,cilindro
+2023-08-07 16:26:32,Cilindro y revisar,43.45,Cilindro,
+2023-08-12 16:47:23,Ver cilindro pasado,14.48,Cilindro,cilindro
+2023-08-16 16:14:48,Revisar y presupuestar. Cambiar cilindro,32.41,Cilindro,cilindro
+2023-08-19 16:43:58,"Cambiar basculante y cilindro, c/insertos",49.66,Cilindro,"cilindro, basculante"
+2023-08-29 17:47:51,Cambiar cilindro y ajustar,32.41,Cilindro,cilindro
+2023-09-06 19:14:28,Tapizado y cilindro,65.82,Cilindro,cilindro
+2023-09-08 15:46:07,Revisar y presupuestar. Cambar cilindro neumatico. Retapizar asiento y almohadita en azul. Lo mas parecido al otro,53.16,Cilindro,cilindro
+2023-09-22 14:45:38,Cambiar cilindro,32.91,Cilindro,cilindro
+2023-09-27 17:12:37,Revisar y presupuestar ( ver cilindro ),34.56,Cilindro,cilindro
+2023-10-10 16:45:42,"Cilindro, perilla ovalina, ruedas y retapizado",55.38,Cilindro,"ruedas, rueda"
+2023-10-11 18:24:28,"Colocar cilindro, basculante y 1 rueda",69.74,Cilindro,"cilindro, basculante, rueda"
+2023-10-12 15:12:52,Cambiar cilindro,27.69,Cilindro,cilindro
+2023-10-21 15:49:00,"Cambiar cilindro, ver apoyabrazos y retapizar asiento en Eco negro",40.0,Cilindro,"cilindro, retapizar"
+2023-10-21 16:01:04,Cambiar cilindro,27.69,Cilindro,cilindro
+2023-10-26 14:41:35,"Revisar y presupuestar cilindro, apoyabrazo (arreglo) y ver rueda faltante",0.0,Cilindro,"cilindro, rueda"
+2023-10-27 15:37:50,cambiar cilindro,28.72,Cilindro,cilindro
+2023-10-30 14:59:58,Revisar y presupuestar cilindro,36.92,Cilindro,cilindro
+2023-10-31 15:25:47,cambiar cilindro,25.64,Cilindro,cilindro
+2021-07-02 14:31:50,"Estrella, tapizar asiento grande, y arandela en chapòn.",24.22,Estrella,
+2021-07-13 19:03:59,Estrella grande araña y ruedas,19.37,Estrella,"ruedas, rueda, araña"
+2021-07-23 16:20:35,"Revisar . Ver estrella, ruedas. retapizar (pasan el color de ecocuero). Pasar presupuesto",42.74,Estrella,"ruedas, rueda, estrella, retapizar"
+2021-07-27 15:51:41,Suplementar estrella,3.99,Estrella,estrella
+2021-07-28 19:52:46,colocar estrella mediana y 1 rueda,13.96,Estrella,"rueda, estrella"
+2021-07-29 15:31:21,Estrella chica,10.26,Estrella,
+2021-09-15 16:17:46,"Estrella chica, 1 rueda y retapizado asiento (aprovechando el Mesh )",22.53,Estrella,rueda
+2021-10-07 13:56:09,Cambiar estrella,11.76,Estrella,estrella
+2021-10-07 18:30:25,Colocar estrella mediana,12.75,Estrella,estrella
+2021-10-18 16:05:44,Cambiar estrella,9.8,Estrella,estrella
+2021-10-18 16:11:38,Revisar cilindro y cambiar estrella. Pasè presup. x w app,37.65,Estrella,"cilindro, estrella"
+2021-10-21 15:35:56,Estrella chica y cilindro,28.04,Estrella,cilindro
+2021-10-22 13:32:47,Cambiar estrella cromada,0.0,Estrella,estrella
+2021-10-25 13:19:03,Estrella mediana,9.71,Estrella,
+2021-10-26 19:22:38,"Cambiar estrella y suplementar , solamente !!",14.02,Estrella,estrella
+2021-11-08 19:26:43,Colocar estrella med. plástica y ruedas,27.03,Estrella,"ruedas, rueda, estrella"
+2021-11-08 20:43:38,"Chapòn basculante, cilindro y suplem. estrella",64.86,Estrella,"cilindro, basculante, estrella"
+2021-11-09 18:09:54,Colocar estrella mediana y ruedas,27.7,Estrella,"ruedas, rueda, estrella"
+2021-11-17 16:22:16,colocar estrella mediana y 1 rueda  ( $ 2400 + rueda),18.45,Estrella,"rueda, estrella"
+2021-11-17 20:40:03,"Retapizado completo en cuerotex negr, rellenar, estrella mediana con ruedas. Revisar inserto apoyabrazos. 10000 mas inserto",67.57,Estrella,"ruedas, rueda, estrella, rellenar"
+2021-11-26 20:49:32,estrella chica y ruedas usadas,0.0,Estrella,"ruedas, rueda, estrella"
+2021-12-06 20:04:52,Colocar estrella plàstica,16.74,Estrella,estrella
+2021-12-10 16:39:03,Colocar estrella chica y cotizar: Parches en casco ò Retapizado de casco,14.04,Estrella,estrella
+2021-12-15 20:25:57,cambiar estrella mediana,0.0,Estrella,estrella
+2021-12-16 17:38:05,"1.- retapizar, contacto, tornillo, ruedas, cilindro.  2) estrella med., rellenar asiento, ruedas y 1 tornillo.",143.33,Estrella,"cilindro, ruedas, rueda, estrella, rellenar, retapizar"
+2021-12-22 20:20:22,Cambiar estrella,16.74,Estrella,estrella
+2022-01-08 16:50:06,"Colocar estrella cromada, cilindro y basculante",71.29,Estrella,"cilindro, basculante, estrella"
+2022-01-11 18:04:27,Colocar estrella mediana,11.44,Estrella,estrella
+2022-01-21 17:23:26,cambiar estrella mediana,12.44,Estrella,estrella
+2022-01-28 15:20:30,Colocar estrella mediana y ruedas,22.97,Estrella,"ruedas, rueda, estrella"
+2022-02-09 18:39:18,Colocar estrella cromada y nivelar,14.49,Estrella,estrella
+2022-02-10 18:51:15,Estrella y ruedas,14.49,Estrella,"ruedas, rueda"
+2022-02-12 15:18:39,Colocar estrella mediana,12.56,Estrella,estrella
+2022-02-15 15:52:07,Colocar estrella mediana de las nuevas y ruedas usadas / $ 2600.- ruedas $ 900,14.49,Estrella,"ruedas, rueda, estrella"
+2022-02-23 20:47:36,estrella mediana,12.56,Estrella,estrella
+2022-03-04 15:09:34,Ruedas y estrella mediana,22.45,Estrella,estrella
+2022-03-08 16:54:30,Colocar estrella,13.27,Estrella,estrella
+2022-03-08 20:04:53,Cambiar estrella y ruedas,21.43,Estrella,"ruedas, rueda, estrella"
+2022-03-22 18:52:33,Colocar estrella mediana,14.59,Estrella,estrella
+2022-03-28 17:19:47,Revisar estrella c/cilindro pasado. Presupuestar,6.63,Estrella,"cilindro, estrella"
+2022-03-28 19:43:15,"Cilindr, suplem. c/grilòn y suplem. estrella.",28.06,Estrella,estrella
+2022-04-12 19:23:55,cambiar estrella y suplementar,17.81,Estrella,estrella
+2022-04-26 18:33:44,"Suplementar estrella, ajustar respaldo y chapòn c/arandelas",3.56,Estrella,estrella
+2022-04-28 17:51:41,Colocar estrella cromada,35.27,Estrella,estrella
+2022-05-02 17:17:18,"cilindro, estrella y 1 rueda /",47.61,Estrella,"cilindro, rueda, estrella"
+2022-05-10 16:48:56,Colocar estrella chica màs 1 rueda ( $ 340.- ),14.63,Estrella,"rueda, estrella"
+2022-05-11 14:48:39,"colocar estrella mediana, 1 rueda y suplementar con arandelas.",19.1,Estrella,"rueda, estrella"
+2022-06-04 13:30:32,Estrella mediana,17.09,Estrella,
+2022-06-04 16:10:01,Estrella chica,11.75,Estrella,
+2022-06-21 15:06:17,cambiar estrella,13.68,Estrella,estrella
+2022-06-22 18:38:16,Estrella grande y ruedas,21.79,Estrella,"ruedas, rueda"
+2022-07-08 17:36:21,Suplementar estrella,3.85,Estrella,estrella
+2022-07-08 19:07:42,Estrella chica,9.62,Estrella,
+2022-07-13 17:04:03,Estrella mediana,13.29,Estrella,
+2022-07-20 17:07:50,cambiar estrella mediana,11.19,Estrella,estrella
+2022-07-25 16:54:37,Armar base completa c/chapòn cuadrado y estrella chica,41.78,Estrella,estrella
+2022-07-26 18:25:16,cambiar estrella mediana y 1 rueda us.,11.19,Estrella,"rueda, estrella"
+2022-08-01 17:20:19,Cambio de cilindro y estrella chica,32.63,Estrella,"cilindro, estrella"
+2022-08-11 14:29:41,"Colocar estrella cromada, ruedas y pintar aro",37.89,Estrella,"ruedas, rueda, estrella"
+2022-08-29 15:32:38,Colocar estrella/revisar. Pasar presupuesto,52.11,Estrella,estrella
+2022-09-03 14:40:35,Estrella,14.08,Estrella,
+2022-09-09 19:19:53,Cambio de cilindro y estrella mediana,34.93,Estrella,"cilindro, estrella"
+2022-09-21 14:18:33,Cambiar estrella,14.08,Estrella,estrella
+2022-09-23 16:33:56,Estrella nueva y lubricar,15.49,Estrella,
+2022-09-29 17:48:11,cambiar estrella mediana,14.44,Estrella,estrella
+2022-10-03 15:42:48,Cambiar estrella y retapizado en Ecocuero negro,26.9,Estrella,estrella
+2022-10-06 17:18:58,cilindro y estrella,27.13,Estrella,"cilindro, estrella"
+2022-10-11 15:07:19,"Cilindro, suplementar estrella y rellenar",28.36,Estrella,"estrella, rellenar"
+2022-10-18 19:01:31,"Colocar base completa neumàtica, con estrella chica",40.94,Estrella,estrella
+2022-10-29 14:36:00,Cambiar estrella y 5 ruedas,19.01,Estrella,"ruedas, rueda, estrella"
+2022-11-14 20:49:55,Cambiar estrella grande,22.01,Estrella,estrella
+2022-11-15 16:24:44,Estrella chica y ruedas,28.71,Estrella,"ruedas, rueda"
+2022-11-19 16:34:54,Cambiar estrella,20.53,Estrella,estrella
+2022-12-16 17:42:18,Colocar estrella mediana,23.19,Estrella,estrella
+2022-12-20 18:51:03,Ver estrella y presup,46.52,Estrella,estrella
+2022-12-22 18:40:16,Colocar estrella,3.38,Estrella,estrella
+2023-01-06 14:50:39,"estrella y ruedas, revisar",18.47,Estrella,"ruedas, rueda, estrella"
+2023-01-13 14:48:24,"Cotizar retapizado en Talampaya Negro, estrella cromada grande y ruedas c/banda de siliconas Candy.",51.58,Estrella,"ruedas, rueda, estrella"
+2023-01-13 20:00:23,cambio de estrella,13.72,Estrella,estrella
+2023-01-18 18:47:31,Cambiar estrella,12.66,Estrella,estrella
+2023-01-20 20:41:29,"Estrella cromada, cilindro y ruedas",50.53,Estrella,"cilindro, ruedas, rueda"
+2023-01-30 19:15:35,Revisar y presupuestar. cilindro y estrella,29.95,Estrella,"cilindro, estrella"
+2023-02-09 18:17:17,Revisar estrella,13.67,Estrella,estrella
+2023-02-09 19:38:13,Cambiar estrella y ruedas,21.05,Estrella,"ruedas, rueda, estrella"
+2023-02-13 20:37:01,"Cambiar estrella, la trajo",2.68,Estrella,estrella
+2023-02-23 18:05:52,Revisar estrella,9.65,Estrella,estrella
+2023-02-24 19:15:57,Cambiar estrella,12.87,Estrella,estrella
+2023-03-01 16:55:38,Cambiar estrella,12.37,Estrella,estrella
+2023-03-03 18:55:01,"Cambiar estrella, la trajo",14.18,Estrella,estrella
+2023-03-17 16:30:35,Cambiar estrella por cromada. Ruedas siliconadas,46.39,Estrella,estrella
+2023-04-28 13:24:13,estrella chica,11.47,Estrella,estrella
+2023-05-02 19:26:53,Colocar estrella cromada,28.66,Estrella,estrella
+2023-05-18 13:23:28,Estrella mediana y revisar,13.4,Estrella,
+2023-05-18 14:01:30,Estrella mediana y revisar,13.4,Estrella,
+2023-05-20 14:05:25,Cambiar estrella,12.06,Estrella,estrella
+2023-06-22 13:48:19,Estrella cromada,0.0,Estrella,
+2023-06-26 13:49:33,Estrella pasada y revisar,14.62,Estrella,
+2023-06-27 19:06:52,Cambiar estrella,14.72,Estrella,estrella
+2023-06-28 18:13:33,Cambiar estrella plàstica mediana,14.31,Estrella,estrella
+2023-07-01 14:26:26,"Cucurucho, CILINDRO, ESTRELLA y revisar y armar",44.86,Estrella,
+2023-08-11 15:27:08,Revisar y presupuestar. Estrella,25.38,Estrella,
+2023-09-04 15:53:14,Cambiar estrella,13.29,Estrella,estrella
+2023-09-06 15:56:37,Cambiar estrella,22.28,Estrella,estrella
+2023-09-15 18:08:05,estrella,13.92,Estrella,estrella
+2023-09-20 18:20:07,Cambiar estrella,15.19,Estrella,estrella
+2023-10-18 13:57:09,Cambiar estrella y ruedas,27.79,Estrella,"ruedas, rueda, estrella"
+2023-10-19 17:55:09,estrella mediana,13.74,Estrella,estrella
+2023-10-30 19:32:05,Cambiar estrella,11.59,Estrella,estrella
+2021-07-14 19:57:46,Consultar por funda Mesh,15.95,Mesh,
+2021-09-15 16:17:46,"Estrella chica, 1 rueda y retapizado asiento (aprovechando el Mesh )",22.53,Mesh,rueda
+2022-05-09 16:04:52,Retapizar en Talampaya negro y Mesh negro,38.31,Mesh,
+2023-01-05 16:12:18,"Revisar respaldo y retapizado con Mesh, presupuestar y avisar",11.35,Mesh,
+2023-01-21 16:52:13,Cotizar retapizado en Jackson negro y mesh negro ( aprox. $ 10.000.-),25.33,Mesh,mesh
+2023-06-09 19:44:51,Retapizar en Mesh gris perla,12.27,Mesh,
+2021-07-29 13:22:56,"Retapizar y rellenar (ver), arreglar respaldo y ruedas.",25.64,Rellenar,"ruedas, rueda, rellenar"
+2021-08-28 16:20:38,"Rellenar asiento, cilindro, suplementar apoyabrazos",31.16,Rellenar,cilindro
+2021-09-20 18:05:39,"Rellenar asiento, ruedas y soldar pieza respaldo",23.9,Rellenar,"ruedas, rueda, soldar"
+2021-09-30 18:22:38,"REVISADO Y PRESUPUESTADO- 1) RUEDAS, RELLENAR, EMPROLIJAR GOMA. - 2) RUEDAS, CAMBIAR PERILLA CONTACTO PERMANENTE",32.69,Rellenar,
+2021-10-28 18:16:49,"Rellenar asiento, cilindro y ruedas",36.03,Rellenar,"cilindro, ruedas, rueda"
+2021-11-13 17:45:34,"Revisar y presupuestar: cilindro, chapòn, ruedas, rellenar asiento y respaldo, tornillo y suplem. apoyas",101.01,Rellenar,"cilindro, ruedas, rueda, rellenar"
+2021-11-17 20:40:03,"Retapizado completo en cuerotex negr, rellenar, estrella mediana con ruedas. Revisar inserto apoyabrazos. 10000 mas inserto",67.57,Rellenar,"ruedas, rueda, estrella, rellenar"
+2021-12-16 17:38:05,"1.- retapizar, contacto, tornillo, ruedas, cilindro.  2) estrella med., rellenar asiento, ruedas y 1 tornillo.",143.33,Rellenar,"cilindro, ruedas, rueda, estrella, rellenar, retapizar"
+2021-12-29 16:07:54,Retapizar en Ecocuero negro 7 rellenar asiento y poca costura,46.1,Rellenar,rellenar
+2022-01-05 16:24:05,"1) Cilindro, ruedas, retap. y rellenar asiento y 1 inserto 2) Cambiar estructura, ruedas, rellenar completo y cilindro",83.97,Rellenar,"cilindro, ruedas, rueda, rellenar"
+2022-01-06 14:49:54,"Interno madera c/insertos, tapizar y rellenar asiento, ruedas, cilindro y contacto.",64.35,Rellenar,"cilindro, ruedas, rueda, rellenar"
+2022-01-14 19:37:19,"Chapòn, ruedas, tapizar y rellenar asiento, retocar aro.",34.35,Rellenar,"ruedas, rueda, rellenar"
+2022-02-11 18:36:40,"Teñir sillòn grande y rellenar asiento, cilindro y suplementar $ 3300.-  / $ 4100.- / $ 700.-  Total $ 8100.-",39.13,Rellenar,"cilindro, rellenar"
+2022-03-26 13:17:31,"Hacer madera interno, retapizar y rellenar  asiento en talampaya negro",17.86,Rellenar,"rellenar, retapizar"
+2022-03-30 17:32:28,Rellenar,0.0,Rellenar,
+2022-04-08 16:13:35,Cilindro y rellenar asiento,38.17,Rellenar,rellenar
+2022-04-20 18:39:52,"Cilindro, rellenar asiento y parches, fuelle telescòpico, 1 rueda",27.99,Rellenar,"rueda, rellenar"
+2022-04-28 16:22:46,Rellenar y retapizar comp. ruedas y chapòn,48.35,Rellenar,"ruedas, rueda, retapizar"
+2022-05-04 18:18:45,Cambio de cilindro y rellenar asiento,34.83,Rellenar,"cilindro, rellenar"
+2022-05-06 19:32:49,"Cilindro, rellenar asiento, enderezar estructura, perilla cilindro.",36.07,Rellenar,"cilindro, rellenar"
+2022-05-11 19:23:37,Cmabiar rueditas rotas y tapizar y rellenar asiento/ parche respaldo,22.39,Rellenar,rellenar
+2022-06-06 16:54:39,Rellenar asiento,7.69,Rellenar,
+2022-06-13 13:16:35,Retapizar completo Y rellenar asiento,22.65,Rellenar,rellenar
+2022-07-15 15:22:40,"Ajustar apoyas, rellenar asiento,cotizar tapizado completo y revisar.",31.64,Rellenar,rellenar
+2022-10-11 15:07:19,"Cilindro, suplementar estrella y rellenar",28.36,Rellenar,"estrella, rellenar"
+2022-10-11 16:47:00,"Rellenar y retap. asiento, pintada al aro, cilindro y 2 ruedas",31.58,Rellenar,"cilindro, ruedas, rueda"
+2023-01-04 19:44:09,Retapizar y rellenar. ecocuero tiza,34.3,Rellenar,rellenar
+2023-01-20 15:10:21,"Rellenar asiento, 5 ruedas, fijar respaldo c/bulòn y tuerca.",0.0,Rellenar,"ruedas, rueda"
+2023-02-16 18:50:00,rellenar y tapizar. ecocuero negro,8.85,Rellenar,rellenar
+2023-03-14 14:59:19,"Interno (10 insertos), retapizar y rellenar asiento",38.02,Rellenar,"rellenar, retapizar"
+2023-04-04 15:08:32,"Interno de madera nuestro, 4 insertos, rellenar y retapizar asiento",34.85,Rellenar,"rellenar, retapizar"
+2023-05-12 16:21:55,"Cilindro, retapizado comp. y rellenar asiento",53.2,Rellenar,rellenar
+2023-05-16 15:00:54,"Rellenar, retapizar asiento. Ruedas alma.",28.25,Rellenar,retapizar
+2023-06-21 18:24:11,Revisar y presupuestar ( rellenar ),11.66,Rellenar,rellenar
+2021-06-17 17:14:28,"Retapizar asiento,ruedas, chapòn, colocar arandelas y cilindro",51.84,Retapizar,"cilindro, ruedas, rueda"
+2021-06-25 19:49:21,"Ruedas, retapizar asiento y funda en parte superior de respaldo, 1 apoyabrazos usado.",32.82,Retapizar,retapizar
+2021-07-10 15:20:24,"Retapizar asiento, ruedas y tornillos",17.09,Retapizar,"ruedas, rueda"
+2021-07-21 14:48:04,Retapizar asiento y cambiar chapòn.,19.94,Retapizar,
+2021-07-23 16:20:35,"Revisar . Ver estrella, ruedas. retapizar (pasan el color de ecocuero). Pasar presupuesto",42.74,Retapizar,"ruedas, rueda, estrella, retapizar"
+2021-07-29 13:22:56,"Retapizar y rellenar (ver), arreglar respaldo y ruedas.",25.64,Retapizar,"ruedas, rueda, rellenar"
+2021-07-30 18:52:07,cambiar chapòn con U $ 2500.- y retapizar en Talampaya 379 ò 454 ( trae 4 sillas màs para retapizar) $ 3600.- c/retapizado,34.76,Retapizar,"retapizar, silla"
+2021-08-04 14:17:56,Retapizar asiento-Cilindro-Cucurucho,46.18,Retapizar,
+2021-08-12 18:44:29,retapizar,10.76,Retapizar,retapizar
+2021-08-20 18:03:26,Retapizar,10.76,Retapizar,
+2021-08-26 17:54:43,Retapizar asientos y apoyabrazos en uno de ellos.,34.56,Retapizar,
+2021-09-01 15:28:18,"Cilindro, suplem. , apoyabrazos y retapizar asiento",32.42,Retapizar,retapizar
+2021-09-09 17:24:45,Retapizar en nueva tela gamuzina . la mas clarita (Parecida al Arco),21.98,Retapizar,
+2021-09-20 15:55:11,Retapizar en Ecocuero Peugeot/Hilo negro y menos relleno.,0.0,Retapizar,
+2021-11-10 16:11:00,Retapizar en Eco negro,27.03,Retapizar,
+2021-12-03 17:17:52,Retapizar c/faja,31.91,Retapizar,
+2021-12-16 17:38:05,"1.- retapizar, contacto, tornillo, ruedas, cilindro.  2) estrella med., rellenar asiento, ruedas y 1 tornillo.",143.33,Retapizar,"cilindro, ruedas, rueda, estrella, rellenar, retapizar"
+2021-12-20 15:39:40,Retapizar asiento en Ecocuero negro,15.6,Retapizar,
+2021-12-29 16:07:54,Retapizar en Ecocuero negro 7 rellenar asiento y poca costura,46.1,Retapizar,rellenar
+2022-01-22 15:00:03,Retapizar asiento en Ecocuero negro,13.4,Retapizar,
+2022-01-22 17:15:42,Retapizar asiento,10.53,Retapizar,
+2022-01-25 20:30:15,cilindro y retapizar asiento,30.14,Retapizar,"cilindro, retapizar"
+2022-02-12 15:14:57,Cambiar cilindro de china a Sillòn / Retapizar sillòn,43.96,Retapizar,cilindro
+2022-02-18 14:36:05,retapizar y relleno. cambiar regatones . retocar estructura,24.15,Retapizar,retapizar
+2022-03-11 18:03:05,Retapizar en lona cobertura negra,73.47,Retapizar,
+2022-03-26 13:17:31,"Hacer madera interno, retapizar y rellenar  asiento en talampaya negro",17.86,Retapizar,"rellenar, retapizar"
+2022-04-27 13:55:49,Retapizar,19.85,Retapizar,
+2022-04-28 16:22:46,Rellenar y retapizar comp. ruedas y chapòn,48.35,Retapizar,"ruedas, rueda, retapizar"
+2022-04-30 13:40:03,Retapizar asiento y apoyabrazos / en Talampaya 268 ò 159 / COLOCAR 1 TORN. pARKER.,18.32,Retapizar,
+2022-05-09 16:04:52,Retapizar en Talampaya negro y Mesh negro,38.31,Retapizar,
+2022-06-13 13:16:35,Retapizar completo Y rellenar asiento,22.65,Retapizar,rellenar
+2022-10-06 17:11:44,Retapizar en Talampaya blanco 067 / cambiar interno,22.51,Retapizar,
+2022-10-17 18:35:07,Retapizar en Jackson Gris oscuro nº 10 Graphite,52.63,Retapizar,
+2022-11-03 18:35:14,Retapizar en Ecocuero negro,34.45,Retapizar,
+2022-11-17 20:37:35,Retapizar en Talampaya Negro,40.67,Retapizar,
+2022-11-23 17:01:11,retapizar en tela gris 6260.-y arreglar respaldo (ver precio). Jackson 10 o similar. Tela,29.95,Retapizar,retapizar
+2022-11-28 15:27:27,Retapizar en Ecocuero negro,17.22,Retapizar,
+2023-01-04 19:44:09,Retapizar y rellenar. ecocuero tiza,34.3,Retapizar,rellenar
+2023-01-14 15:25:09,Retapizar asiento ( 3500.-) y ruedas c/rosca.,20.84,Retapizar,"ruedas, rueda"
+2023-01-25 20:13:39,Retapizar asiento y parches en casco ( 2 ),15.83,Retapizar,
+2023-02-09 19:05:23,Retapizar asiento y fabricar interno de madera c/4 insertos,23.86,Retapizar,
+2023-03-01 18:12:35,Retapizar color de las anteriores. Revisar toda.,18.04,Retapizar,
+2023-03-06 14:15:49,"Retapizar asiento, parche en el casco",14.43,Retapizar,
+2023-03-14 14:59:19,"Interno (10 insertos), retapizar y rellenar asiento",38.02,Retapizar,"rellenar, retapizar"
+2023-03-28 19:14:26,Revisar y presupuestar. Retapizar respaldo ojo clavitos,32.22,Retapizar,
+2023-04-04 15:08:32,"Interno de madera nuestro, 4 insertos, rellenar y retapizar asiento",34.85,Retapizar,"rellenar, retapizar"
+2023-04-26 14:44:03,Revisar y presupuestar. retapizar,87.23,Retapizar,retapizar
+2023-05-16 15:00:54,"Rellenar, retapizar asiento. Ruedas alma.",28.25,Retapizar,retapizar
+2023-06-09 19:44:51,Retapizar en Mesh gris perla,12.27,Retapizar,
+2023-07-01 15:53:10,Retapizar respaldo en Talampaya 393,17.61,Retapizar,
+2023-07-13 13:34:43,retapizar completo y revisar,38.53,Retapizar,retapizar
+2023-07-13 19:46:30,"Ruedas Alma, retapizar asiento y pintar aro",35.6,Retapizar,retapizar
+2023-07-19 17:14:57,Retapizar,22.02,Retapizar,
+2023-07-25 18:23:58,Retapizar en Jackson Gris Graphite ( 10 ) y revisar alojamiento rueda faltante,29.91,Retapizar,rueda
+2023-09-08 15:46:07,Revisar y presupuestar. Cambar cilindro neumatico. Retapizar asiento y almohadita en azul. Lo mas parecido al otro,53.16,Retapizar,cilindro
+2023-09-29 13:31:33,Retapizar y revisar. PAGADO,314.94,Retapizar,
+2023-10-21 15:49:00,"Cambiar cilindro, ver apoyabrazos y retapizar asiento en Eco negro",40.0,Retapizar,"cilindro, retapizar"
+2021-07-12 16:38:04,"Sollas 1) y 3) fijar altura. Sillòn 2) Basculante, Retapizado, completo, fijar altura colocando carcaza y 1 rueda.",88.89,Rueda,rueda
+2021-07-28 19:52:46,colocar estrella mediana y 1 rueda,13.96,Rueda,"rueda, estrella"
+2021-09-15 16:17:46,"Estrella chica, 1 rueda y retapizado asiento (aprovechando el Mesh )",22.53,Rueda,rueda
+2021-09-27 14:51:20,Cambiar basculante y 1 rueda,31.87,Rueda,"basculante, rueda"
+2021-11-13 16:38:42,"Cilindro, relleno de asiento, 1 inserto, 1 rueda us. y 2 tornillos",41.89,Rueda,rueda
+2021-11-17 16:22:16,colocar estrella mediana y 1 rueda  ( $ 2400 + rueda),18.45,Rueda,"rueda, estrella"
+2021-11-19 15:11:23,Se cambiò 1 rueda,2.23,Rueda,rueda
+2022-04-20 18:39:52,"Cilindro, rellenar asiento y parches, fuelle telescòpico, 1 rueda",27.99,Rueda,"rueda, rellenar"
+2022-05-02 17:17:18,"cilindro, estrella y 1 rueda /",47.61,Rueda,"cilindro, rueda, estrella"
+2022-05-10 16:48:56,Colocar estrella chica màs 1 rueda ( $ 340.- ),14.63,Rueda,"rueda, estrella"
+2022-05-11 14:48:39,"colocar estrella mediana, 1 rueda y suplementar con arandelas.",19.1,Rueda,"rueda, estrella"
+2022-07-26 18:25:16,cambiar estrella mediana y 1 rueda us.,11.19,Rueda,"rueda, estrella"
+2022-11-25 15:42:13,Cambio de cilindro y 1 rueda,32.87,Rueda,"cilindro, rueda"
+2023-01-20 18:20:39,"1 rueda, fijar cilindro altura maxima",6.33,Rueda,"cilindro, rueda"
+2023-03-01 16:11:31,Cambiar chapón y 1 rueda,15.46,Rueda,"chapón, rueda"
+2023-07-25 18:23:58,Retapizar en Jackson Gris Graphite ( 10 ) y revisar alojamiento rueda faltante,29.91,Rueda,rueda
+2023-10-11 18:24:28,"Colocar cilindro, basculante y 1 rueda",69.74,Rueda,"cilindro, basculante, rueda"
+2023-10-12 17:21:11,2 estrellas chicas y 1 rueda.,21.03,Rueda,"rueda, estrella"
+2023-10-26 14:41:35,"Revisar y presupuestar cilindro, apoyabrazo (arreglo) y ver rueda faltante",0.0,Rueda,"cilindro, rueda"
+2021-06-17 17:14:28,"Retapizar asiento,ruedas, chapòn, colocar arandelas y cilindro",51.84,Ruedas,"cilindro, ruedas, rueda"
+2021-06-22 17:14:19,"Cilindro, ruedas y repar. en inserto apoyabrazos.",28.53,Ruedas,"ruedas, rueda"
+2021-06-25 19:49:21,"Ruedas, retapizar asiento y funda en parte superior de respaldo, 1 apoyabrazos usado.",32.82,Ruedas,retapizar
+2021-07-01 15:52:10,"1 - Cilindro y ruedas  2- basculante, cilindro y ruedas",77.89,Ruedas,"cilindro, basculante, ruedas, rueda"
+2021-07-02 14:29:00,"1- Cilindro, basculante y ruedas   2.- Cilindro, basculante y Ruedas   ..... Revisar por si hay algo mas",106.21,Ruedas,"basculante, ruedas, rueda"
+2021-07-10 15:20:24,"Retapizar asiento, ruedas y tornillos",17.09,Ruedas,"ruedas, rueda"
+2021-07-13 19:03:59,Estrella grande araña y ruedas,19.37,Ruedas,"ruedas, rueda, araña"
+2021-07-23 16:20:35,"Revisar . Ver estrella, ruedas. retapizar (pasan el color de ecocuero). Pasar presupuesto",42.74,Ruedas,"ruedas, rueda, estrella, retapizar"
+2021-07-29 13:22:56,"Retapizar y rellenar (ver), arreglar respaldo y ruedas.",25.64,Ruedas,"ruedas, rueda, rellenar"
+2021-07-29 14:47:41,Cortar y sodar chapon nuevo. Ver ruedas,18.23,Ruedas,"ruedas, rueda"
+2021-07-29 19:48:30,revisar ruedas y cotizar retapizado asientos,59.26,Ruedas,"ruedas, rueda"
+2021-08-05 15:13:01,Cilindro y ruedas,27.03,Ruedas,"ruedas, rueda"
+2021-08-07 15:30:55,"Revisar y cotizar cilindro, ruedas Portantino",57.22,Ruedas,"cilindro, ruedas, rueda"
+2021-08-12 17:22:13,"Ruedas, basculante y lubricar regulaciòn de altura",39.66,Ruedas,basculante
+2021-08-17 15:11:47,"cilindro, ruedas y retapizado",47.42,Ruedas,"cilindro, ruedas, rueda"
+2021-08-18 20:01:25,"Retapizado completo, 1 cilindro, 5 ruedas y tornillos.",70.25,Ruedas,"cilindro, ruedas, rueda"
+2021-08-30 15:12:56,"Poner botones en asiento, 5 ruedas, cilindro.",32.29,Ruedas,"cilindro, ruedas, rueda"
+2021-09-01 15:49:02,"1) Retapizado completo, cilindro y ruedas  2) Retapizado completo, càscara respaldo y 1 tornillo.",70.33,Ruedas,"cilindro, ruedas, rueda"
+2021-09-11 15:26:18,"Ruedas, retapizado completo en ecocuero blanco , ajuste general",30.22,Ruedas,
+2021-09-20 18:05:39,"Rellenar asiento, ruedas y soldar pieza respaldo",23.9,Ruedas,"ruedas, rueda, soldar"
+2021-09-25 14:36:04,Cambio de ruedas,8.24,Ruedas,"ruedas, rueda"
+2021-09-30 18:22:38,"REVISADO Y PRESUPUESTADO- 1) RUEDAS, RELLENAR, EMPROLIJAR GOMA. - 2) RUEDAS, CAMBIAR PERILLA CONTACTO PERMANENTE",32.69,Ruedas,
+2021-10-14 17:11:14,"Revisar y presupuestar: Retapizado completo, interno asiento, cilindro, retocar aro, ruedas y 2 tornillos.",53.68,Ruedas,"cilindro, ruedas, rueda"
+2021-10-18 19:31:30,"Ruedas, cilindro, 2 tornillos y suplem. chapòn ( arandela)",27.4,Ruedas,cilindro
+2021-10-26 14:02:47,"Ruedas, relleno y revisar",17.65,Ruedas,
+2021-10-28 15:00:04,Ruedas y chapòn comùn.,19.36,Ruedas,
+2021-10-28 18:16:49,"Rellenar asiento, cilindro y ruedas",36.03,Ruedas,"cilindro, ruedas, rueda"
+2021-11-04 17:12:52,TAPIZAR IGUAL ANTES / CILINDRO Y RUEDAS,49.66,Ruedas,
+2021-11-06 15:29:36,Cambiar cilindro y ruedas,36.15,Ruedas,"cilindro, ruedas, rueda"
+2021-11-08 19:26:43,Colocar estrella med. plástica y ruedas,27.03,Ruedas,"ruedas, rueda, estrella"
+2021-11-09 18:09:54,Colocar estrella mediana y ruedas,27.7,Ruedas,"ruedas, rueda, estrella"
+2021-11-09 20:51:03,Hacer asiento y ruedas,31.42,Ruedas,"ruedas, rueda"
+2021-11-13 17:45:34,"Revisar y presupuestar: cilindro, chapòn, ruedas, rellenar asiento y respaldo, tornillo y suplem. apoyas",101.01,Ruedas,"cilindro, ruedas, rueda, rellenar"
+2021-11-17 20:40:03,"Retapizado completo en cuerotex negr, rellenar, estrella mediana con ruedas. Revisar inserto apoyabrazos. 10000 mas inserto",67.57,Ruedas,"ruedas, rueda, estrella, rellenar"
+2021-11-24 17:42:46,"Cilindro, ruedas y chapon basculante",73.65,Ruedas,"basculante, ruedas, rueda"
+2021-11-26 20:49:32,estrella chica y ruedas usadas,0.0,Ruedas,"ruedas, rueda, estrella"
+2021-12-16 17:38:05,"1.- retapizar, contacto, tornillo, ruedas, cilindro.  2) estrella med., rellenar asiento, ruedas y 1 tornillo.",143.33,Ruedas,"cilindro, ruedas, rueda, estrella, rellenar, retapizar"
+2022-01-05 16:24:05,"1) Cilindro, ruedas, retap. y rellenar asiento y 1 inserto 2) Cambiar estructura, ruedas, rellenar completo y cilindro",83.97,Ruedas,"cilindro, ruedas, rueda, rellenar"
+2022-01-06 14:49:54,"Interno madera c/insertos, tapizar y rellenar asiento, ruedas, cilindro y contacto.",64.35,Ruedas,"cilindro, ruedas, rueda, rellenar"
+2022-01-14 19:37:19,"Chapòn, ruedas, tapizar y rellenar asiento, retocar aro.",34.35,Ruedas,"ruedas, rueda, rellenar"
+2022-01-21 18:18:06,"Revisar y presupuestar: chapòn, cilindro, ruedas, enderezar aro, interno asiento de madera, retapizado asiento c/relleno.",67.94,Ruedas,"cilindro, ruedas, rueda"
+2022-01-28 15:20:30,Colocar estrella mediana y ruedas,22.97,Ruedas,"ruedas, rueda, estrella"
+2022-02-04 16:46:25,"Revisar cilindro, ruedas y retapizado de asiento y respaldo",49.76,Ruedas,"cilindro, ruedas, rueda"
+2022-02-04 18:40:18,Cambiar ruedas,8.7,Ruedas,"ruedas, rueda"
+2022-02-10 18:51:15,Estrella y ruedas,14.49,Ruedas,"ruedas, rueda"
+2022-02-15 15:52:07,Colocar estrella mediana de las nuevas y ruedas usadas / $ 2600.- ruedas $ 900,14.49,Ruedas,"ruedas, rueda, estrella"
+2022-02-18 20:47:28,Revisar y presupuestar. Incluido el tapizado y relleno. Tiene las ruedas. Tapizado ecocuero 6168/6179.,33.82,Ruedas,"ruedas, rueda"
+2022-03-03 15:51:45,Cambiar cilindro y ( ruedas ),0.0,Ruedas,"cilindro, ruedas, rueda"
+2022-03-04 15:09:34,Ruedas y estrella mediana,22.45,Ruedas,estrella
+2022-03-08 20:04:53,Cambiar estrella y ruedas,21.43,Ruedas,"ruedas, rueda, estrella"
+2022-03-11 17:28:50,Cilindro y 5 ruedas,31.63,Ruedas,"ruedas, rueda"
+2022-03-22 16:14:11,"Revisar y arreglar, limpiar ruedas...",49.49,Ruedas,"ruedas, rueda"
+2022-03-23 16:30:24,Chapòn y ruedas usadas,19.13,Ruedas,"ruedas, rueda"
+2022-04-28 16:22:46,Rellenar y retapizar comp. ruedas y chapòn,48.35,Ruedas,"ruedas, rueda, retapizar"
+2022-05-03 13:40:28,"Retapizado completo, limpiar apòyabrazos y lubricar eje y ruedas",35.32,Ruedas,"ruedas, rueda"
+2022-05-19 19:11:59,Cambiar basculante y ruedas,36.67,Ruedas,"basculante, ruedas, rueda"
+2022-05-20 19:50:32,Ruedas y tapizado  - venuspesquera@hotmail.com enviar fc 30-68558882-6,23.38,Ruedas,
+2022-05-23 18:06:35,Cambiar ruedas y cilindro a base cromada nueva,33.83,Ruedas,"cilindro, ruedas, rueda"
+2022-05-31 18:55:14,"Cambiar cilindros, tapizado de 2 asientos, ruedas y revisar",159.95,Ruedas,"cilindro, ruedas, rueda"
+2022-06-22 18:38:16,Estrella grande y ruedas,21.79,Ruedas,"ruedas, rueda"
+2022-08-02 14:48:57,Cambio de cilindro y ruedas,0.0,Ruedas,"cilindro, ruedas, rueda"
+2022-08-11 14:29:41,"Colocar estrella cromada, ruedas y pintar aro",37.89,Ruedas,"ruedas, rueda, estrella"
+2022-08-17 18:38:51,"Revisar y presupuestar, ver faja en casco y ruedas",20.35,Ruedas,"ruedas, rueda"
+2022-08-27 16:43:15,Revisar y presupuestar / cotizar retap. de asiento en Talampaya negro/ relleno en ALTA DENSIDAD de 50 mm. de espesor y ruedas,24.39,Ruedas,"ruedas, rueda"
+2022-09-10 15:46:31,Cambio de cilindro y ruedas,27.82,Ruedas,"cilindro, ruedas, rueda"
+2022-09-23 18:17:21,Colocar 5 ruedas Alma,11.44,Ruedas,"ruedas, rueda"
+2022-10-11 16:47:00,"Rellenar y retap. asiento, pintada al aro, cilindro y 2 ruedas",31.58,Ruedas,"cilindro, ruedas, rueda"
+2022-10-29 14:36:00,Cambiar estrella y 5 ruedas,19.01,Ruedas,"ruedas, rueda, estrella"
+2022-11-15 16:24:44,Estrella chica y ruedas,28.71,Ruedas,"ruedas, rueda"
+2023-01-03 19:31:30,"Chapón, cilindro, contacto y 2 ruedas",53.19,Ruedas,"cilindro, ruedas, rueda"
+2023-01-06 14:50:39,"estrella y ruedas, revisar",18.47,Ruedas,"ruedas, rueda, estrella"
+2023-01-10 17:04:27,Cambiar 5 ruedas y reparar apoyabrazos ( tornillos cortados ),13.85,Ruedas,"ruedas, rueda"
+2023-01-13 14:48:24,"Cotizar retapizado en Talampaya Negro, estrella cromada grande y ruedas c/banda de siliconas Candy.",51.58,Ruedas,"ruedas, rueda, estrella"
+2023-01-14 15:25:09,Retapizar asiento ( 3500.-) y ruedas c/rosca.,20.84,Ruedas,"ruedas, rueda"
+2023-01-20 15:10:21,"Rellenar asiento, 5 ruedas, fijar respaldo c/bulòn y tuerca.",0.0,Ruedas,"ruedas, rueda"
+2023-01-20 20:41:29,"Estrella cromada, cilindro y ruedas",50.53,Ruedas,"cilindro, ruedas, rueda"
+2023-02-07 20:24:40,Cambiar ruedas,7.37,Ruedas,"ruedas, rueda"
+2023-02-09 19:38:13,Cambiar estrella y ruedas,21.05,Ruedas,"ruedas, rueda, estrella"
+2023-02-27 15:32:31,Cambiar chapòn y ver ruedas/,25.34,Ruedas,"ruedas, rueda"
+2023-03-01 15:00:18,"revisar y presupuestar / base completa y 4 insertos , menos 2 ruedas",74.18,Ruedas,"ruedas, rueda"
+2023-03-07 20:35:36,Revisar tope ruedas,1.29,Ruedas,"ruedas, rueda"
+2023-03-09 20:58:16,Cambiar el cilindro neumatico. Tambien revisarr y avisar si hay algo mas. + 5 RUEDAS 4500,44.59,Ruedas,cilindro
+2023-03-15 15:46:50,Tapizar y armar. Y aro y ruedas de alma,41.49,Ruedas,"ruedas, rueda"
+2023-03-17 16:30:35,Cambiar estrella por cromada. Ruedas siliconadas,46.39,Ruedas,estrella
+2023-03-17 18:41:44,Ajustar ruedas,0.0,Ruedas,"ruedas, rueda"
+2023-04-01 15:52:14,5 ruedas nuevas,9.52,Ruedas,"ruedas, rueda"
+2023-04-24 19:02:43,Cambiar cilindro. Ruedas. Cilindro y tornillo,70.78,Ruedas,cilindro
+2023-05-16 15:00:54,"Rellenar, retapizar asiento. Ruedas alma.",28.25,Ruedas,retapizar
+2023-05-16 18:47:38,Cambiar cilindro y ruedas,0.0,Ruedas,"cilindro, ruedas, rueda"
+2023-06-06 19:33:34,Armar y colocar ruedas que trajo,0.0,Ruedas,"ruedas, rueda"
+2023-07-01 13:54:39,ver ruedas y chapòn,22.68,Ruedas,"ruedas, rueda"
+2023-07-05 19:37:35,Reparar respaldo y cambiar ruedas,18.35,Ruedas,"ruedas, rueda"
+2023-07-13 19:46:30,"Ruedas Alma, retapizar asiento y pintar aro",35.6,Ruedas,retapizar
+2023-07-27 19:05:39,Cambiar cilindro en los 3 y ruedas en verdes ( nuevas ò usadas ),0.0,Ruedas,"cilindro, ruedas, rueda"
+2023-07-28 14:50:02,aro nuevo. ruedas alma. soldar T de contacto,43.12,Ruedas,"ruedas, rueda, soldar"
+2023-09-12 19:36:53,Revisar y presupuestar. Tapizado en ecocuero negro y ruedas,40.51,Ruedas,"ruedas, rueda"
+2023-09-15 16:14:47,ruedas y basculante (se baja cuando bascula),33.67,Ruedas,"basculante, ruedas, rueda"
+2023-09-22 15:29:54,Se presupuestò retapizado y almohadòn en alta densidad ( $ 40.400.- ). Ver  ruedas.,54.94,Ruedas,"ruedas, rueda"
+2023-09-28 14:28:54,cambio ruedas,10.13,Ruedas,"ruedas, rueda"
+2023-10-10 16:45:42,"Cilindro, perilla ovalina, ruedas y retapizado",55.38,Ruedas,"ruedas, rueda"
+2023-10-18 13:57:09,Cambiar estrella y ruedas,27.79,Ruedas,"ruedas, rueda, estrella"
+2023-11-02 16:33:01,Cambiar ruedas y ajustar,23.75,Ruedas,"ruedas, rueda"
+2022-04-20 18:09:09,"Silla cromada, no tiene arreglo, silla Candy : fabricar interno $ 3800.- y cilindro $ 4700.- ( si se utiliza el cilindro de la otra, se ahorra èste importe)",21.37,Silla,"cilindro, silla"
+2022-08-11 15:17:46,Silla Diva: cilindro  / Silla cajera revisar y presupuestar,58.95,Silla,cilindro
+2021-06-16 23:33:47,Soldar estructura,10.43,Soldar,
+2021-07-08 16:35:34,"1) cilindro y soldar 2) cilindro 3) cilindro, soldar y tornillo",62.68,Soldar,"cilindro, soldar"
+2021-07-28 18:22:33,cortar y soldar chapòn,18.23,Soldar,soldar
+2021-08-04 14:22:45,Soldar chapòn,11.9,Soldar,
+2021-08-30 16:45:46,Soldar asiento y hacer.,0.0,Soldar,
+2021-09-20 18:05:39,"Rellenar asiento, ruedas y soldar pieza respaldo",23.9,Soldar,"ruedas, rueda, soldar"
+2021-10-07 14:02:00,"Soldar, suplementar cilindro y cambiar cilindro",31.37,Soldar,cilindro
+2021-10-25 17:19:43,"Soldar chapòn, abrir respaldo y soldar cañito c/tuerca, 2 bulones",28.43,Soldar,soldar
+2021-12-07 15:01:13,Soldar,14.89,Soldar,
+2022-01-26 17:42:51,Revisar cilindro y chapòn (soldar),31.58,Soldar,"cilindro, soldar"
+2022-03-09 16:00:03,soldar,12.76,Soldar,soldar
+2022-03-25 15:04:31,Soldar y reforzar orejas respaldo,12.76,Soldar,
+2022-05-10 14:17:37,soldar base,11.94,Soldar,soldar
+2022-06-21 15:08:46,Cambio de cilindro y soldar chapòn,24.36,Soldar,"cilindro, soldar"
+2023-06-15 15:04:50,Cortar y soldar chapòn nuevo,15.54,Soldar,soldar
+2023-07-28 14:50:02,aro nuevo. ruedas alma. soldar T de contacto,43.12,Soldar,"ruedas, rueda, soldar"
+2023-08-08 19:27:00,Soldar una pata. Reforzar las demas,0.0,Soldar,
+2023-09-07 15:39:38,"Colocar apoyabrazos, soldar costado y rearmar",7.59,Soldar,soldar
+2023-10-18 18:23:43,Soldar respaldo c/refuerzo,5.13,Soldar,

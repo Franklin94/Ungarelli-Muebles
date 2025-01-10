@@ -1,0 +1,16 @@
+id,name,created_at,updated_at
+3,"Estanterías metálicas",NULL,NULL
+4,Racks,NULL,NULL
+5,"Muebles metálicos",NULL,NULL
+6,Seguridad,NULL,NULL
+7,"Sillas fijas",NULL,NULL
+9,"Sillas operativas",NULL,NULL
+10,"Sillones gerenciales",NULL,NULL
+11,"Sillas cajeras",NULL,NULL
+12,"Sala de espera",NULL,NULL
+13,Accesorios,NULL,NULL
+14,"Escritorios y mesas",NULL,NULL
+15,Bibliotecas,NULL,NULL
+16,Cajoneras,NULL,NULL
+17,Mostradores,NULL,NULL
+18,"OFERTAS - Sillas y Sillones Reacondicionados",NULL,NULL
